@@ -1,18 +1,4 @@
-25288102845560907
-@EmersonPrez15
-ESP32_DEVKIT_V1_E32
-ESPWROOM32, ESP32, 30 GPIOs version
-
-0
-30
-30
-@EmersonPrez15
-LDR_PANEL
-
-
-0
-8
-8
+25284658032544612
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
