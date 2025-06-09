@@ -242,7 +242,7 @@
 		(uuid "b5d7785e-1c71-4baa-a1ae-6a5a6fd8b46d")
 	)
 	(embedded_fonts no)
-	(model "E:/perez/Documentos/Altium Designer/3D Models/R10K_L8mm_0.25watts.step"
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/R10K_L8mm_0.25watts.step"
 		(offset
 			(xyz 4 0 2)
 		)

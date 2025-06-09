@@ -1,7 +1,7 @@
 (footprint "TIVA C 123"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 21.59 -64.327 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "dbc84294-03e8-4557-8b8c-45dda76211b0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "2506f06c-f652-471f-8d09-68b243d82942")
 		(effects
 			(font
 				(size 1 1)
@@ -702,7 +689,8 @@
 		(thermal_bridge_angle 45)
 		(uuid "765319b1-3997-419c-bb5a-9101b43686b0")
 	)
-	(model "E:/perez/Documentos/Altium Designer/3D Models/TIVAC123M (1).STEP"
+	(embedded_fonts no)
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/TIVAC123M (1).STEP"
 		(offset
 			(xyz -2.5 60.5 9.5)
 		)

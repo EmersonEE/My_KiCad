@@ -1,7 +1,7 @@
 (footprint "HC-06"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -2.54 -2.54 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "bee426f3-4496-408c-910e-cf59964679be")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b2d06e40-c804-448f-a4c5-4a7e54c38855")
 		(effects
 			(font
 				(size 1 1)
@@ -74,7 +61,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "7cddad08-01a0-4de6-9e2b-1738cdcf573e")
 	)
@@ -122,15 +109,16 @@
 		(remove_unused_layers no)
 		(uuid "ed6aca8e-0d98-4439-8f6f-002a6194a434")
 	)
-	(model "E:/perez/Documentos/Altium Designer/3D Models/HC-06_Bluetooth_Module.step"
+	(embedded_fonts no)
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/HC06_Modulo.STEP"
 		(offset
-			(xyz 1.23 5.5 19)
+			(xyz 29.73 38.5 35)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 -90 90)
+			(xyz -90 -90 90)
 		)
 	)
 )

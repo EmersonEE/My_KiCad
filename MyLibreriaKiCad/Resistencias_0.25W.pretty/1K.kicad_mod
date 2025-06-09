@@ -254,7 +254,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "E:/perez/Documentos/Altium Designer/3D Models/R1K_L8mm_0.25watts.step"
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/R1K_L8mm_0.25watts.step"
 		(offset
 			(xyz 4 0 2)
 		)

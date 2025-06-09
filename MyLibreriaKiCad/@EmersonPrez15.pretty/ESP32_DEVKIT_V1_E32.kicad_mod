@@ -826,15 +826,15 @@
 		(uuid "e4d2f565-25a0-48c6-be59-f4bf31ad2558")
 	)
 	(embedded_fonts no)
-	(model "/home/emerson/Documentos/KiCad/MyLibreriaKiCad/3D_Models/esp32_dev_kit_v1_asm.stp"
+	(model "/home/emerson/Documentos/My_KiCad/MyLibreriaKiCad/3D_Models/esp32_dev_kit_v1_asm.stp"
 		(offset
-			(xyz 0 -45.5 7.5)
+			(xyz 0 -45.5 3.75)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -180 180 -180)
+			(xyz -0 -0 -0)
 		)
 	)
 )

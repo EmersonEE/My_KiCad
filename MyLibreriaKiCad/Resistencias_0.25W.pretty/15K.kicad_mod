@@ -1,4 +1,4 @@
-(footprint "4.7K"
+(footprint "15K"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "4.7K"
+	(property "Value" "15K"
 		(at 3.81 2.37 0)
 		(layer "F.Fab")
 		(uuid "0fe5d38b-8d46-4435-9118-3c24556c0c11")
@@ -242,7 +242,7 @@
 		(uuid "b5d7785e-1c71-4baa-a1ae-6a5a6fd8b46d")
 	)
 	(embedded_fonts no)
-	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/R4.7K_L8mm_0.25watts.step"
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/Resistencias 0.25W/R15K_L8mm_0.25watts.step"
 		(offset
 			(xyz 4 0 2)
 		)
