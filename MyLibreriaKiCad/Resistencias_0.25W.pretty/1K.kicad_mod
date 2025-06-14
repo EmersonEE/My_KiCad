@@ -227,7 +227,7 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0 0)
-		(size 1.6 1.6)
+		(size 1.9 1.9)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -235,26 +235,14 @@
 	)
 	(pad "2" thru_hole oval
 		(at 8 0)
-		(size 1.6 1.6)
+		(size 1.9 1.9)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "b5d7785e-1c71-4baa-a1ae-6a5a6fd8b46d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
-		(hide yes)
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/R1K_L8mm_0.25watts.step"
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/Resistencias 0.25W/R1K_L8mm_0.25watts.step"
 		(offset
 			(xyz 4 0 2)
 		)

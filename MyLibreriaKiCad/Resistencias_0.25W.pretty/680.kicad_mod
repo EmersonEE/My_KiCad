@@ -227,7 +227,7 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0 0)
-		(size 1.6 1.6)
+		(size 1.9 1.9)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -235,20 +235,14 @@
 	)
 	(pad "2" thru_hole oval
 		(at 8 0)
-		(size 1.6 1.6)
+		(size 1.9 1.9)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "b5d7785e-1c71-4baa-a1ae-6a5a6fd8b46d")
 	)
-	(group ""
-		(uuid "56544c2f-bdac-43f4-9f48-77c53307442b")
-		(members "26336cb5-b9c7-4e21-9c47-7c87d307a913" "7b98a273-1119-4425-8b9e-43a20e364bcb"
-			"e960ba1a-f402-4bdc-865a-518b14928ed5" "ee9efa6b-256c-4957-a863-fd65cf469171"
-		)
-	)
 	(embedded_fonts no)
-	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/R680_L8mm_0.25watts.step"
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/Resistencias 0.25W/R680_L8mm_0.25watts.step"
 		(offset
 			(xyz 4 0 2)
 		)
