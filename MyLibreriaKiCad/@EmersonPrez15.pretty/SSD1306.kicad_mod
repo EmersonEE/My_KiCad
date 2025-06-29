@@ -1,0 +1,204 @@
+(footprint "SSD1306"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
+	(tags "Through hole pin header THT 1x04 2.54mm single row")
+	(property "Reference" "REF**"
+		(at -6.19 0.5 90)
+		(layer "F.SilkS")
+		(uuid "545e1b01-906c-48f4-a8b0-cf61582c2d1a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SSD1306"
+		(at -2.5 -2 180)
+		(layer "F.Fab")
+		(uuid "ce0724d7-a580-4602-a9f0-7a101ce22c45")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51ea1a5b-4ea1-479a-af6a-120463ecf42c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a4dcb78-5f41-4b5d-a74f-c6d25f27180c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.19 -0.88)
+		(end 5.19 -0.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d8220a08-3947-41f1-8387-c3f7452a4504")
+	)
+	(fp_line
+		(start -5.19 1.88)
+		(end -5.19 -0.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f90fdd5-0e04-4301-a05c-816a79d3d23e")
+	)
+	(fp_line
+		(start -5.19 1.88)
+		(end -5.19 0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d67cd71c-68ae-4d9b-9b15-20e1435a18fb")
+	)
+	(fp_line
+		(start -5.19 1.88)
+		(end 5.19 1.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6761ce2f-98a2-4973-bbc0-52398bf05867")
+	)
+	(fp_line
+		(start 5.19 1.88)
+		(end 5.19 -0.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7ee8ec15-c98f-4596-8333-bfa2f9b8680f")
+	)
+	(fp_line
+		(start -5.58 -1.27)
+		(end -5.58 2.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a0a8fec1-a2dd-4bab-ae5f-469d7c21d822")
+	)
+	(fp_line
+		(start -5.58 2.27)
+		(end 5.58 2.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8542dbff-8f93-4d53-8c5d-20e331bb4b8d")
+	)
+	(fp_line
+		(start 5.58 -1.27)
+		(end -5.58 -1.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6a7c1a27-9a38-4854-b98a-8d511a04a45a")
+	)
+	(fp_line
+		(start 5.58 2.27)
+		(end 5.58 -1.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "57ab2460-dbaf-4e72-8319-75f94ce465ac")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.5 -4 180)
+		(layer "F.Fab")
+		(uuid "f017ebbd-ccd1-41bd-a591-a89d61ffc560")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -3.81 0.5 90)
+		(size 2.2 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "e7cc33e6-68cd-49df-b472-1d8c258767bd")
+	)
+	(pad "2" thru_hole roundrect
+		(at -1.27 0.5 90)
+		(size 2.2 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "bcfe4f04-97b2-4069-bd25-c31a53e844cf")
+	)
+	(pad "3" thru_hole roundrect
+		(at 1.27 0.5 90)
+		(size 2.2 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "03554fe4-8abe-46e9-9656-235fbcd5adc5")
+	)
+	(pad "4" thru_hole roundrect
+		(at 3.81 0.5 90)
+		(size 2.2 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "678775d9-3e08-4791-a0e3-9172a31e5869")
+	)
+	(embedded_fonts no)
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/SSD1306_OLED_Display(128x64).step"
+		(offset
+			(xyz 0 -12.25 3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
