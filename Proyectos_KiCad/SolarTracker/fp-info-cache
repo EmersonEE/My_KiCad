@@ -1,4 +1,4 @@
-25820655882639278
+25824159197719073
 @EmersonPrez15
 ALTOVOLTAJE
 
@@ -63,6 +63,13 @@ TRS audio jack stereo horizontal
 5
 5
 @EmersonPrez15
+LCD ST7920
+STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
+AG12864E Graphics Display 128x64 Ampire
+0
+24
+20
+@EmersonPrez15
 LDR_PANEL
 
 
@@ -111,6 +118,13 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
 0
 6
 6
+@EmersonPrez15
+MP1584_Module
+
+
+0
+8
+4
 @EmersonPrez15
 SSD1306
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
