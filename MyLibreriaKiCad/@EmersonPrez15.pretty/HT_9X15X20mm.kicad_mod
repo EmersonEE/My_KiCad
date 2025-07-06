@@ -1,0 +1,210 @@
+(footprint "HT_9X15X20mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ab7a4674-5fa4-4ad0-a3ca-087062bc08fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "HT_9X15X20mm"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "49d8fb73-abbe-425f-9aaf-8a009d5fc848")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7d40c25-9392-42d8-94be-b5cd0def09d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4afce77d-78aa-4182-a30f-c3f844e549d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start 0 -9.5)
+		(end 0 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a71df32d-bdfd-46c9-8d59-38aa389b9324")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "51e0d15d-4e5a-4d81-a78b-ab3af73d0fc2")
+	)
+	(fp_line
+		(start 0 0)
+		(end 2 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5a9cc081-7bc7-46cf-85a2-205900ed293e")
+	)
+	(fp_line
+		(start 2 -6.5)
+		(end 13.25 -6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c82ccbde-cf5a-4d81-a1c8-0c7366ca4ce4")
+	)
+	(fp_line
+		(start 2 -6)
+		(end 2 -6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b54ed3aa-a058-44df-bdac-d8199ecf5f7c")
+	)
+	(fp_line
+		(start 2 0)
+		(end 2 -6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3eb90d13-f2e7-4c66-8cf4-d218887ecbe4")
+	)
+	(fp_line
+		(start 13.25 -6)
+		(end 13.25 -6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f3606d95-c096-49d8-a077-a298bc8a467a")
+	)
+	(fp_line
+		(start 13.25 -6)
+		(end 13.25 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "87bdec60-7a41-4024-b2a3-83541fa448ee")
+	)
+	(fp_line
+		(start 13.25 0)
+		(end 15.25 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b7b3afcc-865d-4de4-82c5-35d65341f9c4")
+	)
+	(fp_line
+		(start 15.25 -9.5)
+		(end 0 -9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dc4f6229-558c-4b30-a077-ae960545c71e")
+	)
+	(fp_line
+		(start 15.25 -9.5)
+		(end 15.25 -9.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e48bcde6-3c6a-4239-bb60-506b25b526b4")
+	)
+	(fp_line
+		(start 15.25 -9)
+		(end 15.25 -9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9e7c7347-1fed-41cc-8ed5-5c49047b84e8")
+	)
+	(fp_line
+		(start 15.25 0)
+		(end 15.25 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "97394f0e-1794-4658-b4ec-a80d173aef01")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4d991cf0-c983-4c47-85b7-7e4ea9e16990")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${MODEL_ALTIUM}/Heat_Sink 3mm screw 9X15X20mm.step"
+		(offset
+			(xyz 15 9.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)

@@ -195,9 +195,9 @@
 		(uuid "8acd623b-78ac-4f62-aec0-9179e7817b70")
 	)
 	(embedded_fonts no)
-	(model "${MODEL_ALTIUM}/LEDS 5mm/models3d/LEDs/LED D5 - White.step"
+	(model "${MODEL_ALTIUM}/LED_D5.0mm_White.step"
 		(offset
-			(xyz 1.25 0 0.25)
+			(xyz 0 0 0.25)
 		)
 		(scale
 			(xyz 1 1 1)

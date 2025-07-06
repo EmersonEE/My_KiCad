@@ -195,15 +195,15 @@
 		(uuid "8acd623b-78ac-4f62-aec0-9179e7817b70")
 	)
 	(embedded_fonts no)
-	(model "${MODEL_ALTIUM}/LEDS 5mm/models3d/LEDs/LED D5 - Yellow.step"
+	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm_Yellow.step"
 		(offset
-			(xyz 1.25 0 0.25)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz 0 0 0)
 		)
 	)
 )
