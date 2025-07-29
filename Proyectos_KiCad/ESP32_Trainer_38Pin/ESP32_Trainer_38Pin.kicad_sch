@@ -4291,6 +4291,10 @@
 		(uuid "d95d63a9-46a7-4ba5-87a9-bb0aa839dda3")
 	)
 	(no_connect
+		(at 57.15 111.76)
+		(uuid "e45fe386-8735-4ced-883e-0514b12f1489")
+	)
+	(no_connect
 		(at 40.64 134.62)
 		(uuid "e49bb332-3430-417c-9114-a5173f536029")
 	)
@@ -4365,16 +4369,6 @@
 			(type default)
 		)
 		(uuid "0e483f7e-ac95-4fba-9708-44f8d10e1702")
-	)
-	(wire
-		(pts
-			(xy 54.61 45.72) (xy 54.61 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12c45d63-528c-4f2c-b9f0-0470320c09e1")
 	)
 	(wire
 		(pts
@@ -4485,16 +4479,6 @@
 			(type default)
 		)
 		(uuid "24929c3d-fa23-4b27-b9df-5c20de848700")
-	)
-	(wire
-		(pts
-			(xy 54.61 38.1) (xy 54.61 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "271a7e05-b2b9-43e9-a0ac-0b416c09e763")
 	)
 	(wire
 		(pts
@@ -5188,16 +5172,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 30.48) (xy 54.61 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af1d1b15-6ad2-45c2-9024-37fd55387603")
-	)
-	(wire
-		(pts
 			(xy 233.68 139.7) (xy 236.22 139.7)
 		)
 		(stroke
@@ -5566,7 +5540,7 @@
 		)
 		(uuid "ffd5c5d3-b727-4c51-83b8-bfc524276850")
 	)
-	(global_label "PWM_2"
+	(global_label "PWM_1"
 		(shape input)
 		(at 232.41 86.36 180)
 		(fields_autoplaced yes)
@@ -5912,7 +5886,7 @@
 			)
 		)
 	)
-	(global_label "PUSH_1"
+	(global_label "PUSH_2"
 		(shape input)
 		(at 38.1 90.17 0)
 		(fields_autoplaced yes)
@@ -5934,7 +5908,7 @@
 			)
 		)
 	)
-	(global_label "PWM_1"
+	(global_label "PWM_2"
 		(shape input)
 		(at 233.68 139.7 180)
 		(fields_autoplaced yes)
@@ -6216,7 +6190,7 @@
 			)
 		)
 	)
-	(global_label "PUSH_2"
+	(global_label "PUSH_1"
 		(shape input)
 		(at 62.23 90.17 0)
 		(fields_autoplaced yes)
@@ -6684,7 +6658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistencias_0.25W:470"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 50.8 95.25 0)
 			(effects
 				(font
@@ -6825,7 +6799,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 154.94 30.48 0)
 			(effects
 				(font
@@ -6868,6 +6842,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 240.03 38.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c9b0f61-c39f-4b2b-b31e-93eeb68e1f78")
+		(property "Reference" "#PWR08"
+			(at 240.03 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 240.03 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 240.03 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "26692891-9903-4815-b807-276ae664072d")
+		)
+		(instances
+			(project "ESP32_Trainer_38Pin"
+				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 176.53 27.94 0)
 		(unit 1)
@@ -6895,7 +6935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 176.53 27.94 0)
 			(effects
 				(font
@@ -7377,7 +7417,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 160.02 30.48 0)
 			(effects
 				(font
@@ -7733,7 +7773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 191.77 27.94 0)
 			(effects
 				(font
@@ -8348,7 +8388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
+		(property "Footprint" "PCM_LED_THT_AKL:LED_D3.0mm"
 			(at 191.77 35.56 90)
 			(effects
 				(font
@@ -8394,91 +8434,6 @@
 			(project "ESP32_Trainer_38Pin"
 				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
 					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Small")
-		(at 54.61 43.18 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b5312a6-abe0-416b-9385-53f17fa117ca")
-		(property "Reference" "D1"
-			(at 57.15 42.4814 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 57.15 44.3865 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
-			(at 54.61 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode, small symbol"
-			(at 54.61 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 54.61 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "67d09177-64be-4766-847b-58f97ebfadeb")
-		)
-		(pin "1"
-			(uuid "1b18dfa4-f17a-4504-b50e-9f0458c73a34")
-		)
-		(instances
-			(project ""
-				(path "/01d3c571-7a14-4b32-b819-938eaae5f9a6"
-					(reference "D?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
-					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -8783,7 +8738,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 184.15 27.94 0)
 			(effects
 				(font
@@ -9401,7 +9356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 237.49 86.36 0)
 			(effects
 				(font
@@ -9444,82 +9399,6 @@
 			(project ""
 				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 54.61 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "73f17143-6d9e-4260-9d2f-48c6c78c0b07")
-		(property "Reference" "R3"
-			(at 57.15 34.2899 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1K"
-			(at 57.15 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 54.61 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 54.61 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7db7cbb1-98aa-43b3-a6be-36a60c6b60d5")
-		)
-		(pin "1"
-			(uuid "71d0e5d1-05b7-4072-ac9c-c2a2dc35921b")
-		)
-		(instances
-			(project ""
-				(path "/01d3c571-7a14-4b32-b819-938eaae5f9a6"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -9968,7 +9847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
+		(property "Footprint" "PCM_LED_THT_AKL:LED_D3.0mm"
 			(at 176.53 35.56 90)
 			(effects
 				(font
@@ -10198,7 +10077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 238.76 139.7 0)
 			(effects
 				(font
@@ -10764,144 +10643,6 @@
 			(project "ESP32_Trainer_38Pin"
 				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 54.61 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad8f9763-337f-4a14-b382-20e8b2f13c46")
-		(property "Reference" "#PWR012"
-			(at 54.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 54.61 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 54.61 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 54.61 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c3cd5e8-7083-4808-ab0a-415f2402032b")
-		)
-		(instances
-			(project ""
-				(path "/01d3c571-7a14-4b32-b819-938eaae5f9a6"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "ESP32_Trainer_38Pin"
-				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 240.03 38.1 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b11fdc2c-0dad-47b6-b6c4-e9c083bcbbd3")
-		(property "Reference" "#PWR032"
-			(at 240.03 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 240.03 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 240.03 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 240.03 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0006db60-ba76-4a25-99b9-920b58730e5d")
-		)
-		(instances
-			(project "ESP32_Trainer_38Pin"
-				(path "/6e77fa60-e134-494b-90a6-2a44fa37d9b4"
-					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -11963,7 +11704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 149.86 30.48 0)
 			(effects
 				(font
@@ -12171,7 +11912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistencias_0.25W:470"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 26.67 95.25 0)
 			(effects
 				(font
@@ -12321,7 +12062,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
+		(property "Footprint" "PCM_LED_THT_AKL:LED_D3.0mm"
 			(at 184.15 35.56 90)
 			(effects
 				(font
