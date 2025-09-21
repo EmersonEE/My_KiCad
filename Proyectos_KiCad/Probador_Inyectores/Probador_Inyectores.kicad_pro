@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.8,
-          "width": 2.8
+          "drill": 0.9,
+          "height": 1.9,
+          "width": 1.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.75
+          "min_clearance": 0.6
         }
       },
       "diff_pair_dimensions": [
@@ -147,7 +147,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": true,
+          "td_ontrackend": false,
           "td_onvia": true
         }
       ],
@@ -188,10 +188,14 @@
       ],
       "track_widths": [
         0.0,
+        0.5,
         0.6,
         0.7,
         1.0,
-        1.5
+        1.254,
+        1.5,
+        1.75,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -225,7 +229,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 2.0,
+          "diameter": 1.9,
           "drill": 0.8
         }
       ],
@@ -472,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32_Trainer_38Pin.kicad_pro",
+    "filename": "Probador_Inyectores.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -632,7 +636,7 @@
   },
   "sheets": [
     [
-      "6e77fa60-e134-494b-90a6-2a44fa37d9b4",
+      "cd521cb3-7b60-4fb6-a8c8-1dfe268364b3",
       "Root"
     ]
   ],
