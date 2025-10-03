@@ -60,20 +60,6 @@
 		(layer "F.SilkS")
 		(uuid "ada67bd9-d8bf-422e-884b-a61669774077")
 	)
-	(pad "" np_thru_hole circle
-		(at 4.8001 1)
-		(size 3 3)
-		(drill 3)
-		(layers "F&B.Cu" "*.Mask")
-		(uuid "c6a7c096-0627-4651-a6ba-fbbb135c5106")
-	)
-	(pad "" np_thru_hole circle
-		(at 35.1998 17)
-		(size 3 3)
-		(drill 3)
-		(layers "F&B.Cu" "*.Mask")
-		(uuid "47351314-02c6-4445-b6d7-3e3e8a2f9df9")
-	)
 	(pad "1" thru_hole rect
 		(at 0 0)
 		(size 3 3)
