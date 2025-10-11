@@ -115,7 +115,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 54.61) (xy 118.11 54.61)
+			(xy 60.96 53.34) (xy 69.85 53.34)
 		)
 		(stroke
 			(width 0)
@@ -125,7 +125,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 62.23) (xy 118.11 62.23)
+			(xy 60.96 60.96) (xy 69.85 60.96)
 		)
 		(stroke
 			(width 0)
@@ -135,7 +135,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 44.45) (xy 118.11 44.45)
+			(xy 60.96 43.18) (xy 69.85 43.18)
 		)
 		(stroke
 			(width 0)
@@ -145,7 +145,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 63.5) (xy 118.11 63.5)
+			(xy 60.96 62.23) (xy 69.85 62.23)
 		)
 		(stroke
 			(width 0)
@@ -155,7 +155,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 43.18) (xy 118.11 43.18)
+			(xy 60.96 41.91) (xy 69.85 41.91)
 		)
 		(stroke
 			(width 0)
@@ -165,7 +165,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 78.74) (xy 118.11 78.74)
+			(xy 60.96 77.47) (xy 69.85 77.47)
 		)
 		(stroke
 			(width 0)
@@ -175,7 +175,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 81.28) (xy 118.11 81.28)
+			(xy 60.96 80.01) (xy 69.85 80.01)
 		)
 		(stroke
 			(width 0)
@@ -185,7 +185,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 57.15) (xy 118.11 57.15)
+			(xy 60.96 55.88) (xy 69.85 55.88)
 		)
 		(stroke
 			(width 0)
@@ -195,7 +195,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 50.8) (xy 118.11 50.8)
+			(xy 60.96 49.53) (xy 69.85 49.53)
 		)
 		(stroke
 			(width 0)
@@ -205,7 +205,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 49.53) (xy 118.11 49.53)
+			(xy 60.96 48.26) (xy 69.85 48.26)
 		)
 		(stroke
 			(width 0)
@@ -215,7 +215,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 41.91) (xy 118.11 41.91)
+			(xy 60.96 40.64) (xy 69.85 40.64)
 		)
 		(stroke
 			(width 0)
@@ -225,7 +225,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 60.96) (xy 118.11 60.96)
+			(xy 60.96 59.69) (xy 69.85 59.69)
 		)
 		(stroke
 			(width 0)
@@ -235,7 +235,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 55.88) (xy 118.11 55.88)
+			(xy 60.96 54.61) (xy 69.85 54.61)
 		)
 		(stroke
 			(width 0)
@@ -245,7 +245,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 48.26) (xy 118.11 48.26)
+			(xy 60.96 46.99) (xy 69.85 46.99)
 		)
 		(stroke
 			(width 0)
@@ -522,7 +522,7 @@
 		)
 	)
 	(sheet
-		(at 73.66 39.37)
+		(at 25.4 38.1)
 		(size 35.56 46.99)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -538,7 +538,7 @@
 		)
 		(uuid "044a0958-6159-495b-a909-ba0a7661f86d")
 		(property "Sheetname" "MCU"
-			(at 73.66 38.6584 0)
+			(at 25.4 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -547,7 +547,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 73.66 86.9446 0)
+			(at 25.4 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -556,7 +556,7 @@
 			)
 		)
 		(pin "DIR_M1" output
-			(at 109.22 44.45 0)
+			(at 60.96 43.18 0)
 			(uuid "7adf8484-4eee-4def-a8da-eafcb1871763")
 			(effects
 				(font
@@ -566,7 +566,7 @@
 			)
 		)
 		(pin "DIR_M2" output
-			(at 109.22 50.8 0)
+			(at 60.96 49.53 0)
 			(uuid "f7c941bf-aab9-4f30-aaa0-d12d09c26ad2")
 			(effects
 				(font
@@ -576,7 +576,7 @@
 			)
 		)
 		(pin "DIR_M3" output
-			(at 109.22 57.15 0)
+			(at 60.96 55.88 0)
 			(uuid "05a7e634-2664-4c7b-b7b0-ec7ab960ebff")
 			(effects
 				(font
@@ -586,7 +586,7 @@
 			)
 		)
 		(pin "DIR_M4" output
-			(at 109.22 63.5 0)
+			(at 60.96 62.23 0)
 			(uuid "d19a2240-46e5-4b2a-900b-a9a1b9b6823c")
 			(effects
 				(font
@@ -596,7 +596,7 @@
 			)
 		)
 		(pin "EN_M1" output
-			(at 109.22 41.91 0)
+			(at 60.96 40.64 0)
 			(uuid "8cafa85e-5068-4033-ba1b-e713b9ce4a59")
 			(effects
 				(font
@@ -606,7 +606,7 @@
 			)
 		)
 		(pin "EN_M2" output
-			(at 109.22 48.26 0)
+			(at 60.96 46.99 0)
 			(uuid "c1d8a388-e9c0-4012-9e32-c36e1044dfe3")
 			(effects
 				(font
@@ -616,7 +616,7 @@
 			)
 		)
 		(pin "EN_M3" output
-			(at 109.22 54.61 0)
+			(at 60.96 53.34 0)
 			(uuid "7b510fde-6f9b-4dbd-a28a-f926b6ff4885")
 			(effects
 				(font
@@ -626,7 +626,7 @@
 			)
 		)
 		(pin "EN_M4" output
-			(at 109.22 60.96 0)
+			(at 60.96 59.69 0)
 			(uuid "f44dd320-d779-4791-99fb-200dd071f756")
 			(effects
 				(font
@@ -636,7 +636,7 @@
 			)
 		)
 		(pin "SERVO_1" output
-			(at 109.22 78.74 0)
+			(at 60.96 77.47 0)
 			(uuid "260bdd02-1c0e-4e13-85c0-b393006af15b")
 			(effects
 				(font
@@ -646,7 +646,7 @@
 			)
 		)
 		(pin "SERVO_2" output
-			(at 109.22 81.28 0)
+			(at 60.96 80.01 0)
 			(uuid "e56acc17-6c76-45ad-bb44-b8b7a26819db")
 			(effects
 				(font
@@ -656,7 +656,7 @@
 			)
 		)
 		(pin "STEP_M1" output
-			(at 109.22 43.18 0)
+			(at 60.96 41.91 0)
 			(uuid "eb606917-1b37-4956-9dcb-b23bf20c1bdf")
 			(effects
 				(font
@@ -666,7 +666,7 @@
 			)
 		)
 		(pin "STEP_M2" output
-			(at 109.22 49.53 0)
+			(at 60.96 48.26 0)
 			(uuid "8545f82f-5aba-4e79-984e-e3df04b492f2")
 			(effects
 				(font
@@ -676,7 +676,7 @@
 			)
 		)
 		(pin "STEP_M3" output
-			(at 109.22 55.88 0)
+			(at 60.96 54.61 0)
 			(uuid "9fd3b654-76ee-4915-8a0f-89cdb83cf888")
 			(effects
 				(font
@@ -686,7 +686,7 @@
 			)
 		)
 		(pin "STEP_M4" output
-			(at 109.22 62.23 0)
+			(at 60.96 60.96 0)
 			(uuid "5afd661d-498d-49ac-bbad-5e4a3cb2c0ef")
 			(effects
 				(font
@@ -704,7 +704,7 @@
 		)
 	)
 	(sheet
-		(at 118.11 72.39)
+		(at 69.85 71.12)
 		(size 12.7 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -720,7 +720,7 @@
 		)
 		(uuid "66f6dc61-178f-40e0-9c59-8a753ed7441b")
 		(property "Sheetname" "Servo"
-			(at 118.11 71.6784 0)
+			(at 69.85 70.4084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -729,7 +729,7 @@
 			)
 		)
 		(property "Sheetfile" "Servo.kicad_sch"
-			(at 118.11 86.9446 0)
+			(at 69.85 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -738,7 +738,7 @@
 			)
 		)
 		(pin "SERVO_1" input
-			(at 118.11 78.74 180)
+			(at 69.85 77.47 180)
 			(uuid "5352b636-7489-4b49-a396-010743937fbd")
 			(effects
 				(font
@@ -748,7 +748,7 @@
 			)
 		)
 		(pin "SERVO_2" input
-			(at 118.11 81.28 180)
+			(at 69.85 80.01 180)
 			(uuid "3bbc814b-53e0-46dc-9b4b-8085b07dcfda")
 			(effects
 				(font
@@ -766,7 +766,7 @@
 		)
 	)
 	(sheet
-		(at 81.28 26.67)
+		(at 33.02 25.4)
 		(size 12.7 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -782,7 +782,7 @@
 		)
 		(uuid "99c27b5a-0160-4885-9214-c607730b099d")
 		(property "Sheetname" "Power"
-			(at 81.28 25.9584 0)
+			(at 33.02 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -791,7 +791,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 81.28 36.1446 0)
+			(at 33.02 34.8746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -808,7 +808,7 @@
 		)
 	)
 	(sheet
-		(at 118.11 39.37)
+		(at 69.85 38.1)
 		(size 17.78 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -824,7 +824,7 @@
 		)
 		(uuid "c539fd8b-5ade-496c-9784-b4d877920457")
 		(property "Sheetname" "Drivers_NEMA"
-			(at 118.11 38.6584 0)
+			(at 69.85 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -833,7 +833,7 @@
 			)
 		)
 		(property "Sheetfile" "Drivers_NEMA.kicad_sch"
-			(at 118.11 66.6246 0)
+			(at 69.85 65.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -842,7 +842,7 @@
 			)
 		)
 		(pin "DIR_M1" input
-			(at 118.11 44.45 180)
+			(at 69.85 43.18 180)
 			(uuid "9aed141b-90fb-45f2-a353-265c43f20682")
 			(effects
 				(font
@@ -852,7 +852,7 @@
 			)
 		)
 		(pin "DIR_M2" input
-			(at 118.11 50.8 180)
+			(at 69.85 49.53 180)
 			(uuid "1a99e572-8bf2-4ee7-a337-5ebbf614fad7")
 			(effects
 				(font
@@ -862,7 +862,7 @@
 			)
 		)
 		(pin "DIR_M3" input
-			(at 118.11 57.15 180)
+			(at 69.85 55.88 180)
 			(uuid "54e793cd-76f5-49f4-9b2c-fd100a618192")
 			(effects
 				(font
@@ -872,7 +872,7 @@
 			)
 		)
 		(pin "DIR_M4" input
-			(at 118.11 63.5 180)
+			(at 69.85 62.23 180)
 			(uuid "61215f1b-0b95-4c9a-b523-bf93ebd70c9e")
 			(effects
 				(font
@@ -882,7 +882,7 @@
 			)
 		)
 		(pin "EN_M1" input
-			(at 118.11 41.91 180)
+			(at 69.85 40.64 180)
 			(uuid "87ea6a33-fe4a-4ae0-9729-b6190343ff60")
 			(effects
 				(font
@@ -892,7 +892,7 @@
 			)
 		)
 		(pin "EN_M2" input
-			(at 118.11 48.26 180)
+			(at 69.85 46.99 180)
 			(uuid "1f164948-088e-4255-b749-aa0db169b8ad")
 			(effects
 				(font
@@ -902,7 +902,7 @@
 			)
 		)
 		(pin "EN_M3" input
-			(at 118.11 54.61 180)
+			(at 69.85 53.34 180)
 			(uuid "9cf33112-220a-4cae-bd45-724317f90d8f")
 			(effects
 				(font
@@ -912,7 +912,7 @@
 			)
 		)
 		(pin "EN_M4" input
-			(at 118.11 60.96 180)
+			(at 69.85 59.69 180)
 			(uuid "0c4d09d7-8783-467b-b239-a650398d9593")
 			(effects
 				(font
@@ -922,7 +922,7 @@
 			)
 		)
 		(pin "STEP_M1" input
-			(at 118.11 43.18 180)
+			(at 69.85 41.91 180)
 			(uuid "494cc8e0-8bb9-4a28-9545-aa3579b71a80")
 			(effects
 				(font
@@ -932,7 +932,7 @@
 			)
 		)
 		(pin "STEP_M2" input
-			(at 118.11 49.53 180)
+			(at 69.85 48.26 180)
 			(uuid "2ab8f9d5-a1dd-445e-a7ca-c98046e881bb")
 			(effects
 				(font
@@ -942,7 +942,7 @@
 			)
 		)
 		(pin "STEP_M3" input
-			(at 118.11 55.88 180)
+			(at 69.85 54.61 180)
 			(uuid "8f7b293e-0f89-459c-8b6c-350161c05481")
 			(effects
 				(font
@@ -952,7 +952,7 @@
 			)
 		)
 		(pin "STEP_M4" input
-			(at 118.11 62.23 180)
+			(at 69.85 60.96 180)
 			(uuid "1bab6703-3b5b-4672-9333-9ddb890cdedc")
 			(effects
 				(font

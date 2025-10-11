@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.2,
-          "width": 1.74
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,16 +48,10 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 1.0
+          "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -147,7 +141,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": true,
+          "td_ontrackend": false,
           "td_onvia": true
         }
       ],
@@ -186,13 +180,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.6,
-        0.7,
-        1.0,
-        2.0
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -219,16 +207,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        },
-        {
-          "diameter": 1.8,
-          "drill": 0.8
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -472,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Placa_Eddy.kicad_pro",
+    "filename": "MaxESP_M.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -632,8 +611,24 @@
   },
   "sheets": [
     [
-      "10c58c04-468b-4411-91e0-02248c2df693",
+      "9bbbe45b-70f7-4564-8230-c978b99bc2de",
       "Root"
+    ],
+    [
+      "a946a0e7-bb5e-408a-b1f7-3b650768a3fc",
+      "ESP32S"
+    ],
+    [
+      "1fe8059f-5ab0-47c1-b9e9-96f919a45697",
+      "Drivers"
+    ],
+    [
+      "4da14797-2074-4c8b-9d2c-55e216ea412b",
+      "Power"
+    ],
+    [
+      "aa4be16f-bc62-4362-9873-4908fcfd1e6c",
+      "Misc"
     ]
   ],
   "text_variables": {}
