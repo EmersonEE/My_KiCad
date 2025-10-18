@@ -1837,7 +1837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P10.16mm_Horizontal"
 			(at 60.96 41.91 0)
 			(effects
 				(font
@@ -2379,7 +2379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P10.16mm_Horizontal"
 			(at 60.96 52.07 0)
 			(effects
 				(font
@@ -2728,7 +2728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P10.16mm_Horizontal"
 			(at 73.66 41.91 0)
 			(effects
 				(font
@@ -2998,7 +2998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P10.16mm_Horizontal"
 			(at 73.66 52.07 0)
 			(effects
 				(font

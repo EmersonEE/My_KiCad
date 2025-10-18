@@ -1,0 +1,217 @@
+(footprint "ACS712-20A"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 -22.552 0)
+		(layer "F.SilkS")
+		(uuid "9c777d5e-423a-4624-a0f4-bd8b7e9b8b7a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ACS712-20A"
+		(at 0 11.122 0)
+		(layer "F.Fab")
+		(uuid "94de4f30-6017-43f1-9cf9-b426c716a57e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22da5436-5972-441e-8a36-200c6723e1cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3162129-8d0d-4363-b966-e08d4095f443")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -6.35 -21.59)
+		(end 6.35 10.16)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "eab5b726-4012-4123-b354-93eca8c0ffa3")
+	)
+	(fp_rect
+		(start -3.79 -17.76)
+		(end 3.79 8.87)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9c3743a3-9a7c-4fbe-9622-d6c6e5d2ecf3")
+	)
+	(fp_text user "Out"
+		(at -0.438 5.842 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6d295600-d0cb-457a-a354-ae66df34dbac")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(fp_text user "Vcc"
+		(at -2.978 5.842 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9474697d-e715-4472-b4c5-0ba7d5ffd95d")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(fp_text user "20A"
+		(at -1.778 -3.74 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ab0002ad-8cc8-4d44-aada-83d8ca9beed0")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(fp_text user "Gnd"
+		(at 2.102 5.842 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c9449383-d0ed-4778-a935-c9d5bc064367")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(fp_text user "ACS712"
+		(at -3.81 -6.28 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f3772b85-7a32-4bb7-871c-20cd4a42360e")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "90039e7f-526f-4ad6-87e5-e8738452cde4")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -2.54 7.62)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "c5da89b5-f912-41ad-b485-8bc3e476b69c")
+	)
+	(pad "2" thru_hole oval
+		(at 0 7.62)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "16523d4a-d871-4723-8058-c1bd4845e434")
+	)
+	(pad "3" thru_hole oval
+		(at 2.54 7.62)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "9b3c1ce1-05f1-42ec-a725-baafc5425883")
+	)
+	(pad "4" thru_hole oval
+		(at -2.54 -16.51)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "aa5e16b2-1f46-4075-80a5-2cb115ba0b3a")
+	)
+	(pad "5" thru_hole oval
+		(at 2.54 -16.51)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "68468372-ea5e-4e52-8746-31ffeb4a7faa")
+	)
+	(embedded_fonts no)
+	(model "/mnt/DiscoPrincipal/perez/Documentos/Altium Designer/3D Models/acs712.STEP"
+		(offset
+			(xyz 0 5.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
