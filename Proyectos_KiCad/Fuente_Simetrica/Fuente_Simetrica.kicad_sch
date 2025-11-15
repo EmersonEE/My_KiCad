@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 78.74 137.16)
-		(size 12.7 3.81)
+		(at 74.93 128.27)
+		(size 19.05 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "289e674f-caf2-4b7f-b345-452fb49a5f32")
 		(property "Sheetname" "VCC+_POWER"
-			(at 78.74 136.4484 0)
+			(at 74.93 127.5584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "POSITE_POWER.kicad_sch"
-			(at 78.74 141.5546 0)
+			(at 74.93 145.3646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,8 +90,8 @@
 		)
 	)
 	(sheet
-		(at 129.54 106.68)
-		(size 12.7 3.81)
+		(at 110.49 96.52)
+		(size 12.7 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -106,7 +106,7 @@
 		)
 		(uuid "9a7ac174-b1bb-43a5-b786-27cd81497b98")
 		(property "Sheetname" "CONN"
-			(at 129.54 105.9684 0)
+			(at 110.49 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "CONN.kicad_sch"
-			(at 129.54 111.0746 0)
+			(at 110.49 112.3446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -132,7 +132,7 @@
 		)
 	)
 	(sheet
-		(at 128.27 133.35)
+		(at 109.22 125.73)
 		(size 12.7 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -148,7 +148,7 @@
 		)
 		(uuid "c3322901-986f-4d25-9ff6-eab7a5b17e2e")
 		(property "Sheetname" "VCC-_POWER"
-			(at 128.27 132.6384 0)
+			(at 109.22 125.0184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -157,7 +157,7 @@
 			)
 		)
 		(property "Sheetfile" "VCC-_POWER.kicad_sch"
-			(at 128.27 152.9846 0)
+			(at 109.22 145.3646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -174,8 +174,8 @@
 		)
 	)
 	(sheet
-		(at 74.93 110.49)
-		(size 12.7 3.81)
+		(at 74.93 96.52)
+		(size 19.05 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -190,7 +190,7 @@
 		)
 		(uuid "fa311f18-8682-45d4-85b4-416ffa5e8d42")
 		(property "Sheetname" "POWER_AC"
-			(at 74.93 109.7784 0)
+			(at 74.93 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -199,7 +199,7 @@
 			)
 		)
 		(property "Sheetfile" "POWER_AC.kicad_sch"
-			(at 74.93 114.8846 0)
+			(at 74.93 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)

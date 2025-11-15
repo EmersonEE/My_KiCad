@@ -2022,7 +2022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 96.52 77.47 0)
 			(effects
 				(font
@@ -2163,7 +2163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 128.27 77.47 0)
 			(effects
 				(font
@@ -2233,7 +2233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 54.61 77.47 0)
 			(effects
 				(font
@@ -2303,7 +2303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 27.94 76.2 0)
 			(effects
 				(font
@@ -3101,7 +3101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 107.95 38.1 0)
 			(effects
 				(font
@@ -3642,7 +3642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 139.7 77.47 0)
 			(effects
 				(font
@@ -4181,7 +4181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_1206_3216Metric_Pad1.33x1.80mm"
+		(property "Footprint" "PCM_Capacitor_SMD_Handsoldering_AKL:C_0805_2012Metric_Pad1.18x1.45mm"
 			(at 68.58 76.2 0)
 			(effects
 				(font

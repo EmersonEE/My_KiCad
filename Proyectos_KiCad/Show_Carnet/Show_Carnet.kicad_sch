@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "68cd5217-ef0a-498a-9d47-97919c7031a8")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 132.08 93.98)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5007c62d-a09e-4653-a405-201d2e1e1980")
+		(property "Sheetname" "Logic"
+			(at 132.08 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Logic.kicad_sch"
+			(at 132.08 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Show_Carnet"
+				(path "/68cd5217-ef0a-498a-9d47-97919c7031a8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 81.28)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7147317e-3234-4b50-8974-a71dbe428e03")
+		(property "Sheetname" "Basura"
+			(at 167.64 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Basura.kicad_sch"
+			(at 167.64 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Show_Carnet"
+				(path "/68cd5217-ef0a-498a-9d47-97919c7031a8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 88.9)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "949f3ea9-6093-41cf-8587-066158e93ab0")
+		(property "Sheetname" "Display"
+			(at 177.8 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Display.kicad_sch"
+			(at 177.8 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Show_Carnet"
+				(path "/68cd5217-ef0a-498a-9d47-97919c7031a8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 73.66)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d8c65718-3dcc-47f5-99e2-98a4b7d53dc8")
+		(property "Sheetname" "Power"
+			(at 132.08 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 132.08 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Show_Carnet"
+				(path "/68cd5217-ef0a-498a-9d47-97919c7031a8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
