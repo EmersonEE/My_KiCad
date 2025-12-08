@@ -7389,7 +7389,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 29.21) (xy 74.93 30.48)
+			(xy 74.93 27.94) (xy 74.93 30.48)
 		)
 		(stroke
 			(width 0)
@@ -7759,7 +7759,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 29.21) (xy 86.36 31.75)
+			(xy 86.36 27.94) (xy 86.36 31.75)
 		)
 		(stroke
 			(width 0)
@@ -13138,7 +13138,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 74.93 29.21 0)
+		(at 74.93 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13147,7 +13147,7 @@
 		(fields_autoplaced yes)
 		(uuid "68d87b52-60a8-4115-8167-8c2075eee383")
 		(property "Reference" "#PWR039"
-			(at 74.93 33.02 0)
+			(at 74.93 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13156,7 +13156,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 74.93 24.13 0)
+			(at 74.93 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13164,7 +13164,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 29.21 0)
+			(at 74.93 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13173,7 +13173,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 29.21 0)
+			(at 74.93 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13182,7 +13182,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 74.93 29.21 0)
+			(at 74.93 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15669,7 +15669,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 86.36 29.21 0)
+		(at 86.36 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15678,7 +15678,7 @@
 		(fields_autoplaced yes)
 		(uuid "a9f02910-feb1-4fd2-b90a-939ba16751a2")
 		(property "Reference" "#PWR04"
-			(at 86.36 33.02 0)
+			(at 86.36 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15687,7 +15687,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 86.36 24.13 0)
+			(at 86.36 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15695,7 +15695,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 29.21 0)
+			(at 86.36 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15704,7 +15704,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 29.21 0)
+			(at 86.36 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15713,7 +15713,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 86.36 29.21 0)
+			(at 86.36 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)

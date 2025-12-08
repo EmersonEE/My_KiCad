@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "aa25d196-97ca-4ba4-a796-8857defd9713")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 59.69 63.5)
+		(size 25.4 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0c4d56f0-dbcd-4d42-b5b3-67986a1fc8a3")
+		(property "Sheetname" "Power"
+			(at 59.69 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 59.69 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Trainer_V2.0"
+				(path "/aa25d196-97ca-4ba4-a796-8857defd9713"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 63.5)
+		(size 20.32 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "362f7f59-7893-47f2-93db-349c42e59720")
+		(property "Sheetname" "GPIO_OUT"
+			(at 118.11 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPIO_OUT.kicad_sch"
+			(at 118.11 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Trainer_V2.0"
+				(path "/aa25d196-97ca-4ba4-a796-8857defd9713"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 88.9)
+		(size 19.05 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3cd89fa4-5b79-4d74-a5ad-a06e5f920520")
+		(property "Sheetname" "Pin_Header"
+			(at 118.11 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pin_Header.kicad_sch"
+			(at 118.11 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Trainer_V2.0"
+				(path "/aa25d196-97ca-4ba4-a796-8857defd9713"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 63.5)
+		(size 19.05 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "438974e5-ceb4-4adf-9a2b-cbcb9498dc1c")
+		(property "Sheetname" "ESP32"
+			(at 92.71 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 92.71 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Trainer_V2.0"
+				(path "/aa25d196-97ca-4ba4-a796-8857defd9713"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 77.47)
+		(size 20.32 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c954342d-ef70-4dc1-99c4-0b72ed77c73f")
+		(property "Sheetname" "GPIO_IN"
+			(at 118.11 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPIO_IN.kicad_sch"
+			(at 118.11 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Trainer_V2.0"
+				(path "/aa25d196-97ca-4ba4-a796-8857defd9713"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

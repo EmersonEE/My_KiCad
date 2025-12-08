@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.8,
-          "height": 1.9,
-          "width": 1.9
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,16 +48,10 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.75
+          "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -147,7 +141,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": true,
+          "td_ontrackend": false,
           "td_onvia": true
         }
       ],
@@ -186,10 +180,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.7
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -216,16 +207,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        },
-        {
-          "diameter": 1.9,
-          "drill": 0.8
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -469,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "WS2812_NANO.kicad_pro",
+    "filename": "ESP32_Trainer_V2.0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -578,26 +560,14 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Descripción",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "",
+      "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referencia"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -641,8 +611,28 @@
   },
   "sheets": [
     [
-      "414e5dec-b091-4ac1-9c9c-c6979ebb460f",
+      "aa25d196-97ca-4ba4-a796-8857defd9713",
       "Root"
+    ],
+    [
+      "438974e5-ceb4-4adf-9a2b-cbcb9498dc1c",
+      "ESP32"
+    ],
+    [
+      "0c4d56f0-dbcd-4d42-b5b3-67986a1fc8a3",
+      "Power"
+    ],
+    [
+      "362f7f59-7893-47f2-93db-349c42e59720",
+      "GPIO_OUT"
+    ],
+    [
+      "c954342d-ef70-4dc1-99c4-0b72ed77c73f",
+      "GPIO_IN"
+    ],
+    [
+      "3cd89fa4-5b79-4d74-a5ad-a06e5f920520",
+      "Pin_Header"
     ]
   ],
   "text_variables": {}
