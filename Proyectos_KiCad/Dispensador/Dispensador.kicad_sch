@@ -1,0 +1,350 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "157d4146-977f-4002-885a-ccc0031c171a")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 106.68 118.11) (xy 120.65 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "135d89b9-04e7-4b85-802d-f82862bcdffd")
+	)
+	(wire
+		(pts
+			(xy 106.68 111.76) (xy 120.65 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f1d6c6d-9b8b-4a68-b708-ca9c51828052")
+	)
+	(wire
+		(pts
+			(xy 106.68 101.6) (xy 120.65 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d139fd5-e332-4f2f-b757-6ecd301b8281")
+	)
+	(wire
+		(pts
+			(xy 106.68 104.14) (xy 120.65 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53a35a9d-64b4-4abe-8e88-de743e7801d9")
+	)
+	(wire
+		(pts
+			(xy 106.68 109.22) (xy 120.65 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af9033c1-43e2-4109-ba57-0509f3060f6c")
+	)
+	(wire
+		(pts
+			(xy 106.68 115.57) (xy 120.65 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc09f1ea-6ca0-4a38-9c26-4848a2ccb619")
+	)
+	(wire
+		(pts
+			(xy 106.68 106.68) (xy 120.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be882380-098d-4730-bf4c-d337e4ba4239")
+	)
+	(sheet
+		(at 120.65 99.06)
+		(size 15.24 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b140d937-a20b-4c3b-a070-463fd46f0bde")
+		(property "Sheetname" "Pin_OUT"
+			(at 120.65 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pin_OUT.kicad_sch"
+			(at 120.65 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN_PUSH" input
+			(at 120.65 101.6 180)
+			(uuid "838bc4f4-2dba-4cf8-a5ac-39d38dd4920f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_SERVO" input
+			(at 120.65 104.14 180)
+			(uuid "9ebe5b4c-1c91-49f2-ab94-28e8376be18c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_WATER" input
+			(at 120.65 106.68 180)
+			(uuid "7b2e2a77-cbfb-48e5-b7e5-ed2e912a0e2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_PWM" input
+			(at 120.65 109.22 180)
+			(uuid "1e008360-cc90-47a6-b5d1-c581ccae4aa4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_FOOD" input
+			(at 120.65 111.76 180)
+			(uuid "ccdef0ec-20c2-43da-a4b2-6fbf3ae47750")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" input
+			(at 120.65 118.11 180)
+			(uuid "fb1f205e-9368-4069-8f7d-870d173e3159")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" input
+			(at 120.65 115.57 180)
+			(uuid "ee572705-852e-4faa-99f7-b168f01ff52f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dispensador"
+				(path "/157d4146-977f-4002-885a-ccc0031c171a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 78.74)
+		(size 15.24 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1f2cc47-2dfa-4ff8-893c-f72425e77345")
+		(property "Sheetname" "Power"
+			(at 87.63 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 87.63 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Dispensador"
+				(path "/157d4146-977f-4002-885a-ccc0031c171a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 99.06)
+		(size 17.78 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e5bdbd7c-309c-43a4-8ab8-dd4fe9c8b4ca")
+		(property "Sheetname" "ESP32"
+			(at 88.9 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 88.9 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN_PUSH" input
+			(at 106.68 101.6 0)
+			(uuid "11a36c15-72b6-4814-b1c0-3f7aad13aff1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_PWM" input
+			(at 106.68 109.22 0)
+			(uuid "564f5bde-727f-482d-9b1d-c8ae61aa92d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_FOOD" input
+			(at 106.68 111.76 0)
+			(uuid "2fada4bf-53dd-48eb-82df-4a6216b94278")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_SERVO" input
+			(at 106.68 104.14 0)
+			(uuid "df4b9896-51bb-4abb-88dc-ecadcf862db8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_WATER" input
+			(at 106.68 106.68 0)
+			(uuid "3a8d5eba-bc3c-4755-b684-4992f3a16ce3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA" input
+			(at 106.68 115.57 0)
+			(uuid "1dbbe3b8-9b04-409f-844e-b1451d1ba277")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL" input
+			(at 106.68 118.11 0)
+			(uuid "39e94559-63f5-484d-8c1f-b06f0ae7b181")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dispensador"
+				(path "/157d4146-977f-4002-885a-ccc0031c171a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

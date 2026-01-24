@@ -1,0 +1,704 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0292ef25-dc7e-42f1-b019-d6970f298ed7")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 104.14 96.52) (xy 116.84 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05d43b20-3852-4090-a7d5-eccf74ec8b1a")
+	)
+	(wire
+		(pts
+			(xy 104.14 99.06) (xy 116.84 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19f46bfb-df5b-40c1-8909-b364191e4ac9")
+	)
+	(wire
+		(pts
+			(xy 104.14 107.95) (xy 116.84 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e747d62-d71e-4276-a77e-d47d9cbf5c74")
+	)
+	(wire
+		(pts
+			(xy 104.14 66.04) (xy 116.84 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23f5c798-01c5-40d7-ad65-8d943ac14574")
+	)
+	(wire
+		(pts
+			(xy 104.14 119.38) (xy 116.84 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dba8b0e-5f4d-41fa-aeb4-f6be0f7bccca")
+	)
+	(wire
+		(pts
+			(xy 104.14 71.12) (xy 116.84 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31051b0b-2fee-42ab-bb16-39a438b2151d")
+	)
+	(wire
+		(pts
+			(xy 104.14 115.57) (xy 116.84 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3697f399-8023-484a-9d15-1d1e5d443d4f")
+	)
+	(wire
+		(pts
+			(xy 104.14 101.6) (xy 116.84 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41ec044a-0b0b-4617-b4a8-08bbf97448a5")
+	)
+	(wire
+		(pts
+			(xy 104.14 83.82) (xy 116.84 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "686148e0-657e-403a-8c5f-1a2f26121a67")
+	)
+	(wire
+		(pts
+			(xy 104.14 86.36) (xy 116.84 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7034764e-5f05-4a61-afe5-1d1265c78244")
+	)
+	(wire
+		(pts
+			(xy 104.14 73.66) (xy 116.84 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "782d3dda-cd1b-4bc2-80ae-ee94f9be9df5")
+	)
+	(wire
+		(pts
+			(xy 104.14 105.41) (xy 116.84 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b186e1a-fbfe-4e2d-8921-79ddb676d028")
+	)
+	(wire
+		(pts
+			(xy 104.14 113.03) (xy 116.84 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1e08be5-0991-4cf9-a381-bd577dfc5fbc")
+	)
+	(wire
+		(pts
+			(xy 104.14 110.49) (xy 116.84 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adce9c73-c50c-412c-bdb9-3d2b9fe1cfa7")
+	)
+	(wire
+		(pts
+			(xy 104.14 68.58) (xy 116.84 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4bbb290-8ab4-402e-b4c5-6c6e550e86a8")
+	)
+	(wire
+		(pts
+			(xy 104.14 63.5) (xy 116.84 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de1b7136-d313-410b-a2e6-c8c4b796b2c7")
+	)
+	(sheet
+		(at 81.28 44.45)
+		(size 17.78 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f400d35-56c5-49e0-b18b-32396a436e4b")
+		(property "Sheetname" "Power"
+			(at 81.28 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 81.28 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 81.28)
+		(size 16.51 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6e10854a-81d1-4cb3-a96c-d4aac551c98c")
+		(property "Sheetname" "ESP01"
+			(at 116.84 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP01.kicad_sch"
+			(at 116.84 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT_AR1" input
+			(at 116.84 86.36 180)
+			(uuid "c66e5e10-ee25-491f-9bba-1b46d776be36")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_AR0" input
+			(at 116.84 83.82 180)
+			(uuid "5b5c1900-3a12-44e6-82e5-4b3d31226c03")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 93.98)
+		(size 16.51 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78e5dc98-e72f-49be-b39f-d8e0779418c0")
+		(property "Sheetname" "Inputs"
+			(at 116.84 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs.kicad_sch"
+			(at 116.84 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BT_2" input
+			(at 116.84 99.06 180)
+			(uuid "72585bf7-013b-4aa8-a5f5-04bc93edea79")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BT_1" input
+			(at 116.84 96.52 180)
+			(uuid "bb1b97f4-2165-4a01-9fdc-e4b48bba0ba7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BT_3" input
+			(at 116.84 101.6 180)
+			(uuid "d5e492c6-5d3d-4b4f-a7d3-5666eff063e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_5" input
+			(at 116.84 115.57 180)
+			(uuid "9bfef5d0-9be5-4f0c-9bee-276d6764ecbc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_3" input
+			(at 116.84 110.49 180)
+			(uuid "d733a33e-2c97-4bca-aadd-41b2e4155797")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_2" input
+			(at 116.84 107.95 180)
+			(uuid "9cc3289c-2354-4437-ac39-081da2125692")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_4" input
+			(at 116.84 113.03 180)
+			(uuid "42f97180-5b80-452f-b8f9-4b5e0178c684")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_1" input
+			(at 116.84 105.41 180)
+			(uuid "be50bde1-cb6c-415e-95bd-97d8efe751ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_FI" input
+			(at 116.84 119.38 180)
+			(uuid "2e2ba6c0-25cd-4027-9a5c-56d90d8b471a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 59.69)
+		(size 24.13 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "92b91cc5-0e32-4296-854e-0c86d9840eee")
+		(property "Sheetname" "Microcontrolador"
+			(at 80.01 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontrolador.kicad_sch"
+			(at 80.01 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RELE_2" input
+			(at 104.14 66.04 0)
+			(uuid "a345b357-597f-43c7-99d1-f07cd21d785b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RELE_4" input
+			(at 104.14 71.12 0)
+			(uuid "3f8b6808-8e23-4ac4-a35b-45e346019e6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RELE_1" input
+			(at 104.14 63.5 0)
+			(uuid "4776872a-12d8-4787-be2f-836135e0f08c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RELE_3" input
+			(at 104.14 68.58 0)
+			(uuid "9d6785e5-5e34-4e34-b1b8-a960e9a50f27")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_AR0" input
+			(at 104.14 83.82 0)
+			(uuid "74fee03e-b6f3-4cc4-a6ed-2801d37c1dc1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_AR1" input
+			(at 104.14 86.36 0)
+			(uuid "3d328378-2b33-497c-8a46-01edaa5ce666")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_DIGITAL" input
+			(at 104.14 73.66 0)
+			(uuid "11897e5b-9903-4ac6-8d0a-09f25f706f37")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SW_2" input
+			(at 104.14 107.95 0)
+			(uuid "ca08daa1-907d-466a-9e35-7a5d6019c17d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SW_3" input
+			(at 104.14 110.49 0)
+			(uuid "ab770e43-c475-43c9-a304-8f21b94cd9e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SW_5" input
+			(at 104.14 115.57 0)
+			(uuid "9e30d2af-39bb-4565-9110-9e28e7026282")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BT_3" input
+			(at 104.14 101.6 0)
+			(uuid "564eb7b3-b150-4886-a011-267e342369fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SW_1" input
+			(at 104.14 105.41 0)
+			(uuid "906ab7fb-db48-402a-bd87-ec430ee9bf46")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BT_1" input
+			(at 104.14 96.52 0)
+			(uuid "45266609-5fc3-40e3-bce5-d55456a086eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BT_2" input
+			(at 104.14 99.06 0)
+			(uuid "77b26fb7-3c5f-4a4b-bb1a-d3eead8fa509")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SW_4" input
+			(at 104.14 113.03 0)
+			(uuid "aa373f6a-985d-43be-8aee-9079b295ac59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_FI" input
+			(at 104.14 119.38 0)
+			(uuid "87ba7c52-af0a-4dcb-a18d-79ae93974cae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 59.69)
+		(size 16.51 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e2024343-7001-4b21-9393-3bf97457ac68")
+		(property "Sheetname" "Outpus"
+			(at 116.84 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Outpus.kicad_sch"
+			(at 116.84 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "R_DIGITAL" input
+			(at 116.84 73.66 180)
+			(uuid "6755dfd8-337a-4c29-bc4f-80fe5e6c02cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RELE_2" input
+			(at 116.84 66.04 180)
+			(uuid "eec771df-34c3-429c-8751-2aac22a20384")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RELE_1" input
+			(at 116.84 63.5 180)
+			(uuid "12232b3d-c562-4c10-be08-92ac186ade79")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RELE_3" input
+			(at 116.84 68.58 180)
+			(uuid "98ce422d-2781-4e4b-a745-cdc3408b903b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RELE_4" input
+			(at 116.84 71.12 180)
+			(uuid "b1a34b5e-f02d-45f2-9087-59558f7a0ebd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
