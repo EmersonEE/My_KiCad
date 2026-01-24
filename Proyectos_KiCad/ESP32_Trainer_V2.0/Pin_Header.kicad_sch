@@ -1256,33 +1256,13 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 33.02) (xy 66.04 35.56)
+			(xy 66.04 29.21) (xy 66.04 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "12e89866-f030-4dcf-9b96-f77c5c251c9a")
-	)
-	(wire
-		(pts
-			(xy 60.96 33.02) (xy 60.96 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1629a081-d498-46ae-b340-b7a0676b73bc")
-	)
-	(wire
-		(pts
-			(xy 63.5 33.02) (xy 63.5 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b084840-35ff-4f6d-8883-cc720f6d3c79")
+		(uuid "1117f198-6165-47c3-a8b0-c823adb1db1b")
 	)
 	(wire
 		(pts
@@ -1323,16 +1303,6 @@
 			(type default)
 		)
 		(uuid "3f2460bb-7058-44bc-896e-424bc8b0d303")
-	)
-	(wire
-		(pts
-			(xy 68.58 33.02) (xy 68.58 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47a050c3-bc7f-4f59-a12c-08f3ee1bc045")
 	)
 	(wire
 		(pts
@@ -1406,6 +1376,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 29.21) (xy 68.58 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f82a7ec-6c79-4923-be18-031e677ab51d")
+	)
+	(wire
+		(pts
 			(xy 154.94 33.02) (xy 154.94 39.37)
 		)
 		(stroke
@@ -1466,6 +1446,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 29.21) (xy 60.96 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3ed35c3-0cb7-404c-a638-0aa2b5070e0d")
+	)
+	(wire
+		(pts
 			(xy 41.91 35.56) (xy 41.91 38.1)
 		)
 		(stroke
@@ -1513,6 +1503,16 @@
 			(type default)
 		)
 		(uuid "f8dfcd41-83a2-443b-898a-5ad7e456d295")
+	)
+	(wire
+		(pts
+			(xy 63.5 29.21) (xy 63.5 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fec08a91-19d8-426a-8880-4205dc437d0d")
 	)
 	(hierarchical_label "GPIO35"
 		(shape input)
@@ -2181,16 +2181,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 63.5 27.94 90)
+		(at 66.04 24.13 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "447ee3db-64d0-43f8-9d3a-ca56215c4513")
 		(property "Reference" "J3"
-			(at 64.77 21.59 90)
+			(at 64.77 17.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2198,7 +2198,7 @@
 			)
 		)
 		(property "Value" "I2C"
-			(at 64.77 24.13 90)
+			(at 64.77 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2206,7 +2206,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
-			(at 63.5 27.94 0)
+			(at 66.04 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2215,7 +2215,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 27.94 0)
+			(at 66.04 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2224,7 +2224,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 63.5 27.94 0)
+			(at 66.04 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)

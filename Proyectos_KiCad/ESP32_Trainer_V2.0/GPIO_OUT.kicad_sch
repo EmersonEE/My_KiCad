@@ -1215,156 +1215,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:Jumper_2_Open"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Jumper_2_Open"
-				(at 0 -2.286 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Jumper_2_Open_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Open_0_1"
-				(arc
-					(start -1.524 1.27)
-					(mid 0 1.778)
-					(end 1.524 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Open_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Jumper:Jumper_3_Bridged12"
 			(pin_names
 				(offset 0)
@@ -2436,7 +2286,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_Transistor_MOSFET_AKL:IRFZ44N"
+		(symbol "PCM_Transistor_BJT_AKL:BD139"
 			(pin_names
 				(hide yes)
 			)
@@ -2452,7 +2302,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "IRFZ44N"
+			(property "Value" "BD139"
 				(at 5.08 -1.27 0)
 				(effects
 					(font
@@ -2461,7 +2311,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Vertical_GDS"
+			(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-126-3_Vertical_ECB"
 				(at 5.08 2.54 0)
 				(effects
 					(font
@@ -2470,7 +2320,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.tme.eu/Document/057c54506cb7c07cd36d9e96d4a41c5b/irfz44n.pdf"
+			(property "Datasheet" "https://www.tme.eu/Document/1f1268d1b61f55ac7ad616802a7cd21c/BD137.PDF"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2479,7 +2329,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "TO-220 N-MOSFET enchancement mode transistor, 55V, 49A, 94W, Alternate KiCAD Library"
+			(property "Description" "NPN TO-126 power transistor, 80V, 1.5A, 12.5W, Complementary to BD140, Alternate KiCAD Library"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2488,7 +2338,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "enchancement mosfet nmosfet n-mosfet nmos n-mos emos emosfet IRFZ44N"
+			(property "ki_keywords" "transistor NPN BD139"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2497,13 +2347,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "IRFZ44N_0_1"
+			(symbol "BD139_0_1"
 				(polyline
 					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.508)
 						(type default)
 					)
 					(fill
@@ -2512,7 +2362,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.254 -1.27) (xy -2.54 -1.27)
+						(xy 0.635 0.635) (xy 2.54 2.54)
 					)
 					(stroke
 						(width 0)
@@ -2524,43 +2374,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.778) (xy 2.54 -1.778)
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
 					)
 					(stroke
 						(width 0)
@@ -2568,23 +2382,11 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
 					)
 				)
 				(circle
-					(center 1.651 0)
-					(radius 2.794)
+					(center 1.27 0)
+					(radius 2.8194)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -2595,31 +2397,8 @@
 				)
 				(polyline
 					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
 					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.778) (xy 0.762 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.1778)
 					(stroke
 						(width 0)
 						(type default)
@@ -2628,31 +2407,19 @@
 						(type outline)
 					)
 				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 			)
-			(symbol "IRFZ44N_1_1"
-				(pin input line
-					(at -3.81 -1.27 0)
-					(length 2.54)
-					(name "G"
+			(symbol "BD139_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 5.715)
+					(name "B"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "1"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2663,7 +2430,7 @@
 				(pin passive line
 					(at 2.54 5.08 270)
 					(length 2.54)
-					(name "D"
+					(name "C"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2681,14 +2448,14 @@
 				(pin passive line
 					(at 2.54 -5.08 90)
 					(length 2.54)
-					(name "S"
+					(name "E"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "3"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3283,28 +3050,28 @@
 		)
 	)
 	(junction
-		(at 140.97 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14df256a-2dae-47cf-bff1-9857c2f5a873")
-	)
-	(junction
 		(at 218.44 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a10c9fc-9509-4292-ba63-178b8192b79a")
 	)
 	(junction
-		(at 76.2 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7c36e227-d7b3-438b-b3e5-90244eb625a9")
-	)
-	(junction
 		(at 228.6 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b73485a5-5071-49b6-9387-c449d91ca599")
+	)
+	(junction
+		(at 160.02 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd3632cb-11fd-41f4-b4cb-c124e5a18f4c")
+	)
+	(junction
+		(at 95.25 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f56151a7-a683-4f5f-a84b-c1604bf37c06")
 	)
 	(junction
 		(at 138.43 45.72)
@@ -3334,6 +3101,26 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 123.19) (xy 87.63 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "035a6f2c-bb10-4198-8509-800c4b8a7dd0")
+	)
+	(wire
+		(pts
+			(xy 158.75 91.44) (xy 158.75 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04f8870b-5468-4401-9f30-8350401c2756")
+	)
+	(wire
+		(pts
 			(xy 218.44 59.69) (xy 215.9 59.69)
 		)
 		(stroke
@@ -3351,6 +3138,26 @@
 			(type default)
 		)
 		(uuid "14d8a076-03bf-488a-be81-b2d2cf600068")
+	)
+	(wire
+		(pts
+			(xy 151.13 123.19) (xy 152.4 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14f33953-37b1-4f39-8fbe-b2fec6dfa16b")
+	)
+	(wire
+		(pts
+			(xy 76.2 115.57) (xy 76.2 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2089ca40-0554-4fd6-8c07-59ed15526a7a")
 	)
 	(wire
 		(pts
@@ -3384,7 +3191,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 132.08) (xy 68.58 132.08)
+			(xy 66.04 128.27) (xy 68.58 128.27)
 		)
 		(stroke
 			(width 0)
@@ -3464,33 +3271,13 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 114.3) (xy 93.98 114.3)
+			(xy 95.25 111.76) (xy 93.98 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "49620a3f-2b7a-4484-bd77-853047307c2c")
-	)
-	(wire
-		(pts
-			(xy 158.75 105.41) (xy 158.75 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50ba5ae0-28fc-4ea7-9c9f-fef346d89bd9")
-	)
-	(wire
-		(pts
-			(xy 93.98 105.41) (xy 93.98 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "525a0086-f08f-445c-91d1-2e5549dfd2c6")
 	)
 	(wire
 		(pts
@@ -3511,6 +3298,26 @@
 			(type default)
 		)
 		(uuid "555b0281-1a33-4353-9535-f3a999ad6c6f")
+	)
+	(wire
+		(pts
+			(xy 76.2 134.62) (xy 86.36 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d5e9516-3985-4cac-bbed-91edbe02e49b")
+	)
+	(wire
+		(pts
+			(xy 160.02 115.57) (xy 160.02 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e85ce16-9f98-40db-bee1-4dbc43fb7270")
 	)
 	(wire
 		(pts
@@ -3554,6 +3361,26 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 115.57) (xy 95.25 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b11efe7-31a9-40c8-af12-5c12a67a6dbb")
+	)
+	(wire
+		(pts
+			(xy 143.51 134.62) (xy 151.13 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c01e7af-4c51-4148-8487-8c9eecbde6c6")
+	)
+	(wire
+		(pts
 			(xy 100.33 87.63) (xy 102.87 87.63)
 		)
 		(stroke
@@ -3561,16 +3388,6 @@
 			(type default)
 		)
 		(uuid "6c3e9892-8809-496a-8b0b-0acc42ade66d")
-	)
-	(wire
-		(pts
-			(xy 153.67 124.46) (xy 140.97 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d25f9b6-41d0-48af-948a-26675707cf19")
 	)
 	(wire
 		(pts
@@ -3591,6 +3408,16 @@
 			(type default)
 		)
 		(uuid "6e9c31be-8122-4555-a436-49aaed2658ac")
+	)
+	(wire
+		(pts
+			(xy 151.13 134.62) (xy 151.13 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76196606-6a95-4f40-bd2d-d679ae3acd12")
 	)
 	(wire
 		(pts
@@ -3644,23 +3471,13 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 118.11) (xy 95.25 114.3)
+			(xy 95.25 118.11) (xy 95.25 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7bc36774-8c0c-4a93-bdf5-7160f6c1698d")
-	)
-	(wire
-		(pts
-			(xy 76.2 119.38) (xy 76.2 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c82a1b1-8b64-433c-a10a-e3f87784ac94")
 	)
 	(wire
 		(pts
@@ -3674,7 +3491,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 91.44) (xy 93.98 95.25)
+			(xy 93.98 91.44) (xy 93.98 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3724,23 +3541,13 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 118.11) (xy 160.02 114.3)
+			(xy 160.02 118.11) (xy 160.02 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8e7ff5e4-8ccc-4cb9-8278-6259d35b15c3")
-	)
-	(wire
-		(pts
-			(xy 76.2 124.46) (xy 76.2 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e91ea27-beef-43df-9b23-e74a257152dd")
 	)
 	(wire
 		(pts
@@ -3774,13 +3581,13 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 110.49) (xy 76.2 114.3)
+			(xy 76.2 133.35) (xy 76.2 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a43707a6-82d5-4cc8-99d8-a018df59a4f9")
+		(uuid "a497f818-9d15-4f8b-b60e-a2212a970119")
 	)
 	(wire
 		(pts
@@ -3794,17 +3601,27 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 91.44) (xy 158.75 95.25)
+			(xy 143.51 123.19) (xy 143.51 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aa2608ae-3fd8-4069-b636-b2918d79e213")
+		(uuid "b0bd2de8-387a-4bca-b82f-7415aeaf52a5")
 	)
 	(wire
 		(pts
-			(xy 58.42 132.08) (xy 60.96 132.08)
+			(xy 86.36 134.62) (xy 86.36 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1820964-22ad-4135-93f0-89e2931141ef")
+	)
+	(wire
+		(pts
+			(xy 58.42 128.27) (xy 60.96 128.27)
 		)
 		(stroke
 			(width 0)
@@ -3814,43 +3631,13 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 119.38) (xy 140.97 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5340ce8-6c51-4c01-9c68-a07877b4a521")
-	)
-	(wire
-		(pts
-			(xy 140.97 124.46) (xy 140.97 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8796699-e391-4229-b2c5-a58aeca47691")
-	)
-	(wire
-		(pts
-			(xy 130.81 132.08) (xy 133.35 132.08)
+			(xy 133.35 128.27) (xy 135.89 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b9216f4a-e27d-4852-ad32-e1b231939bb2")
-	)
-	(wire
-		(pts
-			(xy 140.97 110.49) (xy 140.97 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd155237-4fef-4af0-932a-70f35f5da37a")
 	)
 	(wire
 		(pts
@@ -3861,6 +3648,16 @@
 			(type default)
 		)
 		(uuid "c249d87b-c458-419d-91fd-257d8cd08430")
+	)
+	(wire
+		(pts
+			(xy 143.51 115.57) (xy 160.02 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4c75080-41ed-4fd0-9302-522576a84821")
 	)
 	(wire
 		(pts
@@ -3934,16 +3731,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 124.46) (xy 76.2 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da247cac-365b-40d4-9d8c-2aff142ee3fa")
-	)
-	(wire
-		(pts
 			(xy 102.87 87.63) (xy 102.87 86.36)
 		)
 		(stroke
@@ -3954,17 +3741,27 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 137.16) (xy 140.97 139.7)
+			(xy 143.51 133.35) (xy 143.51 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e443d3fd-b16f-450d-96b2-eacec60dab49")
+		(uuid "e165cb3f-717e-4d9b-a91a-de8b1b1e2660")
 	)
 	(wire
 		(pts
-			(xy 160.02 114.3) (xy 158.75 114.3)
+			(xy 76.2 115.57) (xy 95.25 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e38e5c16-7f88-44be-9d95-02050a8ba7fa")
+	)
+	(wire
+		(pts
+			(xy 160.02 111.76) (xy 158.75 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3974,7 +3771,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 132.08) (xy 125.73 132.08)
+			(xy 125.73 128.27) (xy 128.27 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4001,16 +3798,6 @@
 			(type default)
 		)
 		(uuid "f39973ff-9802-4d2a-ac11-2c0f5ead881e")
-	)
-	(wire
-		(pts
-			(xy 76.2 137.16) (xy 76.2 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4484015-375c-4c01-896c-83f4110fd16c")
 	)
 	(wire
 		(pts
@@ -4178,7 +3965,7 @@
 	)
 	(hierarchical_label "GPIO_PWM_2"
 		(shape input)
-		(at 123.19 132.08 180)
+		(at 125.73 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4211,7 +3998,7 @@
 	)
 	(hierarchical_label "GPIO_PWM_1"
 		(shape input)
-		(at 58.42 132.08 180)
+		(at 58.42 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4379,7 +4166,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 88.9 111.76 0)
+		(at 88.9 109.22 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4388,7 +4175,7 @@
 		(dnp no)
 		(uuid "0921275c-e8f4-42be-81cd-8cdc16ab80b0")
 		(property "Reference" "J9"
-			(at 86.36 111.7599 0)
+			(at 86.36 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4397,7 +4184,7 @@
 			)
 		)
 		(property "Value" "LOAD"
-			(at 86.36 114.2999 0)
+			(at 86.36 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4406,7 +4193,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 88.9 111.76 0)
+			(at 88.9 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4415,7 +4202,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 111.76 0)
+			(at 88.9 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4424,7 +4211,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 88.9 111.76 0)
+			(at 88.9 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4585,79 +4372,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_Transistor_MOSFET_AKL:IRFZ44N")
-		(at 157.48 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "195945c8-3a8f-4ce8-93a3-b0993f21a8e8")
-		(property "Reference" "Q6"
-			(at 163.83 121.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 163.83 124.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Vertical_GDS"
-			(at 162.56 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.tme.eu/Document/057c54506cb7c07cd36d9e96d4a41c5b/irfz44n.pdf"
-			(at 157.48 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "TO-220 N-MOSFET enchancement mode transistor, 55V, 49A, 94W, Alternate KiCAD Library"
-			(at 157.48 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "10ac8c9f-eec0-4521-b9ae-efca0e5ea2f5")
-		)
-		(pin "3"
-			(uuid "0e86b3ae-be8d-4fed-a3a5-83b5ad597f55")
-		)
-		(pin "2"
-			(uuid "01504c9b-8bb4-4046-860d-7371c1486b13")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 138.43 34.29 0)
 		(unit 1)
@@ -4718,72 +4432,6 @@
 			(project "ESP32_Trainer_V2.0"
 				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 76.2 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a01bf49-f6cf-4cdf-a44b-38174d0d5337")
-		(property "Reference" "#PWR052"
-			(at 76.2 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 76.2 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 76.2 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8c80b1aa-5b73-453c-a293-1676a5771043")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -4856,17 +4504,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 140.97 110.49 0)
+		(lib_id "PCM_Transistor_BJT_AKL:BD139")
+		(at 157.48 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3f5e559f-8b28-450b-8cd0-ee256c47ba54")
-		(property "Reference" "#PWR055"
-			(at 140.97 114.3 0)
+		(uuid "41f40130-7d64-4c46-9847-d64e4d8a07e3")
+		(property "Reference" "Q4"
+			(at 162.56 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BD139"
+			(at 162.56 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-126-3_Vertical_ECB"
+			(at 162.56 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4874,16 +4540,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 110.49 0)
+		(property "Datasheet" "https://www.tme.eu/Document/1f1268d1b61f55ac7ad616802a7cd21c/BD137.PDF"
+			(at 157.48 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4891,8 +4549,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 140.97 110.49 0)
+		(property "Description" "NPN TO-126 power transistor, 80V, 1.5A, 12.5W, Complementary to BD140, Alternate KiCAD Library"
+			(at 157.48 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4900,22 +4558,19 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 140.97 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "3"
+			(uuid "2bdd80c4-013d-4faf-bbdd-8db2fc924b46")
+		)
+		(pin "2"
+			(uuid "8f5e56cb-eded-40d5-b901-f2e57c88d032")
 		)
 		(pin "1"
-			(uuid "3a0acc35-5ae8-4dce-99bb-63afccd73db7")
+			(uuid "24ebdaf2-f377-47e0-b2e7-fb9dd9c990aa")
 		)
 		(instances
 			(project "ESP32_Trainer_V2.0"
 				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "#PWR055")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -5498,7 +5153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+		(property "Footprint" "PCM_Diode_SMD_AKL:D_SMA_BigPads"
 			(at 228.6 46.99 0)
 			(effects
 				(font
@@ -5610,78 +5265,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 140.97 116.84 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "65689053-094d-4b22-8862-f5055a1b365b")
-		(property "Reference" "R14"
-			(at 143.51 115.5699 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 143.51 118.1099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
-			(at 140.97 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 140.97 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "477671c2-ed60-41c4-86ad-f56046287ca5")
-		)
-		(pin "1"
-			(uuid "d11732ea-c142-4d63-9735-b9197d98cf2d")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_Transistor_BJT_AKL:2N3904")
-		(at 138.43 132.08 0)
+		(at 140.97 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5690,7 +5275,7 @@
 		(fields_autoplaced yes)
 		(uuid "68bab8bc-5e31-46aa-b258-dcbe9fd07bb1")
 		(property "Reference" "Q5"
-			(at 143.51 130.8099 0)
+			(at 146.05 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5699,7 +5284,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 143.51 133.3499 0)
+			(at 146.05 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5708,7 +5293,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Package_TO_SOT_SMD_AKL:SOT-23W_BigPads"
-			(at 143.51 129.54 0)
+			(at 146.05 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5717,7 +5302,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
-			(at 138.43 132.08 0)
+			(at 140.97 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5726,7 +5311,7 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
-			(at 138.43 132.08 0)
+			(at 140.97 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5820,79 +5405,6 @@
 			(project ""
 				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Transistor_MOSFET_AKL:IRFZ44N")
-		(at 92.71 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6bb5f364-da4a-41b1-b79d-fae6d6385a48")
-		(property "Reference" "Q4"
-			(at 99.06 121.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 99.06 124.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Vertical_GDS"
-			(at 97.79 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.tme.eu/Document/057c54506cb7c07cd36d9e96d4a41c5b/irfz44n.pdf"
-			(at 92.71 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "TO-220 N-MOSFET enchancement mode transistor, 55V, 49A, 94W, Alternate KiCAD Library"
-			(at 92.71 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "79ac2ecf-9bc8-4481-abcf-5a227e4a8dae")
-		)
-		(pin "3"
-			(uuid "a97715c4-c93f-4ce1-9e2a-f672960cd542")
-		)
-		(pin "2"
-			(uuid "40401922-829e-4728-9074-011ffe75ae5f")
-		)
-		(instances
-			(project ""
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -6118,215 +5630,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 76.2 116.84 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72b4beb1-2ccf-4b82-ad15-69798b05a72c")
-		(property "Reference" "R12"
-			(at 78.74 115.5699 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 78.74 118.1099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
-			(at 76.2 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 76.2 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8835e9d0-c32a-4209-a77e-b1cb57bb6a0b")
-		)
-		(pin "1"
-			(uuid "4eb2bae7-eab0-4e20-9697-1c558e051260")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 158.75 100.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72b82b41-83ba-45ea-a8cc-7e9f988dac96")
-		(property "Reference" "JP4"
-			(at 160.02 99.0599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ENABLE VIM"
-			(at 160.02 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PCM_SL_Connectors:PinHeader_1x03_P2.54mm_Vertical"
-			(at 158.75 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 158.75 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 158.75 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "805fc670-2673-45a8-a2e4-fc3277b7fe82")
-		)
-		(pin "1"
-			(uuid "dbc2528f-6af0-4210-9259-9e5613feb475")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "JP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 76.2 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8295da31-b6bd-4c6a-b400-1de9348f9a0e")
-		(property "Reference" "#PWR016"
-			(at 76.2 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 76.2 143.51 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e3ce7fc7-2718-454d-b3ea-bb38ec033ab6")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_Transistor_BJT_AKL:2N3904")
-		(at 73.66 132.08 0)
+		(at 73.66 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6335,7 +5640,7 @@
 		(fields_autoplaced yes)
 		(uuid "8467b855-3014-47ed-ae26-a963f3ee97ed")
 		(property "Reference" "Q3"
-			(at 78.74 130.8099 0)
+			(at 78.74 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6344,7 +5649,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 78.74 133.3499 0)
+			(at 78.74 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6353,7 +5658,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Package_TO_SOT_SMD_AKL:SOT-23W_BigPads"
-			(at 78.74 129.54 0)
+			(at 78.74 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6362,7 +5667,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
-			(at 73.66 132.08 0)
+			(at 73.66 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6371,7 +5676,7 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
-			(at 73.66 132.08 0)
+			(at 73.66 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6672,6 +5977,79 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_Transistor_BJT_AKL:BD139")
+		(at 92.71 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8893db1-a318-4f9d-b694-3b0a0f6bb7e9")
+		(property "Reference" "Q6"
+			(at 97.79 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BD139"
+			(at 97.79 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-126-3_Vertical_ECB"
+			(at 97.79 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tme.eu/Document/1f1268d1b61f55ac7ad616802a7cd21c/BD137.PDF"
+			(at 92.71 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN TO-126 power transistor, 80V, 1.5A, 12.5W, Complementary to BD140, Alternate KiCAD Library"
+			(at 92.71 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "4126730c-1718-445b-beba-f22be37c33b9")
+		)
+		(pin "2"
+			(uuid "646f8559-3b3b-472c-a8b3-494c4b49b175")
+		)
+		(pin "1"
+			(uuid "d4ff8fcc-cd60-41dd-ad80-a50ef454619a")
+		)
+		(instances
+			(project ""
+				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED_Small")
 		(at 100.33 55.88 90)
 		(unit 1)
@@ -6819,7 +6197,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 128.27 132.08 90)
+		(at 130.81 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6828,7 +6206,7 @@
 		(fields_autoplaced yes)
 		(uuid "aacf7b6c-5cc2-444c-b414-832adc191a04")
 		(property "Reference" "R13"
-			(at 128.27 127 90)
+			(at 130.81 123.19 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6836,7 +6214,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 128.27 129.54 90)
+			(at 130.81 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6844,7 +6222,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
-			(at 128.27 132.08 0)
+			(at 130.81 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6853,7 +6231,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 132.08 0)
+			(at 130.81 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6862,7 +6240,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 128.27 132.08 0)
+			(at 130.81 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6953,7 +6331,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 153.67 111.76 0)
+		(at 153.67 109.22 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6962,7 +6340,7 @@
 		(dnp no)
 		(uuid "adc437d3-edf4-44dc-b286-9134d2ac722e")
 		(property "Reference" "J10"
-			(at 151.13 111.7599 0)
+			(at 151.13 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6971,7 +6349,7 @@
 			)
 		)
 		(property "Value" "LOAD"
-			(at 151.13 114.2999 0)
+			(at 151.13 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6980,7 +6358,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 153.67 111.76 0)
+			(at 153.67 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6989,7 +6367,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 111.76 0)
+			(at 153.67 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6998,7 +6376,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 153.67 111.76 0)
+			(at 153.67 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7016,76 +6394,6 @@
 			(project "ESP32_Trainer_V2.0"
 				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
 					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 93.98 100.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "adc6a918-dcfe-407a-bbdb-9b5b58880b49")
-		(property "Reference" "JP1"
-			(at 95.25 99.0599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ENABLE VIM"
-			(at 95.25 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PCM_SL_Connectors:PinHeader_1x03_P2.54mm_Vertical"
-			(at 93.98 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 93.98 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e4672b8a-8407-4371-b891-c6ae3b4728f4")
-		)
-		(pin "1"
-			(uuid "1317b258-51e4-4e90-b78e-7342349d32f7")
-		)
-		(instances
-			(project ""
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -7638,75 +6946,8 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 140.97 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eb38a654-6b83-407c-8172-919028ec12cd")
-		(property "Reference" "#PWR056"
-			(at 140.97 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 140.97 143.51 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "93fb1c33-8bbb-466f-a291-97e0c20dc5b7")
-		)
-		(instances
-			(project "ESP32_Trainer_V2.0"
-				(path "/aa25d196-97ca-4ba4-a796-8857defd9713/362f7f59-7893-47f2-93db-349c42e59720"
-					(reference "#PWR056")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 63.5 132.08 90)
+		(at 63.5 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7715,7 +6956,7 @@
 		(fields_autoplaced yes)
 		(uuid "f423c64b-a72f-490a-8459-c3e7d37d668f")
 		(property "Reference" "R11"
-			(at 63.5 127 90)
+			(at 63.5 123.19 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7723,7 +6964,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 63.5 129.54 90)
+			(at 63.5 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7731,7 +6972,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
-			(at 63.5 132.08 0)
+			(at 63.5 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7740,7 +6981,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 132.08 0)
+			(at 63.5 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7749,7 +6990,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 63.5 132.08 0)
+			(at 63.5 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
