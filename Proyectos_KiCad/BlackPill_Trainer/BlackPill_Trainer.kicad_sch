@@ -1,0 +1,242 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d7c4c5b1-8748-4281-b4a9-530e613fe77d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 149.86 60.96)
+		(size 12.7 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31126deb-250d-47e5-9953-54111863bb3a")
+		(property "Sheetname" "Inputs"
+			(at 149.86 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs.kicad_sch"
+			(at 149.86 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlackPill_Trainer"
+				(path "/d7c4c5b1-8748-4281-b4a9-530e613fe77d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 44.45)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "50098b10-6856-4339-be4b-88a05fcb55b1")
+		(property "Sheetname" "Power"
+			(at 83.82 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 83.82 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 83.82 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BlackPill_Trainer"
+				(path "/d7c4c5b1-8748-4281-b4a9-530e613fe77d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 82.55)
+		(size 21.59 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "527a4ad5-d221-4cc7-9754-7a2809949a22")
+		(property "Sheetname" "Pinout"
+			(at 85.09 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pinout.kicad_sch"
+			(at 85.09 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 85.09 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BlackPill_Trainer"
+				(path "/d7c4c5b1-8748-4281-b4a9-530e613fe77d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 58.42)
+		(size 17.78 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5ed3fc86-0fd7-4d2b-ad40-bc5a1dc4926c")
+		(property "Sheetname" "STM32_BlackPill"
+			(at 116.84 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32_BlackPill.kicad_sch"
+			(at 116.84 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlackPill_Trainer"
+				(path "/d7c4c5b1-8748-4281-b4a9-530e613fe77d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 154.94 88.9)
+		(size 12.7 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bc55cf31-b9f2-484f-a2ff-6891e18a93ab")
+		(property "Sheetname" "Outputs"
+			(at 154.94 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Outputs.kicad_sch"
+			(at 154.94 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlackPill_Trainer"
+				(path "/d7c4c5b1-8748-4281-b4a9-530e613fe77d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

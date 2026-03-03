@@ -1,0 +1,443 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "12d3f83c-ddc1-458a-af55-6db61b02dc6c")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 119.38 147.32) (xy 132.08 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "471699b4-e234-4a11-80c2-4a7a780d7539")
+	)
+	(wire
+		(pts
+			(xy 119.38 130.81) (xy 132.08 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50e9f97a-5d50-45c1-b27d-cf7919ebffef")
+	)
+	(wire
+		(pts
+			(xy 119.38 128.27) (xy 132.08 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59bfddc9-bf13-44b1-b46e-aabe17195175")
+	)
+	(wire
+		(pts
+			(xy 119.38 144.78) (xy 132.08 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b9d7a4e-9384-451b-9d67-b7a2f4f8f857")
+	)
+	(wire
+		(pts
+			(xy 119.38 139.7) (xy 132.08 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bd60054-1ea3-46cd-abf0-499987167b83")
+	)
+	(wire
+		(pts
+			(xy 119.38 142.24) (xy 132.08 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91796ee8-af3a-405d-8b9e-cfda91ab9c9b")
+	)
+	(wire
+		(pts
+			(xy 119.38 125.73) (xy 132.08 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fd9aa7-a4bf-4b7c-8dce-5306a736bff2")
+	)
+	(wire
+		(pts
+			(xy 119.38 123.19) (xy 132.08 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9995f5b-452d-48b6-b549-dd710b90d42e")
+	)
+	(wire
+		(pts
+			(xy 119.38 137.16) (xy 132.08 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9ecccb2-94e7-4401-b56d-c0f2a455f528")
+	)
+	(sheet
+		(at 106.68 120.65)
+		(size 12.7 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c350ae8-b93e-4394-82d0-00344a56ba0a")
+		(property "Sheetname" "ESP32"
+			(at 106.68 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 106.68 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field3" ""
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field5" ""
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "IN_OP_2" input
+			(at 119.38 125.73 0)
+			(uuid "2bd7b18d-5351-4b94-a9b9-60c9d92ffc6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_OP_1" input
+			(at 119.38 123.19 0)
+			(uuid "6d1953b0-313b-4be4-b39e-41d90c009368")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_LED_1" input
+			(at 119.38 137.16 0)
+			(uuid "d389992e-7194-4de2-b940-aec1c12550db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_OP_3" input
+			(at 119.38 128.27 0)
+			(uuid "2cb73eee-df27-4ed2-9ff6-e98c9a9c40a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_LED_4" input
+			(at 119.38 144.78 0)
+			(uuid "cb002d3b-c265-45ed-8df1-8b7773d27061")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_LED_3" input
+			(at 119.38 142.24 0)
+			(uuid "54526802-7dfb-4710-a083-a8d5d4d210d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_OP_4" input
+			(at 119.38 130.81 0)
+			(uuid "4723b349-0679-4614-8a24-35b4e32d836f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_LED_2" input
+			(at 119.38 139.7 0)
+			(uuid "ecc12884-6c5e-4af0-b5e3-7087a08fc97e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_LED_5" input
+			(at 119.38 147.32 0)
+			(uuid "58151b7f-bd95-4ae4-bb2a-5b765834e16b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "AguaV1.0"
+				(path "/12d3f83c-ddc1-458a-af55-6db61b02dc6c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 120.65)
+		(size 12.7 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9f5b405e-29e7-4b9f-a49f-301186a44392")
+		(property "Sheetname" "IN_OUT"
+			(at 132.08 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IN_OUT.kicad_sch"
+			(at 132.08 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT_LED_4" input
+			(at 132.08 144.78 180)
+			(uuid "40fe170b-dcd6-45de-9dba-fee59e92cd8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_OP_1" input
+			(at 132.08 123.19 180)
+			(uuid "2b0ce38b-f8f4-4f5d-9ee6-585efe21a9cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_OP_2" input
+			(at 132.08 125.73 180)
+			(uuid "be66cdbf-22d6-4800-8ddc-99c7450929b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_LED_3" input
+			(at 132.08 142.24 180)
+			(uuid "acf80c76-d20a-4f5f-b0bf-3bb55e2cbfc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_LED_1" input
+			(at 132.08 137.16 180)
+			(uuid "6e08491e-6620-485d-9f27-a1cf1dff7fcb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_OP_3" input
+			(at 132.08 128.27 180)
+			(uuid "dd463caa-b13f-4f91-9f97-6f4f135cc88f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_LED_2" input
+			(at 132.08 139.7 180)
+			(uuid "99cfd32f-9bd6-40c9-ac92-2c3433e31683")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_OP_4" input
+			(at 132.08 130.81 180)
+			(uuid "360b76e9-7fa7-40bf-ae29-5b0832c1c374")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_LED_5" input
+			(at 132.08 147.32 180)
+			(uuid "a4232e05-030f-46d3-bcbe-30431c530998")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AguaV1.0"
+				(path "/12d3f83c-ddc1-458a-af55-6db61b02dc6c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 102.87)
+		(size 12.7 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bd4d4e35-047d-48c6-9ced-d79fb5aca4b0")
+		(property "Sheetname" "Power"
+			(at 106.68 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 106.68 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AguaV1.0"
+				(path "/12d3f83c-ddc1-458a-af55-6db61b02dc6c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

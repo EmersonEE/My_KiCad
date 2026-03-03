@@ -2198,6 +2198,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+12V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+12V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+12V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+12V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+12V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -2299,131 +2424,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:VCC"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "VCC"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VCC\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VCC_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VCC_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(junction
 		(at 161.29 63.5)
@@ -2498,10 +2498,10 @@
 		(uuid "a4956d86-dc3f-46a4-bf41-fd8d985918f2")
 	)
 	(junction
-		(at 85.09 53.34)
+		(at 85.09 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c08c24fd-bf75-4137-9a22-a232449b0d8a")
+		(uuid "b50d192f-d262-4197-b0e6-bca0db65602c")
 	)
 	(junction
 		(at 248.92 63.5)
@@ -2837,16 +2837,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 50.8) (xy 92.71 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35f18174-36b6-4235-bdd7-c1094efe93d5")
-	)
-	(wire
-		(pts
 			(xy 63.5 59.69) (xy 66.04 59.69)
 		)
 		(stroke
@@ -2884,16 +2874,6 @@
 			(type default)
 		)
 		(uuid "40b8e39c-4244-4a9b-bd38-6703c56d3dc1")
-	)
-	(wire
-		(pts
-			(xy 85.09 53.34) (xy 92.71 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4250b347-2ae2-4853-855e-923593e20fe0")
 	)
 	(wire
 		(pts
@@ -2987,6 +2967,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 52.07) (xy 92.71 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dab5e77-2bf7-4836-aebb-c660aab31382")
+	)
+	(wire
+		(pts
 			(xy 267.97 27.94) (xy 259.08 27.94)
 		)
 		(stroke
@@ -3014,16 +3004,6 @@
 			(type default)
 		)
 		(uuid "61ca9b17-0031-48c0-8257-eda15df100d4")
-	)
-	(wire
-		(pts
-			(xy 85.09 50.8) (xy 85.09 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "628dcf0f-0cf7-451f-b91c-93594fc317cb")
 	)
 	(wire
 		(pts
@@ -3157,7 +3137,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 41.91) (xy 91.44 50.8)
+			(xy 91.44 41.91) (xy 91.44 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3377,6 +3357,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 54.61) (xy 92.71 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7f0b216-540f-4c01-9e9d-6a7b56ecefcd")
+	)
+	(wire
+		(pts
 			(xy 180.34 30.48) (xy 182.88 30.48)
 		)
 		(stroke
@@ -3507,7 +3497,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 53.34) (xy 85.09 54.61)
+			(xy 85.09 50.8) (xy 85.09 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3719,7 +3709,7 @@
 			)
 		)
 	)
-	(global_label "ADC1"
+	(global_label "ADC2"
 		(shape input)
 		(at 133.35 102.87 270)
 		(fields_autoplaced yes)
@@ -3829,7 +3819,7 @@
 			)
 		)
 	)
-	(global_label "ADC2"
+	(global_label "ADC1"
 		(shape input)
 		(at 130.81 102.87 270)
 		(fields_autoplaced yes)
@@ -3977,7 +3967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "@EmersonPrez15:TO-220-3_VDC"
 			(at 254 74.295 0)
 			(effects
 				(font
@@ -4124,7 +4114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "@EmersonPrez15:TO-220-3_VDC"
 			(at 254 38.735 0)
 			(effects
 				(font
@@ -4167,6 +4157,72 @@
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/e2024343-7001-4b21-9393-3bf97457ac68"
 					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 85.09 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e619a6f-305e-4487-a128-d617e9a66f03")
+		(property "Reference" "#PWR035"
+			(at 85.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 85.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6cc1be0-bddc-4a2e-a6d4-290772e492ea")
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/e2024343-7001-4b21-9393-3bf97457ac68"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -4420,78 +4476,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 91.44 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "21817fdf-edd3-45a2-a2cf-dd24f261890d")
-		(property "Reference" "#PWR0107"
-			(at 91.44 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 91.44 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 91.44 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65fd8e0c-2c6c-4648-b604-4fe7ad33f130")
-		)
-		(instances
-			(project ""
-				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/e2024343-7001-4b21-9393-3bf97457ac68"
-					(reference "#PWR0107")
-					(unit 1)
-				)
-			)
-			(project "Caja-ESP32"
-				(path "/71670682-ca87-481d-9369-ec44d1a6d1e2"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Triac_Thyristor:BT136-800")
 		(at 161.29 72.39 0)
 		(unit 1)
@@ -4518,7 +4502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "@EmersonPrez15:TO-220-3_VDC"
 			(at 166.37 74.295 0)
 			(effects
 				(font
@@ -5254,7 +5238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "@EmersonPrez15:TO-220-3_VDC"
 			(at 166.37 38.735 0)
 			(effects
 				(font
@@ -5303,78 +5287,6 @@
 			(project ""
 				(path "/71670682-ca87-481d-9369-ec44d1a6d1e2"
 					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 85.09 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4da51219-2135-4f17-b7a5-27b6302bfa1e")
-		(property "Reference" "#PWR0106"
-			(at 85.09 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 85.09 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 85.09 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ad03f77-b857-403b-99ab-eff9038f93e8")
-		)
-		(instances
-			(project ""
-				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/e2024343-7001-4b21-9393-3bf97457ac68"
-					(reference "#PWR0106")
-					(unit 1)
-				)
-			)
-			(project "Caja-ESP32"
-				(path "/71670682-ca87-481d-9369-ec44d1a6d1e2"
-					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -5638,7 +5550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "@EmersonPrez15:TO-220-3_VDC"
 			(at 87.63 61.595 0)
 			(effects
 				(font
@@ -6136,7 +6048,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
+		(lib_id "power:+12V")
 		(at 58.42 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6144,8 +6056,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "876e5980-00fa-43b0-92ec-3dd01d461b43")
-		(property "Reference" "#PWR0105"
+		(uuid "7928fcd2-79d1-4246-97fc-69c5e7bfa412")
+		(property "Reference" "#PWR033"
 			(at 58.42 53.34 0)
 			(effects
 				(font
@@ -6154,7 +6066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "+12V"
 			(at 58.42 44.45 0)
 			(effects
 				(font
@@ -6180,7 +6092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
 			(at 58.42 49.53 0)
 			(effects
 				(font
@@ -6190,18 +6102,78 @@
 			)
 		)
 		(pin "1"
-			(uuid "5de4df2e-1cf5-46e9-b8a8-67e6c1ca632f")
+			(uuid "079a2dbb-ee43-465e-94cd-d1c4998adc56")
 		)
 		(instances
 			(project ""
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/e2024343-7001-4b21-9393-3bf97457ac68"
-					(reference "#PWR0105")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
-			(project "Caja-ESP32"
-				(path "/71670682-ca87-481d-9369-ec44d1a6d1e2"
-					(reference "#PWR021")
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 91.44 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84701f1d-d49f-4469-befa-bbc553b66f41")
+		(property "Reference" "#PWR034"
+			(at 91.44 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 91.44 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 91.44 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 91.44 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c791b773-c483-45e7-b0b0-13c425d69480")
+		)
+		(instances
+			(project "Dispensador_Garrafones_V2.0"
+				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/e2024343-7001-4b21-9393-3bf97457ac68"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -6649,16 +6621,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 97.79 50.8 0)
+		(at 97.79 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b4d8629f-eb4b-4cd6-8579-6ddeccafdcc3")
 		(property "Reference" "J5"
-			(at 100.33 50.7999 0)
+			(at 100.33 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6667,7 +6638,7 @@
 			)
 		)
 		(property "Value" "LOAD"
-			(at 100.33 53.3399 0)
+			(at 100.33 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6647,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 97.79 50.8 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6685,7 +6656,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 50.8 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6694,7 +6665,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 97.79 50.8 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6819,7 +6790,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 65.278 90)
 			(effects
 				(font
@@ -7315,7 +7286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 29.718 90)
 			(effects
 				(font
@@ -7461,7 +7432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 154.94 29.718 90)
 			(effects
 				(font
@@ -7535,7 +7506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 154.94 65.278 90)
 			(effects
 				(font

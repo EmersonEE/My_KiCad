@@ -2151,7 +2151,7 @@
 		)
 		(uuid "44c95f4c-18b4-4916-9738-4b9a6b931d5e")
 	)
-	(hierarchical_label "RELE_4"
+	(hierarchical_label "RELE_1"
 		(shape input)
 		(at 142.24 77.47 0)
 		(effects
@@ -2162,7 +2162,7 @@
 		)
 		(uuid "450e35a6-062a-4e53-bea1-2f31af89054a")
 	)
-	(hierarchical_label "RELE_2"
+	(hierarchical_label "RELE_3"
 		(shape input)
 		(at 142.24 72.39 0)
 		(effects
@@ -2206,7 +2206,7 @@
 		)
 		(uuid "6f78e6b1-8d1d-4ccd-ab95-c20006bce021")
 	)
-	(hierarchical_label "RELE_1"
+	(hierarchical_label "RELE_4"
 		(shape input)
 		(at 142.24 69.85 0)
 		(effects
@@ -2217,7 +2217,7 @@
 		)
 		(uuid "8530c5d5-dcf1-4691-953b-fc5d871d7c45")
 	)
-	(hierarchical_label "RELE_3"
+	(hierarchical_label "RELE_2"
 		(shape input)
 		(at 142.24 74.93 0)
 		(effects
