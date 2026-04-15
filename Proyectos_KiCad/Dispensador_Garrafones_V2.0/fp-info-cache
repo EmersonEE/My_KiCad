@@ -1,4 +1,4 @@
-48774402744417165
+50447492452941405
 @EmersonPrez15
 A4988
 A4988 Stepper Motor Driver Breakout Board
@@ -41,6 +41,13 @@ Arduino UNO R3
 0
 32
 32
+@EmersonPrez15
+BLACKPILL_V2
+
+
+0
+40
+40
 @EmersonPrez15
 CARITA_8x8mm
 
@@ -267,8 +274,8 @@ NODEMCU-ESP32S-NARROW
 38
 @EmersonPrez15
 SSD1306
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
+
+
 0
 4
 4
@@ -279,6 +286,13 @@ TIVA C 123
 0
 40
 39
+@EmersonPrez15
+TMC2209
+
+
+0
+16
+16
 @EmersonPrez15
 TO-220-3_VDC
 TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf, generated with kicad-footprint-generator TO_SOT_THT_generate.py
@@ -160950,6 +160964,6278 @@ A symbol representing annotation for tab placement
 0
 0
 0
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_1wire
+MeshAnchor_1W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 1 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+4
+4
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_2wire
+MeshAnchor_2W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 2 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+8
+8
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_3wire
+MeshAnchor_3W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 3 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+12
+12
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_4wire
+MeshAnchor_4W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 4 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+16
+16
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_5wire
+MeshAnchor_5W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 5 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+20
+20
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_6wire
+MeshAnchor_6W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 6 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+24
+24
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_7wire
+MeshAnchor_7W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 7 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+28
+28
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.100mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.100 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.120mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.120 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.150mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.150 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.200mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.200 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.250mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.250 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.300mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.300 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.350mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.350 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.400mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.400 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.500mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.500 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.600mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.600 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.700mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.700 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T0.800mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 0.800 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.000mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 1.000 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.200mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 1.200 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.500mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 1.500 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.100mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.100 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.120mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.120 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.150mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.150 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.200mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.200 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.300mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.300 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.400mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.400 mm clearance
+net tie
+0
+32
+32
+PCM_kimesh_anchors_8wire
+MeshAnchor_8W_T1.800mm_S0.500mm
+KiMesh mesh anchor footprint, 8 wires, 1.800 mm trace width, 0.500 mm clearance
+net tie
+0
+32
+32
 PCM_openinput
 PXI-DIP-16
 Optical Gaming Navigation Chip

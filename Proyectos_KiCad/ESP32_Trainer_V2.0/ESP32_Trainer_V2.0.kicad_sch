@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "aa25d196-97ca-4ba4-a796-8857defd9713")
 	(paper "A4")
 	(lib_symbols)
@@ -288,11 +288,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "0c4d56f0-dbcd-4d42-b5b3-67986a1fc8a3")
 		(property "Sheetname" "Power"
 			(at 55.88 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -302,6 +304,8 @@
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 55.88 94.5646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -350,11 +354,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "362f7f59-7893-47f2-93db-349c42e59720")
 		(property "Sheetname" "GPIO_OUT"
 			(at 118.11 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -364,6 +370,8 @@
 		)
 		(property "Sheetfile" "GPIO_OUT.kicad_sch"
 			(at 118.11 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -462,11 +470,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "3cd89fa4-5b79-4d74-a5ad-a06e5f920520")
 		(property "Sheetname" "Pin_Header"
 			(at 118.11 109.7784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -476,6 +486,8 @@
 		)
 		(property "Sheetfile" "Pin_Header.kicad_sch"
 			(at 118.11 159.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -654,11 +666,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "438974e5-ceb4-4adf-9a2b-cbcb9498dc1c")
 		(property "Sheetname" "ESP32"
 			(at 87.63 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -668,6 +682,8 @@
 		)
 		(property "Sheetfile" "ESP32.kicad_sch"
 			(at 87.63 159.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -966,11 +982,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c954342d-ef70-4dc1-99c4-0b72ed77c73f")
 		(property "Sheetname" "GPIO_IN"
 			(at 118.11 93.2684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -980,6 +998,8 @@
 		)
 		(property "Sheetfile" "GPIO_IN.kicad_sch"
 			(at 118.11 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
