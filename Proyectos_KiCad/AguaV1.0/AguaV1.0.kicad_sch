@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "12d3f83c-ddc1-458a-af55-6db61b02dc6c")
 	(paper "A4")
 	(lib_symbols)
@@ -108,11 +108,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "1c350ae8-b93e-4394-82d0-00344a56ba0a")
 		(property "Sheetname" "ESP32"
 			(at 106.68 119.9384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -122,6 +124,8 @@
 		)
 		(property "Sheetfile" "ESP32.kicad_sch"
 			(at 106.68 151.7146 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -131,15 +135,19 @@
 		)
 		(property "Field2" ""
 			(at 106.68 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Field3" ""
 			(at 106.68 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -148,6 +156,8 @@
 		)
 		(property "Field4" ""
 			(at 106.68 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -156,6 +166,8 @@
 		)
 		(property "Field5" ""
 			(at 106.68 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -273,11 +285,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9f5b405e-29e7-4b9f-a49f-301186a44392")
 		(property "Sheetname" "IN_OUT"
 			(at 132.08 119.9384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -287,6 +301,8 @@
 		)
 		(property "Sheetfile" "IN_OUT.kicad_sch"
 			(at 132.08 151.7146 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -405,11 +421,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "bd4d4e35-047d-48c6-9ced-d79fb5aca4b0")
 		(property "Sheetname" "Power"
 			(at 106.68 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -419,6 +437,8 @@
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 106.68 112.3446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)

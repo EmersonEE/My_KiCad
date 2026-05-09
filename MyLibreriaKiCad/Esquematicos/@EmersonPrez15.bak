@@ -5903,7 +5903,7 @@
 			(pin input line
 				(at -8.89 2.54 0)
 				(length 2.54)
-				(name "IN+"
+				(name "IN-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5921,7 +5921,7 @@
 			(pin input line
 				(at -8.89 -2.54 0)
 				(length 2.54)
-				(name "IN-"
+				(name "IN+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5939,7 +5939,7 @@
 			(pin output line
 				(at 8.89 2.54 180)
 				(length 2.54)
-				(name "+OUT"
+				(name "-OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5957,7 +5957,7 @@
 			(pin output line
 				(at 8.89 -2.54 180)
 				(length 2.54)
-				(name "-OUT"
+				(name "+OUT"
 					(effects
 						(font
 							(size 1.27 1.27)

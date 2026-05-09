@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "0292ef25-dc7e-42f1-b019-d6970f298ed7")
 	(paper "A4")
 	(lib_symbols)
@@ -178,11 +178,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "0f400d35-56c5-49e0-b18b-32396a436e4b")
 		(property "Sheetname" "Power"
 			(at 81.28 43.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -192,6 +194,8 @@
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 81.28 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -220,11 +224,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "6e10854a-81d1-4cb3-a96c-d4aac551c98c")
 		(property "Sheetname" "ESP01"
 			(at 116.84 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -234,6 +240,8 @@
 		)
 		(property "Sheetfile" "ESP01.kicad_sch"
 			(at 116.84 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -282,11 +290,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "78e5dc98-e72f-49be-b39f-d8e0779418c0")
 		(property "Sheetname" "Inputs"
 			(at 116.84 93.2684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -296,6 +306,8 @@
 		)
 		(property "Sheetfile" "Inputs.kicad_sch"
 			(at 116.84 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -414,11 +426,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "92b91cc5-0e32-4296-854e-0c86d9840eee")
 		(property "Sheetname" "Microcontrolador"
 			(at 80.01 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -428,6 +442,8 @@
 		)
 		(property "Sheetfile" "Microcontrolador.kicad_sch"
 			(at 80.01 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -616,11 +632,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "e2024343-7001-4b21-9393-3bf97457ac68")
 		(property "Sheetname" "Outpus"
 			(at 116.84 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -630,6 +648,8 @@
 		)
 		(property "Sheetfile" "Outpus.kicad_sch"
 			(at 116.84 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
