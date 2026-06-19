@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Resistencias_0.25W") (type "KiCad") (uri "/home/emerson/Documentos/My_KiCad/MyLibreriaKiCad/Resistencias_0.25W.pretty") (options "") (descr ""))
+	(lib (name "@EmersonPrez15") (type "KiCad") (uri "/home/emerson/Documentos/My_KiCad/MyLibreriaKiCad/@EmersonPrez15.pretty") (options "") (descr ""))
+	(lib (name "@EmersonPrez15") (type "KiCad") (uri "/home/emerson/Documentos/My_KiCad/MyLibreriaKiCad/@EmersonPrez15.pretty") (options "") (descr ""))
+	(lib (name "Resistencias_0.25W") (type "KiCad") (uri "/home/emerson/Documentos/My_KiCad/MyLibreriaKiCad/Resistencias_0.25W.pretty") (options "") (descr ""))
+)
