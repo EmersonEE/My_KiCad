@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "be7c9052-24f3-49e0-a412-dc113e197772")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 138.43 143.51)
+		(size 12.7 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0bcac0de-5d53-4836-b574-9346802439be")
+		(property "Sheetname" "Fase2"
+			(at 138.43 142.7984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Fase2.kicad_sch"
+			(at 138.43 158.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estroboscopico"
+				(path "/be7c9052-24f3-49e0-a412-dc113e197772"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 99.06)
+		(size 35.56 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a86c22d8-513b-4e69-9a29-76e79b5359dd")
+		(property "Sheetname" "Fase3"
+			(at 144.78 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Fase3.kicad_sch"
+			(at 144.78 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estroboscopico"
+				(path "/be7c9052-24f3-49e0-a412-dc113e197772"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 93.98)
+		(size 29.21 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d2e51048-79b0-4901-ab6f-e3ea19a6ca3b")
+		(property "Sheetname" "Fas1"
+			(at 77.47 93.2684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Fase1.kicad_sch"
+			(at 77.47 128.8546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estroboscopico"
+				(path "/be7c9052-24f3-49e0-a412-dc113e197772"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
