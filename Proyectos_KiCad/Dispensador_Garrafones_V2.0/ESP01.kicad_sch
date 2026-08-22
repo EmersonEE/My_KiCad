@@ -1466,7 +1466,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05d350f7-dca8-42a6-bb92-a5f8e9413cda")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR052"
 			(at 160.02 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1526,7 +1526,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR020")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -1544,7 +1544,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07c57156-0a0d-43d9-abda-aaf9126d138d")
-		(property "Reference" "U13"
+		(property "Reference" "U12"
 			(at 148.59 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1615,7 +1615,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "U13")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -1633,7 +1633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cef6921-b7cb-48a6-b722-c5ad6c041d0a")
-		(property "Reference" "R30"
+		(property "Reference" "R31"
 			(at 134.62 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1695,7 +1695,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "R30")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -1713,7 +1713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e154d30-5d29-469f-b35d-ea65e6f9a735")
-		(property "Reference" "U12"
+		(property "Reference" "U11"
 			(at 148.59 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1784,7 +1784,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "U12")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -1802,7 +1802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30448fe8-b321-468c-88f4-88fb633871a4")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR056"
 			(at 217.17 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1863,7 +1863,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR018")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -1881,7 +1881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d4c2202-bfe2-4dfe-8753-1e9acdb77273")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR049"
 			(at 138.43 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1941,7 +1941,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR019")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -1959,7 +1959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6283cb73-df3a-4b73-b7d0-89fe7456e725")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR051"
 			(at 160.02 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -2019,7 +2019,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR021")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -2037,7 +2037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ace0b45-fa6e-4074-a882-2ba81486ea2b")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR055"
 			(at 184.15 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -2098,7 +2098,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR017")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -2116,7 +2116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "748909f7-082e-4415-8bc0-65103f1bd4dd")
-		(property "Reference" "U9"
+		(property "Reference" "U13"
 			(at 207.01 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2196,7 +2196,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "U9")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -2214,7 +2214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c22a3dda-879e-4e08-82a1-adacbbffd069")
-		(property "Reference" "R31"
+		(property "Reference" "R33"
 			(at 162.56 31.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2278,7 +2278,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "R31")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -2296,7 +2296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca8b8b8d-dc88-438f-bfa3-8960c2332525")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR054"
 			(at 160.02 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2356,7 +2356,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR024")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -2374,7 +2374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdffbb7f-963d-42d7-89a6-7d015e4849b3")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR053"
 			(at 160.02 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2434,7 +2434,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR023")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -2452,7 +2452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc06cc27-07cb-44cb-af44-33f368fc432f")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR050"
 			(at 138.43 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2512,7 +2512,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "#PWR022")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -2530,7 +2530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd6da4b1-5bcf-45d9-83d6-e2e7a66d153c")
-		(property "Reference" "R33"
+		(property "Reference" "R34"
 			(at 162.56 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2594,7 +2594,7 @@
 		(instances
 			(project "Dispensador_Garrafones_V2.0"
 				(path "/0292ef25-dc7e-42f1-b019-d6970f298ed7/6e10854a-81d1-4cb3-a96c-d4aac551c98c"
-					(reference "R33")
+					(reference "R34")
 					(unit 1)
 				)
 			)

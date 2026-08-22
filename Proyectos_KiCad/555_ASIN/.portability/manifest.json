@@ -1,0 +1,63 @@
+{
+  "backed_up": [
+    {
+      "path": "555_ASIN.kicad_sch",
+      "backup": "backup/555_ASIN.kicad_sch"
+    },
+    {
+      "path": "555_ASIN.kicad_pcb",
+      "backup": "backup/555_ASIN.kicad_pcb"
+    }
+  ],
+  "created_files": [
+    "libs/PCM_SparkFun-PowerSymbol_local.kicad_sym",
+    "libs/PCM_Transistor_BJT_AKL_local.kicad_sym",
+    "libs/PCM_Diode_AKL_local.kicad_sym",
+    "sym-lib-table",
+    "libs/PCM_Diode_THT_AKL_local.pretty/D_DO-41_SOD81_P7.62mm_Horizontal.kicad_mod",
+    "libs/PCM_Package_TO_SOT_THT_AKL_local.pretty/TO-220-3_Vertical_BCE.kicad_mod",
+    "libs/PCM_Package_DIP_AKL_local.pretty/DIP-8_W7.62mm_LongPads.kicad_mod",
+    "fp-lib-table",
+    "packages3D/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.step",
+    "packages3D/Resistencias 0.25W/R5.1K_L8mm_0.25watts.step",
+    "packages3D/Capacitor_THT.3dshapes/CP_Radial_D5.0mm_P2.50mm.step",
+    "packages3D/LED_THT.3dshapes/LED_D5.0mm.step",
+    "packages3D/Capacitor_THT.3dshapes/C_Disc_D3.8mm_W2.6mm_P2.50mm.step",
+    "packages3D/Resistencias 0.25W/R4.7K_L8mm_0.25watts.step",
+    "packages3D/Resistencias 0.25W/R1K_L8mm_0.25watts.step",
+    "packages3D/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.step",
+    "packages3D/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.step",
+    "packages3D/Package_DIP.3dshapes/DIP-8_W7.62mm.step",
+    "packages3D/Resistencias 0.25W/R220_L8mm_0.25watts.step"
+  ],
+  "created_dirs": [
+    "libs",
+    "libs/PCM_Diode_THT_AKL_local.pretty",
+    "libs/PCM_Package_TO_SOT_THT_AKL_local.pretty",
+    "libs/PCM_Package_DIP_AKL_local.pretty",
+    "packages3D/TerminalBlock_Phoenix.3dshapes",
+    "packages3D/Resistencias 0.25W",
+    "packages3D/Capacitor_THT.3dshapes",
+    "packages3D/LED_THT.3dshapes",
+    "packages3D/Diode_THT.3dshapes",
+    "packages3D/Package_TO_SOT_THT.3dshapes",
+    "packages3D/Package_DIP.3dshapes"
+  ],
+  "summary": {
+    "symbols": {
+      "libraries": 3,
+      "files_copied": 3,
+      "remapped": 20
+    },
+    "footprints": {
+      "libraries": 3,
+      "files_copied": 3,
+      "remapped": 3
+    },
+    "models": {
+      "files_copied": 11,
+      "remapped": 16,
+      "unique_sources": 11
+    }
+  }
+}

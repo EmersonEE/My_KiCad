@@ -1,0 +1,648 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "6715dd99-d6ac-4518-a28a-36d9343792a8")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 149.86 72.39) (xy 156.21 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03a7235a-9223-422e-b05c-52719fb203f5")
+	)
+	(wire
+		(pts
+			(xy 149.86 80.01) (xy 156.21 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23373328-87c5-46de-b197-d8a4458202ee")
+	)
+	(wire
+		(pts
+			(xy 149.86 77.47) (xy 156.21 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26c1a18d-f0b6-4021-b024-ded69cabb15f")
+	)
+	(wire
+		(pts
+			(xy 149.86 60.96) (xy 156.21 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2be6bb72-ae86-487c-9dee-df2505423ad4")
+	)
+	(wire
+		(pts
+			(xy 149.86 40.64) (xy 156.21 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c1c35de-502e-43ae-a007-43c53448aad2")
+	)
+	(wire
+		(pts
+			(xy 149.86 50.8) (xy 156.21 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d3b7a72-4c00-426d-8bba-740c9c81a9e4")
+	)
+	(wire
+		(pts
+			(xy 149.86 82.55) (xy 156.21 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5da7a62a-add1-4f46-8318-b5613ad9972c")
+	)
+	(wire
+		(pts
+			(xy 149.86 74.93) (xy 156.21 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a55b3ba-82df-4a2f-ae63-1953b1733fd6")
+	)
+	(wire
+		(pts
+			(xy 149.86 90.17) (xy 156.21 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71fc5af6-83dd-4818-9a23-b64fa63d98bc")
+	)
+	(wire
+		(pts
+			(xy 149.86 43.18) (xy 156.21 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7da8103a-c972-4a56-ac01-5759e41232c7")
+	)
+	(wire
+		(pts
+			(xy 149.86 58.42) (xy 156.21 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9cfaed0-dec8-4455-8c4f-cc7f298057b4")
+	)
+	(wire
+		(pts
+			(xy 149.86 53.34) (xy 156.21 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc13d367-3f52-4e18-85e6-e6ca52ca2dad")
+	)
+	(wire
+		(pts
+			(xy 149.86 85.09) (xy 156.21 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deb93a34-6d42-42cb-a8f8-44d53ab7e512")
+	)
+	(wire
+		(pts
+			(xy 149.86 45.72) (xy 156.21 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea97787d-26b7-42f3-b530-86bc71c98e85")
+	)
+	(wire
+		(pts
+			(xy 149.86 48.26) (xy 156.21 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f62f37e8-530f-46b2-8eed-96ca22889c72")
+	)
+	(sheet
+		(at 156.21 69.85)
+		(size 21.59 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1d15d14c-87c8-457e-975a-0ebeaa31586c")
+		(property "Sheetname" "INPUTS"
+			(at 156.21 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INPUTS.kicad_sch"
+			(at 156.21 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN_P1" input
+			(at 156.21 72.39 180)
+			(uuid "5298ea6e-7701-4177-9f9e-6037f157813f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_FICHERO" input
+			(at 156.21 90.17 180)
+			(uuid "0f1d32b1-e0ce-47e6-9b16-466b0b37c154")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_P6" input
+			(at 156.21 85.09 180)
+			(uuid "7d2b1dd8-fb4b-4e68-a857-cf0db5874c53")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_P2" input
+			(at 156.21 74.93 180)
+			(uuid "32da8e43-7f49-42ea-88fb-c9737895d040")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_P3" input
+			(at 156.21 77.47 180)
+			(uuid "5818a7f2-dca7-46bc-9984-75c65157d324")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_P5" input
+			(at 156.21 82.55 180)
+			(uuid "0df75528-a110-4e9f-9c93-e3ec6987610d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_P4" input
+			(at 156.21 80.01 180)
+			(uuid "57d6271d-6b77-4d1a-9b03-e1a0442f8c67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dispenador_AguaESP32"
+				(path "/6715dd99-d6ac-4518-a28a-36d9343792a8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 35.56)
+		(size 21.59 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6f60c8b7-f283-4d30-8d65-870a3984922b")
+		(property "Sheetname" "OUTPUTS"
+			(at 156.21 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OUTPUTS.kicad_sch"
+			(at 156.21 65.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT_T2" input
+			(at 156.21 43.18 180)
+			(uuid "00176b2e-711f-408d-bc9f-e027de5fc3ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_T1" input
+			(at 156.21 40.64 180)
+			(uuid "bc6c22c7-6968-4338-a452-6e5696f91099")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_T3" input
+			(at 156.21 45.72 180)
+			(uuid "055dc830-85eb-4a72-8538-f6385265f18d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_T6" input
+			(at 156.21 53.34 180)
+			(uuid "ab390b4b-05e9-4a8d-a28a-44bf4fd74956")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_T4" input
+			(at 156.21 48.26 180)
+			(uuid "bcacdda1-cd93-42d0-b167-1ec539548a84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_T5" input
+			(at 156.21 50.8 180)
+			(uuid "313bcebd-7d86-4109-a8f1-d23bb23a9b25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_TI2" input
+			(at 156.21 60.96 180)
+			(uuid "172a941c-36b2-49cc-956b-c2a53334ab3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_TI1" input
+			(at 156.21 58.42 180)
+			(uuid "4790fc48-f5a8-44d5-85fe-ecf58dab6791")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dispenador_AguaESP32"
+				(path "/6715dd99-d6ac-4518-a28a-36d9343792a8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 35.56)
+		(size 26.67 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e7284cde-67e1-4185-85b4-f912288ec119")
+		(property "Sheetname" "ESP32"
+			(at 123.19 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 123.19 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT_T2" input
+			(at 149.86 43.18 0)
+			(uuid "055280ba-d95b-4a3d-b08b-4c9fa7845c64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_T5" input
+			(at 149.86 50.8 0)
+			(uuid "7e0b2246-413a-4ede-9daf-ef3e3c097538")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_TI2" input
+			(at 149.86 60.96 0)
+			(uuid "f3f57e57-8b12-4582-b96f-e31e30ed89d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_T4" input
+			(at 149.86 48.26 0)
+			(uuid "38c3bce4-c155-482c-bf0f-5e8fca4738a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_TI1" input
+			(at 149.86 40.64 0)
+			(uuid "5672719f-9b82-44c0-b3e0-6ca8488090d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_T1" input
+			(at 149.86 58.42 0)
+			(uuid "ca7a9c0a-6f67-42db-9335-c68122ae2f28")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_T3" input
+			(at 149.86 45.72 0)
+			(uuid "10dd78c0-e19f-4489-8136-b4355e1571d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_T6" input
+			(at 149.86 53.34 0)
+			(uuid "e889a87e-c536-4a02-b945-061507d8132f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_P3" input
+			(at 149.86 77.47 0)
+			(uuid "342781bb-0573-4baf-b2e0-2f823d769af6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_P2" input
+			(at 149.86 74.93 0)
+			(uuid "bdb12dba-8ef5-46c5-be06-289bdce7a1ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_P6" input
+			(at 149.86 85.09 0)
+			(uuid "1ca5aa93-0a8e-42b4-9042-f3307f25463c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_FICHERO" input
+			(at 149.86 90.17 0)
+			(uuid "58c736ac-a1a6-4ea5-8856-751cb3432dc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_P5" input
+			(at 149.86 82.55 0)
+			(uuid "44aa5b4e-a441-4be0-a95a-6ef0feb1c2b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_P4" input
+			(at 149.86 80.01 0)
+			(uuid "a219769f-9714-47c6-8459-262d643b2f84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_P1" input
+			(at 149.86 72.39 0)
+			(uuid "bb31a0e5-9e3c-4acc-bb76-683f1aea8ed5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dispenador_AguaESP32"
+				(path "/6715dd99-d6ac-4518-a28a-36d9343792a8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 35.56)
+		(size 21.59 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fe0adda7-306a-442b-96c6-ef12d5478e34")
+		(property "Sheetname" "Power"
+			(at 95.25 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 95.25 46.3046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Dispenador_AguaESP32"
+				(path "/6715dd99-d6ac-4518-a28a-36d9343792a8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

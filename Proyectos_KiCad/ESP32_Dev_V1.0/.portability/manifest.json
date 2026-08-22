@@ -1,0 +1,125 @@
+{
+  "backed_up": [
+    {
+      "path": "INPUTS.kicad_sch",
+      "backup": "backup/INPUTS.kicad_sch"
+    },
+    {
+      "path": "OUTPUT.kicad_sch",
+      "backup": "backup/OUTPUT.kicad_sch"
+    },
+    {
+      "path": "Microcontroller.kicad_sch",
+      "backup": "backup/Microcontroller.kicad_sch"
+    },
+    {
+      "path": "USB.kicad_sch",
+      "backup": "backup/USB.kicad_sch"
+    },
+    {
+      "path": "Fuente.kicad_sch",
+      "backup": "backup/Fuente.kicad_sch"
+    },
+    {
+      "path": "Pines.kicad_sch",
+      "backup": "backup/Pines.kicad_sch"
+    },
+    {
+      "path": "ESP32_Dev_V1.0.kicad_pcb",
+      "backup": "backup/ESP32_Dev_V1.0.kicad_pcb"
+    },
+    {
+      "path": "fp-lib-table",
+      "backup": "backup/fp-lib-table"
+    }
+  ],
+  "created_files": [
+    "libs/PCM_Diode_TVS_AKL_local.kicad_sym",
+    "libs/PCM_SparkFun-Capacitor_local.kicad_sym",
+    "libs/PCM_Optocoupler_AKL_local.kicad_sym",
+    "libs/PCM_SparkFun-PowerSymbol_local.kicad_sym",
+    "libs/PCM_SL_Resistors_local.kicad_sym",
+    "libs/PCM_SparkFun-Switch_local.kicad_sym",
+    "libs/PCM_SparkFun-Connector_local.kicad_sym",
+    "libs/PCM_LED_AKL_local.kicad_sym",
+    "libs/PCM_Diode_AKL_local.kicad_sym",
+    "libs/@EmersonPrez15_local.kicad_sym",
+    "libs/PCM_Transistor_MOSFET_AKL_local.kicad_sym",
+    "sym-lib-table",
+    "libs/PCM_SparkFun-Switch_local.pretty/Push_SMD_6x3.5mm.kicad_mod",
+    "libs/PCM_Package_TO_SOT_SMD_AKL_local.pretty/TO-252-2.kicad_mod",
+    "libs/PCM_SparkFun-Capacitor_local.pretty/Electrolytic_10.3x10.3mm.kicad_mod",
+    "libs/PCM_Package_TO_SOT_SMD_AKL_local.pretty/SOT-23.kicad_mod",
+    "libs/PCM_LED_THT_AKL_local.pretty/LED_D5.0mm-4_RGB_Wide_Pins.kicad_mod",
+    "libs/PCM_Package_TO_SOT_SMD_AKL_local.pretty/SOT-23-6.kicad_mod",
+    "libs/PCM_SparkFun-Connector_local.pretty/USB-C_16.kicad_mod",
+    "libs/PCM_Package_DIP_AKL_local.pretty/DIP-4_W7.62mm_LongPads.kicad_mod",
+    "libs/PCM_SL_Connectors_local.pretty/PinHeader_1x02_P2.54mm_Vertical.kicad_mod",
+    "packages3D/Resistor_SMD.3dshapes/R_0805_2012Metric.step",
+    "packages3D/Diode_SMD.3dshapes/D_SMA.step",
+    "packages3D/Capacitor_SMD.3dshapes/C_0805_2012Metric.step",
+    "packages3D/Package_TO_SOT_SMD.3dshapes/TO-252-2.step",
+    "packages3D/Inductor_SMD.3dshapes/L_AVX_LMLP07A7.step",
+    "packages3D/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step",
+    "packages3D/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.step",
+    "packages3D/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step",
+    "packages3D/Package_TO_SOT_SMD.3dshapes/SOT-23.step",
+    "packages3D/RF_Module.3dshapes/ESP32-WROOM-32E.step",
+    "packages3D/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step",
+    "packages3D/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x03_P2.54mm_Vertical.step",
+    "packages3D/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical.step",
+    "packages3D/LED_SMD.3dshapes/LED_0805_2012Metric.step",
+    "packages3D/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3266Y_Vertical.step",
+    "packages3D/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step",
+    "packages3D/Capacitor_SMD.3dshapes/CP_Elec_5x5.3.step",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.step",
+    "packages3D/Package_SO.3dshapes/SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm.step",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.step",
+    "packages3D/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step",
+    "packages3D/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.step",
+    "packages3D/Package_TO_SOT_SMD.3dshapes/SOT-223.step"
+  ],
+  "created_dirs": [
+    "libs",
+    "libs/PCM_SparkFun-Switch_local.pretty",
+    "libs/PCM_Package_TO_SOT_SMD_AKL_local.pretty",
+    "libs/PCM_SparkFun-Capacitor_local.pretty",
+    "libs/PCM_LED_THT_AKL_local.pretty",
+    "libs/PCM_SparkFun-Connector_local.pretty",
+    "libs/PCM_Package_DIP_AKL_local.pretty",
+    "libs/PCM_SL_Connectors_local.pretty",
+    "packages3D/Resistor_SMD.3dshapes",
+    "packages3D/Diode_SMD.3dshapes",
+    "packages3D/Capacitor_SMD.3dshapes",
+    "packages3D/Package_TO_SOT_SMD.3dshapes",
+    "packages3D/Inductor_SMD.3dshapes",
+    "packages3D/LED_SMD.3dshapes",
+    "packages3D/TerminalBlock_Phoenix.3dshapes",
+    "packages3D/Relay_THT.3dshapes",
+    "packages3D/RF_Module.3dshapes",
+    "packages3D/Package_SO.3dshapes",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes",
+    "packages3D/Connector_PinSocket_2.54mm.3dshapes",
+    "packages3D/Connector_Molex.3dshapes",
+    "packages3D/Potentiometer_THT.3dshapes",
+    "packages3D/Connector_BarrelJack.3dshapes"
+  ],
+  "summary": {
+    "symbols": {
+      "libraries": 11,
+      "files_copied": 11,
+      "remapped": 130
+    },
+    "footprints": {
+      "libraries": 7,
+      "files_copied": 9,
+      "remapped": 16
+    },
+    "models": {
+      "files_copied": 24,
+      "remapped": 83,
+      "unique_sources": 24
+    }
+  }
+}

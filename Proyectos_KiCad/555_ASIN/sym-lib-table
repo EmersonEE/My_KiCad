@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PCM_Diode_AKL_local")(type "KiCad")(uri "${KIPRJMOD}/libs/PCM_Diode_AKL_local.kicad_sym")(options "")(descr "Localized"))
+	(lib (name "PCM_SparkFun-PowerSymbol_local")(type "KiCad")(uri "${KIPRJMOD}/libs/PCM_SparkFun-PowerSymbol_local.kicad_sym")(options "")(descr "Localized"))
+	(lib (name "PCM_Transistor_BJT_AKL_local")(type "KiCad")(uri "${KIPRJMOD}/libs/PCM_Transistor_BJT_AKL_local.kicad_sym")(options "")(descr "Localized"))
+)

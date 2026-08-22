@@ -1013,7 +1013,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_Diode_AKL:1N4004"
+		(symbol "PCM_Diode_AKL_local:1N4004"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1239,7 +1239,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_SparkFun-PowerSymbol:GND"
+		(symbol "PCM_SparkFun-PowerSymbol_local:GND"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1338,7 +1338,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_SparkFun-PowerSymbol:VCC"
+		(symbol "PCM_SparkFun-PowerSymbol_local:VCC"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1461,7 +1461,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_SparkFun-PowerSymbol:VIN"
+		(symbol "PCM_SparkFun-PowerSymbol_local:VIN"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1584,7 +1584,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_Transistor_BJT_AKL:TIP49"
+		(symbol "PCM_Transistor_BJT_AKL_local:TIP49"
 			(pin_names
 				(hide yes)
 			)
@@ -2194,7 +2194,7 @@
 		(uuid "ff509ac9-2378-4700-aaa1-449c22f8f24b")
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 161.29 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2467,7 +2467,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:VIN")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:VIN")
 		(at 142.24 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2689,7 +2689,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 142.24 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2824,7 +2824,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:VIN")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:VIN")
 		(at 130.81 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2959,7 +2959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 177.8 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3026,7 +3026,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 86.36 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3093,7 +3093,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:VIN")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:VIN")
 		(at 114.3 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3160,7 +3160,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:VCC")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:VCC")
 		(at 177.8 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3365,7 +3365,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:VCC")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:VCC")
 		(at 88.9 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3572,7 +3572,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_Diode_AKL:1N4004")
+		(lib_id "PCM_Diode_AKL_local:1N4004")
 		(at 96.52 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3640,7 +3640,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 114.3 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3707,7 +3707,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:VIN")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:VIN")
 		(at 147.32 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3774,7 +3774,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 147.32 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3920,7 +3920,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_Transistor_BJT_AKL:TIP49")
+		(lib_id "PCM_Transistor_BJT_AKL_local:TIP49")
 		(at 175.26 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3993,7 +3993,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(lib_id "PCM_SparkFun-PowerSymbol_local:GND")
 		(at 130.81 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
