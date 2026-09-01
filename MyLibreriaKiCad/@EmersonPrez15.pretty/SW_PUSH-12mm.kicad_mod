@@ -1,0 +1,226 @@
+(footprint "SW_PUSH-12mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Generic SW PUSH 12mm, e.g https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/143/TL1100.pdf")
+	(tags "tact sw push 12mm")
+	(property "Reference" "REF**"
+		(at 5.83 -5.41 0)
+		(layer "F.SilkS")
+		(uuid "d7f8ee61-87b4-4c6e-8c82-a1e32819733c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_PUSH-12mm"
+		(at 6.37 10.5 0)
+		(layer "F.Fab")
+		(uuid "7399eb9c-4de5-44c2-bd2d-a441b22eb942")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc218c32-4399-4ea7-abeb-5fbbffd05e16")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed07eeec-3985-4a47-94a4-f991bedb19bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0.14 -3.61)
+		(end 0.14 -1.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0c822707-4972-441e-ac62-91cecae8fbb4")
+	)
+	(fp_line
+		(start 0.14 -3.61)
+		(end 12.36 -3.61)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "99f83f50-2439-40d1-9328-f9a4d3c27e18")
+	)
+	(fp_line
+		(start 0.14 1.2)
+		(end 0.14 3.8)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5bf9415d-c6fe-45d4-aad9-f3457a3a35ee")
+	)
+	(fp_line
+		(start 0.14 6.1)
+		(end 0.14 8.61)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "49fd6ff8-59b8-4432-a15a-b6fcb2c23990")
+	)
+	(fp_line
+		(start 12.36 -3.61)
+		(end 12.36 -1.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e7e8b067-cf53-4635-b6f1-4d180b393c0d")
+	)
+	(fp_line
+		(start 12.36 1.2)
+		(end 12.36 3.8)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5d777eb7-c4b9-4e64-8f54-a9b5bb65a084")
+	)
+	(fp_line
+		(start 12.36 6.1)
+		(end 12.36 8.61)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3881f589-3b8f-459f-8b31-82ff00d04f16")
+	)
+	(fp_line
+		(start 12.36 8.61)
+		(end 0.14 8.61)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f538f7b8-80de-4952-9cf7-78a6db4f7ba8")
+	)
+	(fp_circle
+		(center 6.25 2.5)
+		(end 9.8 2.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3628759a-37d3-4f17-b52d-942504c1c342")
+	)
+	(fp_rect
+		(start -1.5 -4.75)
+		(end 14 9.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "1580aaec-849a-43c3-8ff6-882789443cfe")
+	)
+	(fp_rect
+		(start 0.25 -3.5)
+		(end 12.25 8.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3bef01de-6bb9-4119-b6eb-ef98b4fd79c3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 6.25 2.5 0)
+		(layer "F.Fab")
+		(uuid "d8f26353-a1ea-4b5a-af08-ca4f4931a7d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0)
+		(size 3.2 1.9)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "016f637d-38f3-4f18-a20d-4c3b7b8b847a")
+	)
+	(pad "1" thru_hole oval
+		(at 12.5 0)
+		(size 3.2 1.9)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e9ba22f7-0c73-42a0-a756-e6963faa115c")
+	)
+	(pad "2" thru_hole oval
+		(at 0 5)
+		(size 3.2 1.9)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "12ae087e-92a1-4b3d-a944-e1a748bf7b36")
+	)
+	(pad "2" thru_hole oval
+		(at 12.5 5)
+		(size 3.2 1.9)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fe0724a4-d7d3-45db-8519-dbffb73111c9")
+	)
+	(embedded_fonts no)
+	(model "/home/emerson/Documentos/My_KiCad/MyLibreriaKiCad/3D_Models/12mm Push Button with Cap.STEP"
+		(offset
+			(xyz 6 -2.5 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 -180)
+		)
+	)
+)

@@ -1490,7 +1490,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 87.63) (xy 218.44 92.71)
+			(xy 218.44 78.74) (xy 218.44 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1510,7 +1510,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 87.63) (xy 213.36 95.25)
+			(xy 213.36 78.74) (xy 213.36 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1600,13 +1600,23 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 87.63) (xy 210.82 88.9)
+			(xy 210.82 78.74) (xy 210.82 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "70efa862-1a04-42e8-93ce-9231e30e2e12")
+	)
+	(wire
+		(pts
+			(xy 171.45 109.22) (xy 173.99 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "750a4203-bff2-4b0a-97bb-3b4ee20fe9df")
 	)
 	(wire
 		(pts
@@ -1680,7 +1690,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 87.63) (xy 215.9 92.71)
+			(xy 215.9 78.74) (xy 215.9 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2111,7 +2121,7 @@
 	)
 	(symbol
 		(lib_id "@EmersonPrez15:OLED_SSD1306")
-		(at 214.63 82.55 0)
+		(at 214.63 73.66 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2122,7 +2132,7 @@
 		(fields_autoplaced yes)
 		(uuid "78691018-0a19-4dc2-bc3c-082dc032ae26")
 		(property "Reference" "U12"
-			(at 220.98 78.7399 0)
+			(at 220.98 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2133,7 +2143,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 220.98 81.2799 0)
+			(at 220.98 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2143,8 +2153,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "@EmersonPrez15:LCD ST7920"
-			(at 220.98 83.8199 0)
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical"
+			(at 220.98 74.9299 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2156,7 +2166,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 82.55 0)
+			(at 214.63 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2167,7 +2177,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 82.55 0)
+			(at 214.63 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2193,6 +2203,85 @@
 			(project "Dispenador_AguaESP32"
 				(path "/6715dd99-d6ac-4518-a28a-36d9343792a8/e7284cde-67e1-4185-85b4-f912288ec119"
 					(reference "U12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 173.99 109.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e24ddf2-8b26-496a-ae05-5e1f74ea0dc1")
+		(property "Reference" "#PWR049"
+			(at 180.34 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 177.8 109.2199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 173.99 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 173.99 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9d5cc062-454e-4115-b32d-4833b3983b6a")
+		)
+		(instances
+			(project "Dispenador_AguaESP32"
+				(path "/6715dd99-d6ac-4518-a28a-36d9343792a8/e7284cde-67e1-4185-85b4-f912288ec119"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)

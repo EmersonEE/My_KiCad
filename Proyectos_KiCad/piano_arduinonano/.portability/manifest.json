@@ -1,0 +1,62 @@
+{
+  "backed_up": [
+    {
+      "path": "piano_arduinonano.kicad_sch",
+      "backup": "backup/piano_arduinonano.kicad_sch"
+    },
+    {
+      "path": "piano_arduinonano.kicad_pcb",
+      "backup": "backup/piano_arduinonano.kicad_pcb"
+    },
+    {
+      "path": "fp-lib-table",
+      "backup": "backup/fp-lib-table"
+    }
+  ],
+  "created_files": [
+    "libs/PCM_SparkFun-PowerSymbol_local.kicad_sym",
+    "libs/MCU_Module_local.kicad_sym",
+    "libs/power_local.kicad_sym",
+    "libs/Device_local.kicad_sym",
+    "libs/PCM_SL_Devices_local.kicad_sym",
+    "sym-lib-table",
+    "libs/PCM_LED_THT_AKL_local.pretty/LED_D5.0mm.kicad_mod",
+    "libs/PCM_Resistor_THT_AKL_local.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.kicad_mod",
+    "libs/@EmersonPrez15_local.pretty/SW_PUSH-12mm.kicad_mod",
+    "libs/@EmersonPrez15_local.pretty/SW_PUSH-12mmWhite.kicad_mod",
+    "libs/Module_local.pretty/Arduino_Nano.kicad_mod",
+    "libs/@EmersonPrez15_local.pretty/SW_PUSH-12mmBlue.kicad_mod",
+    "libs/@EmersonPrez15_local.pretty/SW_PUSH-12mmGreen.kicad_mod",
+    "packages3D/LED_THT.3dshapes/LED_D5.0mm.step",
+    "packages3D/3D_Models/12mm Push Button with Cap.STEP",
+    "packages3D/3D_Models/12mmPushButtonWhite.step",
+    "packages3D/3D_Models/12mmPushButtonGreen.step",
+    "packages3D/3D_Models/12mmPushButtonBlue.step"
+  ],
+  "created_dirs": [
+    "libs",
+    "libs/PCM_LED_THT_AKL_local.pretty",
+    "libs/PCM_Resistor_THT_AKL_local.pretty",
+    "libs/@EmersonPrez15_local.pretty",
+    "libs/Module_local.pretty",
+    "packages3D/LED_THT.3dshapes",
+    "packages3D/3D_Models"
+  ],
+  "summary": {
+    "symbols": {
+      "libraries": 5,
+      "files_copied": 5,
+      "remapped": 49
+    },
+    "footprints": {
+      "libraries": 4,
+      "files_copied": 7,
+      "remapped": 25
+    },
+    "models": {
+      "files_copied": 5,
+      "remapped": 16,
+      "unique_sources": 5
+    }
+  }
+}
