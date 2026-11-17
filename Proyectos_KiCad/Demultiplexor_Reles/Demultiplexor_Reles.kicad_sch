@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "6ba48b07-c6d8-49e1-a5f8-368b88a09d91")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 119.38 88.9)
+		(size 22.86 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "54d7d7d8-d24e-4441-b159-3a9ae88b13a7")
+		(property "Sheetname" "Demultiplexor"
+			(at 119.38 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Demultiplexor.kicad_sch"
+			(at 119.38 123.7746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Demultiplexor_Reles"
+				(path "/6ba48b07-c6d8-49e1-a5f8-368b88a09d91"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 88.9)
+		(size 21.59 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7de37c18-291e-4fab-a586-5e4c948b99d6")
+		(property "Sheetname" "Reles"
+			(at 153.67 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Reles.kicad_sch"
+			(at 153.67 123.7746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Demultiplexor_Reles"
+				(path "/6ba48b07-c6d8-49e1-a5f8-368b88a09d91"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

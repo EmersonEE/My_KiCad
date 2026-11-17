@@ -28691,6 +28691,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")

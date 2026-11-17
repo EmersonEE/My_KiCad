@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "54aab4e2-2484-486c-94e4-467c1765e2ac")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 93.98 63.5)
+		(size 20.32 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "04f7a465-adb7-4a71-b990-8287d0099748")
+		(property "Sheetname" "FUENTE"
+			(at 93.98 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FUENTE.kicad_sch"
+			(at 93.98 112.3446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Dev_V2.0"
+				(path "/54aab4e2-2484-486c-94e4-467c1765e2ac"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 86.36)
+		(size 17.78 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7eeb2b5f-db9a-46c5-913c-3e7813e60c53")
+		(property "Sheetname" "OUTPUT"
+			(at 233.68 85.6484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OUTPUT.kicad_sch"
+			(at 233.68 118.6946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Dev_V2.0"
+				(path "/54aab4e2-2484-486c-94e4-467c1765e2ac"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 60.96)
+		(size 24.13 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bebece7d-ab1b-4944-bc23-e6469bd76856")
+		(property "Sheetname" "INPUT"
+			(at 176.53 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INPUT.kicad_sch"
+			(at 176.53 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Dev_V2.0"
+				(path "/54aab4e2-2484-486c-94e4-467c1765e2ac"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 116.84)
+		(size 24.13 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cf4c1ead-cc86-43da-b4b5-5e0cc6daef19")
+		(property "Sheetname" "MICRO"
+			(at 171.45 116.1284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MICRO.kicad_sch"
+			(at 171.45 136.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Dev_V2.0"
+				(path "/54aab4e2-2484-486c-94e4-467c1765e2ac"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 223.52 63.5)
+		(size 29.21 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fc83c2cd-f259-4d1d-be46-41a6c3318eef")
+		(property "Sheetname" "PINES"
+			(at 223.52 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PINES.kicad_sch"
+			(at 223.52 72.9746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Dev_V2.0"
+				(path "/54aab4e2-2484-486c-94e4-467c1765e2ac"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

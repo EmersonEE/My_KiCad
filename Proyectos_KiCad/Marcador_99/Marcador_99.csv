@@ -1,0 +1,27 @@
+Reference,Qty,Value,DNP,Restantes Cantidad,Exclude from Board,Exclude from Simulation,Exclude from Position Files,Footprint,Datasheet
+AFF1,1,Display KC,X,,,,${EXCLUDE_FROM_POS_FILES},Display_7Segment:7SegmentLED_LTS6760_LTS6780,http://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+AFF2,1,Display KC,X,,,,${EXCLUDE_FROM_POS_FILES},Display_7Segment:7SegmentLED_LTS6760_LTS6780,http://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+"AFF3,AFF4",2,Display AN,X,2,,,${EXCLUDE_FROM_POS_FILES},Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+"C1,C5,C19",3,10uF_16V,X,1,,,${EXCLUDE_FROM_POS_FILES},Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,
+"C2,C3,C4,C6,C7,C8,C10,C11,C12,C13,C20,C21,C22,C23,C24,C25",26,100nF,X,25,,,${EXCLUDE_FROM_POS_FILES},Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,
+"C9,C14,C17,C18",4,470uF_25V,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,
+"C15,C16",2,470uF_16V,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,
+D1,1,Q0,X,,,,${EXCLUDE_FROM_POS_FILES},PCM_LED_THT_AKL:LED_D5.0mm,
+D2,1,Q1,X,,,,${EXCLUDE_FROM_POS_FILES},PCM_LED_THT_AKL:LED_D5.0mm,
+D3,1,Q2,X,,,,${EXCLUDE_FROM_POS_FILES},PCM_LED_THT_AKL:LED_D5.0mm,
+"D4,D5",2,Q3,X,,,,${EXCLUDE_FROM_POS_FILES},PCM_LED_THT_AKL:LED_D5.0mm,
+"J1,J2",3,VIN,,,,,${EXCLUDE_FROM_POS_FILES},"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+"R1,R2,R3,R4,R5,R6",9,10k,,,,,${EXCLUDE_FROM_POS_FILES},Resistencias_0.25W:10K,
+"R7,R8,R9",6,470,,,,,${EXCLUDE_FROM_POS_FILES},Resistencias_0.25W:470,
+"R12,R13,R14,R15,R16,R17,R25,R26",8,10K,,,,,${EXCLUDE_FROM_POS_FILES},Resistencias_0.25W:10K,
+"R18,R19,R20,R21,R22,R23,R24",10,470,,,,,${EXCLUDE_FROM_POS_FILES},Resistencias_0.25W:10K,
+RV1,1,potentiometer_RM065,,,,,${EXCLUDE_FROM_POS_FILES},PCM_SL_Devices:Potentiometer_RM065,
+"SW4,SW5,SW6,SW7,SW8",9,Push_Button,X,5,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_THT:SW_PUSH_6mm,
+U1,1,74LS08,,,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-14_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS08
+"U2,U18",2,74LS04,,,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-14_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS04
+"U3,U6,U20,U22",6,74LS90,X,4,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-14_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS90
+"U4,U15,U16",3,4017,,,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-16_W7.62mm_LongPads,http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf
+"U5,U7",2,74LS48,X,,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-16_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS48
+"U8,U9,U10,U11,U12,U13,U14",12,NE555P,X,10,,,${EXCLUDE_FROM_POS_FILES},Package_DIP:DIP-8_W7.62mm_LongPads,http://www.ti.com/lit/ds/symlink/ne555.pdf
+"U17,U19",2,74LS32,,,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-14_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS32
+"U21,U23",2,74LS47,,,,,${EXCLUDE_FROM_POS_FILES},PCM_Package_DIP_AKL:DIP-16_W7.62mm_LongPads,http://www.ti.com/lit/gpn/sn74LS47

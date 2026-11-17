@@ -1,0 +1,8065 @@
+(kicad_sch
+(version 20260306)
+(generator "eeschema")
+(generator_version "10.0")
+(uuid "90bb3956-00b9-4715-99fd-eb3ab3e0c6d7")
+	(paper
+		"A4"
+	)
+	(lib_symbols
+		(symbol
+			"Connector:Screw_Terminal_01x03"
+			(pin_names
+				(offset
+					1.016
+				)
+(hide yes)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"J"
+(at 0 5.08 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Value"
+				"Screw_Terminal_01x03"
+(at 0 -5.08 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Footprint"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"screw terminal"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_fp_filters"
+				"TerminalBlock*:*"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"Screw_Terminal_01x03_1_1"
+				(rectangle
+					(start
+						-1.27
+						3.81
+					)
+					(end
+						1.27
+						-3.81
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							background
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.5334 2.8702)
+(xy 0.3302 2.032)
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.5334 0.3302)
+(xy 0.3302 -0.508)
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.5334 -2.2098)
+(xy 0.3302 -3.048)
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.3556 3.048)
+(xy 0.508 2.2098)
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.3556 0.508)
+(xy 0.508 -0.3302)
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.3556 -2.032)
+(xy 0.508 -2.8702)
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(circle
+					(center
+						0
+						2.54
+					)
+					(radius
+						0.635
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(circle
+					(center
+						0
+						0
+					)
+					(radius
+						0.635
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(circle
+					(center
+						0
+						-2.54
+					)
+					(radius
+						0.635
+					)
+					(stroke
+(width 0.1524)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+(pin passive line (at -5.08 2.54 0) (length 3.81) (name "Pin_1" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -5.08 0 0) (length 3.81) (name "Pin_2" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -5.08 -2.54 0) (length 3.81) (name "Pin_3" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"Device:LED_Small"
+			(pin_numbers
+(hide yes)
+			)
+			(pin_names
+				(offset
+					0.254
+				)
+(hide yes)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"D"
+(at -1.27 3.175 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Value"
+				"LED_Small"
+(at -4.445 -2.54 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Footprint"
+				""
+(at 0 0 90)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				""
+(at 0 0 90)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"Light emitting diode, small symbol"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Sim.Pin"
+				"1=K 2=A"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"LED diode light-emitting-diode"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_fp_filters"
+				"LED* LED_SMD:* LED_THT:*"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"LED_Small_0_1"
+				(polyline
+					(pts
+(xy -0.762 -1.016)
+(xy -0.762 1.016)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0 0.762)
+(xy -0.508 1.27)
+(xy -0.254 1.27)
+(xy -0.508 1.27)
+(xy -0.508 1.016)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0.508 1.27)
+(xy 0 1.778)
+(xy 0.254 1.778)
+(xy 0 1.778)
+(xy 0 1.524)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0.762 -1.016)
+(xy -0.762 0)
+(xy 0.762 1.016)
+(xy 0.762 -1.016)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 1.016 0)
+(xy -0.762 0)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"LED_Small_1_1"
+(pin passive line (at -2.54 0 0) (length 1.778) (name "K" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 2.54 0 180) (length 1.778) (name "A" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"Device:R_Small"
+			(pin_numbers
+(hide yes)
+			)
+			(pin_names
+				(offset
+					0.254
+				)
+(hide yes)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"R"
+(at 0 0 90)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.016 1.016)))
+			)
+			(property
+				"Value"
+				"R_Small"
+(at 1.778 0 90)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Footprint"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"Resistor, small symbol"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"R resistor"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_fp_filters"
+				"R_*"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"R_Small_0_1"
+				(rectangle
+					(start
+						-0.762
+						1.778
+					)
+					(end
+						0.762
+						-1.778
+					)
+					(stroke
+(width 0.2032)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"R_Small_1_1"
+(pin passive line (at 0 2.54 270) (length 0.762) (name "" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 0 -2.54 90) (length 0.762) (name "" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"Isolator:PC817"
+			(pin_names
+				(offset
+					1.016
+				)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"U"
+(at -5.08 5.08 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Value"
+				"PC817"
+(at 0 5.08 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Footprint"
+				"Package_DIP:DIP-4_W7.62mm"
+(at -5.08 -5.08 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+				(effects
+					(font
+(size 1.27 1.27)
+						(italic
+							yes
+						)
+					)
+(justify left)
+				)
+			)
+			(property
+				"Datasheet"
+				"http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Description"
+				"DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"NPN DC Optocoupler"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_fp_filters"
+				"DIP*W7.62mm*"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"PC817_0_1"
+				(rectangle
+					(start
+						-5.08
+						3.81
+					)
+					(end
+						5.08
+						-3.81
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							background
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -5.08 2.54)
+(xy -2.54 2.54)
+(xy -2.54 -0.635)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -3.175 -0.635)
+(xy -1.905 -0.635)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -2.54 -0.635)
+(xy -2.54 -2.54)
+(xy -5.08 -2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -2.54 -0.635)
+(xy -3.175 0.635)
+(xy -1.905 0.635)
+(xy -2.54 -0.635)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.508 0.508)
+(xy 0.762 0.508)
+(xy 0.381 0.381)
+(xy 0.381 0.635)
+(xy 0.762 0.508)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.508 -0.508)
+(xy 0.762 -0.508)
+(xy 0.381 -0.635)
+(xy 0.381 -0.381)
+(xy 0.762 -0.508)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 2.54 1.905)
+(xy 2.54 -1.905)
+					)
+					(stroke
+(width 0.508)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 2.54 0.635)
+(xy 4.445 2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 3.048 -1.651)
+(xy 3.556 -1.143)
+(xy 4.064 -2.159)
+(xy 3.048 -1.651)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							outline
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 4.445 2.54)
+(xy 5.08 2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 4.445 -2.54)
+(xy 2.54 -0.635)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							outline
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 4.445 -2.54)
+(xy 5.08 -2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"PC817_1_1"
+(pin passive line (at -7.62 2.54 0) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -7.62 -2.54 0) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 7.62 -2.54 180) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 7.62 2.54 180) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"PCM_Diode_AKL:1N4007"
+			(body_styles
+				demorgan
+			)
+			(pin_numbers
+(hide yes)
+			)
+			(pin_names
+				(offset
+					1.016
+				)
+(hide yes)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"D"
+(at 0 5.08 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Value"
+				"1N4007"
+(at 0 2.54 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Footprint"
+				"PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				"https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"DO-41 Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"diode 1N4007 DO41"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_fp_filters"
+				"TO-???* *_Diode_* *SingleDiode* D_*"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"1N4007_0_1"
+				(polyline
+					(pts
+(xy -1.27 1.27)
+(xy -1.27 -1.27)
+(xy 1.27 0)
+(xy -1.27 1.27)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							outline
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -1.27 0)
+(xy 1.27 0)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 1.27 1.27)
+(xy 1.27 -1.27)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"1N4007_0_2"
+				(polyline
+					(pts
+(xy -2.54 -2.54)
+(xy 2.54 2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.889 -0.889)
+(xy -1.778 0)
+(xy 0.889 0.889)
+(xy 0 -1.778)
+(xy -0.889 -0.889)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							outline
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0 1.778)
+(xy 1.778 0)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"1N4007_1_1"
+(pin passive line (at 3.81 0 180) (length 2.54) (name "K" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -3.81 0 0) (length 2.54) (name "A" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+			)
+			(symbol
+				"1N4007_1_2"
+(pin passive line (at 2.54 2.54 180) (length 0) (name "K" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -2.54 -2.54 0) (length 0) (name "A" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"PCM_SparkFun-PowerSymbol:GND"
+			(power
+				global
+			)
+			(pin_names
+				(offset
+					0
+				)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"#PWR"
+(at 0 -6.35 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Value"
+				"GND"
+(at 0 -3.81 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					yes
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Footprint"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"Power symbol creates a global label with name \"GND\" , ground"
+(at 0 -8.89 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"SparkFun global power"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"GND_0_1"
+				(polyline
+					(pts
+(xy 0 0)
+(xy 0 -1.27)
+(xy 1.27 -1.27)
+(xy 0 -2.54)
+(xy -1.27 -1.27)
+(xy 0 -1.27)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"GND_1_1"
+(pin power_in line (at 0 0 270) (length 0) (hide yes) (name "GND" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"PCM_Transistor_BJT_AKL:2N3904"
+			(pin_names
+(hide yes)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"Q"
+(at 5.08 1.27 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Value"
+				"2N3904"
+(at 5.08 -1.27 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Footprint"
+				"PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+(at 5.08 2.54 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				"https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"transistor NPN 2N3904"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"2N3904_0_1"
+				(polyline
+					(pts
+(xy 0.635 1.905)
+(xy 0.635 -1.905)
+(xy 0.635 -1.905)
+					)
+					(stroke
+(width 0.508)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0.635 0.635)
+(xy 2.54 2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0.635 -0.635)
+(xy 2.54 -2.54)
+(xy 2.54 -2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(circle
+					(center
+						1.27
+						0
+					)
+					(radius
+						2.8194
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							background
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 1.27 -1.778)
+(xy 1.778 -1.27)
+(xy 2.286 -2.286)
+(xy 1.27 -1.778)
+(xy 1.27 -1.778)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							outline
+						)
+					)
+				)
+			)
+			(symbol
+				"2N3904_1_1"
+(pin passive line (at 2.54 -5.08 90) (length 2.54) (name "E" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -5.08 0 0) (length 5.715) (name "B" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 2.54 5.08 270) (length 2.54) (name "C" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"Relay:SANYOU_SRD_Form_C"
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"K"
+(at 11.43 3.81 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Value"
+				"SANYOU_SRD_Form_C"
+(at 11.43 1.27 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Footprint"
+				"Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+(at 11.43 -1.27 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)) (justify left))
+			)
+			(property
+				"Datasheet"
+				"http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"Sanyo SRD relay, Single Pole Miniature Power Relay,"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"Single Pole Relay SPDT"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_fp_filters"
+				"Relay*SPDT*SANYOU*SRD*Series*Form*C*"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"SANYOU_SRD_Form_C_0_0"
+				(polyline
+					(pts
+(xy 7.62 5.08)
+(xy 7.62 2.54)
+(xy 6.985 3.175)
+(xy 7.62 3.81)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"SANYOU_SRD_Form_C_0_1"
+				(rectangle
+					(start
+						-10.16
+						5.08
+					)
+					(end
+						10.16
+						-5.08
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							background
+						)
+					)
+				)
+				(rectangle
+					(start
+						-8.255
+						1.905
+					)
+					(end
+						-1.905
+						-1.905
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -7.62 -1.905)
+(xy -2.54 1.905)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -5.08 5.08)
+(xy -5.08 1.905)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -5.08 -5.08)
+(xy -5.08 -1.905)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -1.905 0)
+(xy -1.27 0)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy -0.635 0)
+(xy 0 0)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0.635 0)
+(xy 1.27 0)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 1.905 0)
+(xy 2.54 0)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 3.175 0)
+(xy 3.81 0)
+					)
+					(stroke
+(width 0.254)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 5.08 -2.54)
+(xy 3.175 3.81)
+					)
+					(stroke
+(width 0.508)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 5.08 -2.54)
+(xy 5.08 -5.08)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"SANYOU_SRD_Form_C_1_1"
+				(polyline
+					(pts
+(xy 2.54 3.81)
+(xy 3.175 3.175)
+(xy 2.54 2.54)
+(xy 2.54 5.08)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							outline
+						)
+					)
+				)
+(pin passive line (at 5.08 -7.62 90) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -5.08 -7.62 90) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 7.62 7.62 270) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+(pin passive line (at 2.54 7.62 270) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
+(pin passive line (at -5.08 7.62 270) (length 2.54) (name "" (effects (font (size 1.27 1.27)))) (number "5" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+		(symbol
+			"power:+5V"
+			(power
+				global
+			)
+			(pin_numbers
+(hide yes)
+			)
+			(pin_names
+				(offset
+					0
+				)
+(hide yes)
+			)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+			(in_pos_files
+				yes
+			)
+			(duplicate_pin_numbers_are_jumpers
+				no
+			)
+			(property
+				"Reference"
+				"#PWR"
+(at 0 -3.81 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Value"
+				"+5V"
+(at 0 3.556 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Footprint"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Datasheet"
+				""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"Description"
+				"Power symbol creates a global label with name \"+5V\""
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(property
+				"ki_keywords"
+				"global power"
+(at 0 0 0)
+				(show_name
+					no
+				)
+				(do_not_autoplace
+					no
+				)
+(hide yes)
+(effects (font (size 1.27 1.27)))
+			)
+			(symbol
+				"+5V_0_1"
+				(polyline
+					(pts
+(xy -0.762 1.27)
+(xy 0 2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0 2.54)
+(xy 0.762 1.27)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+				(polyline
+					(pts
+(xy 0 0)
+(xy 0 2.54)
+					)
+					(stroke
+(width 0)
+						(type
+							default
+						)
+					)
+					(fill
+						(type
+							none
+						)
+					)
+				)
+			)
+			(symbol
+				"+5V_1_1"
+(pin power_in line (at 0 0 90) (length 0) (name "" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts
+				no
+			)
+		)
+	)
+	(junction
+(at 69.85 40.64)
+(diameter 0)
+(color 0 0 0 0)
+(uuid "7a3a81df-c684-4a38-ade9-17130172dda5")
+	)
+	(wire
+		(pts
+(xy 106.68 33.02)
+(xy 106.68 35.56)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "2c0dd2f5-4f62-46d1-a573-f93a0e2193e4")
+	)
+	(wire
+		(pts
+(xy 33.02 53.34)
+(xy 33.02 54.61)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "3415297b-8fd5-4d82-8352-b7d298119a2b")
+	)
+	(wire
+		(pts
+(xy 26.67 40.64)
+(xy 27.94 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "371ba646-caa0-4f91-83de-060cb006e40b")
+	)
+	(wire
+		(pts
+(xy 33.02 48.26)
+(xy 33.02 45.72)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "55f6e395-cc61-44d6-a39f-e562e7e5ecc3")
+	)
+	(wire
+		(pts
+(xy 90.17 22.86)
+(xy 90.17 24.13)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "60643ec9-c7a8-4d20-90d3-92dbb2d750f4")
+	)
+	(wire
+		(pts
+(xy 53.34 29.21)
+(xy 53.34 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "7654caaf-af05-4039-ab6b-f5da0677ca63")
+	)
+	(wire
+		(pts
+(xy 104.14 33.02)
+(xy 104.14 34.29)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "78109ec1-254a-4f08-8074-14b21eeff8b9")
+	)
+	(wire
+		(pts
+(xy 82.55 22.86)
+(xy 82.55 24.13)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "8ae3e1e6-64f0-45c7-841a-06f7077853cd")
+	)
+	(wire
+		(pts
+(xy 53.34 40.64)
+(xy 50.8 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "9d73427c-0fd3-4035-8723-afc49f179c7d")
+	)
+	(wire
+		(pts
+(xy 69.85 40.64)
+(xy 82.55 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "a6bc2ea4-40ab-40a1-8d88-44d5ae56a07d")
+	)
+	(wire
+		(pts
+(xy 69.85 29.21)
+(xy 69.85 30.48)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "ae5a1bbd-7486-4c4c-a4e6-ddff646b203c")
+	)
+	(wire
+		(pts
+(xy 92.71 40.64)
+(xy 92.71 39.37)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "b505e3aa-9626-44ae-952b-da5c39bb6f17")
+	)
+	(wire
+		(pts
+(xy 69.85 38.1)
+(xy 69.85 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "c770784e-a2fb-4b04-b189-c9a6b2433098")
+	)
+	(wire
+		(pts
+(xy 33.02 40.64)
+(xy 35.56 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "cb99b370-c416-4cd6-8718-09c0a2f3d3c6")
+	)
+	(wire
+		(pts
+(xy 101.6 33.02)
+(xy 101.6 35.56)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "d2a99d3e-eb93-4502-8568-a1d4e7f0fff6")
+	)
+	(wire
+		(pts
+(xy 58.42 45.72)
+(xy 62.23 45.72)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "e95090b6-5f18-44c6-a681-04fed0455065")
+	)
+	(wire
+		(pts
+(xy 95.25 22.86)
+(xy 95.25 24.13)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "ea9820d5-132b-414d-abc2-2036269ceb7a")
+	)
+	(wire
+		(pts
+(xy 82.55 39.37)
+(xy 82.55 40.64)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "ec52cabd-24bd-45aa-b65e-eef4cbcb4d8d")
+	)
+	(wire
+		(pts
+(xy 50.8 45.72)
+(xy 53.34 45.72)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "efb3b2c8-1570-46d0-a007-e8f0cfafec79")
+	)
+	(wire
+		(pts
+(xy 69.85 50.8)
+(xy 69.85 54.61)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "f5007c7d-a412-48c8-96bb-942fdafdf1ce")
+	)
+	(wire
+		(pts
+(xy 33.02 45.72)
+(xy 35.56 45.72)
+		)
+		(stroke
+(width 0)
+			(type
+				default
+			)
+		)
+(uuid "fda69f0f-bb3b-4e9f-b18a-06fd0b4ab70c")
+	)
+	(global_label
+		"COM"
+(shape input)
+(at 92.71 40.64 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "01218930-edb0-4227-ba6f-6fb7885add16")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 92.71 47.6771 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NC"
+(shape input)
+(at 101.6 35.56 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "0f3a0b3f-0e86-466b-bde5-99b1cb52ec0d")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 101.6 41.1457 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA"
+(shape input)
+(at 106.68 35.56 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "98d9c872-dd6d-4eb6-913b-3e4d33fcb393")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 106.68 40.9643 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"COM"
+(shape input)
+(at 104.14 34.29 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "bd9f05da-b917-4b9d-bf8c-0fc85a7ec4c1")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 104.14 41.3271 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA"
+(shape input)
+(at 95.25 22.86 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "eb112505-5bfd-4aeb-bcc5-5e1d41127c61")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 95.25 17.4557 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(global_label
+		"NC"
+(shape input)
+(at 90.17 22.86 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "f9afa818-16c1-4291-aa62-8e01685ab0d9")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 90.17 17.2743 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(hierarchical_label
+		"OUT_1"
+(shape input)
+(at 26.67 40.64 180)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "cff2c184-b976-4149-8203-91d8033cefaf")
+	)
+	(symbol
+		(lib_id
+			"Device:LED_Small"
+		)
+(at 33.02 50.8 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "2348a9c9-2722-49f1-82fa-e90caea9186d")
+		(property
+			"Reference"
+			"D5"
+(at 34.544 50.8 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"LED_OPTO"
+(at 35.56 52.0064 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_LED_THT_AKL:LED_D3.0mm"
+(at 33.02 50.8 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 50.8 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Light emitting diode, small symbol"
+(at 33.02 50.8 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Sim.Pin"
+			"1=K 2=A"
+(at 33.02 50.8 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "67b11ab1-5b88-4654-be14-dcf326af1764"))
+(pin "1" (uuid "7cfdc7b2-bf7b-4fa0-a65a-0b759a50d7a4"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"D5"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 55.88 45.72 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "2c66f541-2f3b-435d-b004-b4ef9fad5aaf")
+		(property
+			"Reference"
+			"R6"
+(at 55.88 40.64 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"1K"
+(at 55.88 43.18 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 55.88 45.72 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 55.88 45.72 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 55.88 45.72 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "12e3ce9c-7212-4ddb-b47d-ca4b08ef686b"))
+(pin "1" (uuid "e14ec707-b789-404b-afb2-0b88db91ef33"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"R6"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 30.48 40.64 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "3295c109-f55c-4018-afa6-87d2ef5efc76")
+		(property
+			"Reference"
+			"R5"
+(at 30.48 35.56 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"200"
+(at 30.48 38.1 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 30.48 40.64 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 30.48 40.64 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 30.48 40.64 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "9034517e-c8f7-4bfe-a3f7-57fe232dac51"))
+(pin "1" (uuid "c0967571-2428-4eb3-93f6-28cc1bd6aca1"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"R5"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Diode_AKL:1N4007"
+		)
+(at 69.85 34.29 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "518c2b6f-3e85-4efa-b40a-b5bf9c6dbad5")
+		(property
+			"Reference"
+			"D6"
+(at 60.706 33.02 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"1N4007"
+(at 60.706 35.56 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+(at 69.85 34.29 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf"
+(at 69.85 34.29 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"DO-41 Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
+(at 69.85 34.29 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "100b45d5-1b4e-4d97-82cb-760778817b62"))
+(pin "2" (uuid "818b05fe-ce73-475b-9673-f9d94de613e3"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"D6"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Relay:SANYOU_SRD_Form_C"
+		)
+(at 87.63 31.75 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "613bf1db-5e95-4018-9a03-a9e91a76447c")
+		(property
+			"Reference"
+			"K1"
+(at 77.47 25.4 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"SANYOU_SRD_Form_C"
+(at 99.06 33.0199 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+(at 99.06 33.02 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Datasheet"
+			"http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+(at 87.63 31.75 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Sanyo SRD relay, Single Pole Miniature Power Relay,"
+(at 87.63 31.75 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "b6588057-480b-42cd-b2bf-408bb9dce337"))
+(pin "2" (uuid "70c7b152-4746-40fb-8cf5-cd54d4cfda22"))
+(pin "3" (uuid "ee777644-56e1-4aa2-95ec-81b26cf013d8"))
+(pin "5" (uuid "80114969-88ed-43b3-9dc2-b8cace1e2674"))
+(pin "1" (uuid "60923ef4-8541-4516-a75c-a6009c2bd9a9"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"K1"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 53.34 29.21 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "61d22e39-8d21-406b-833c-fbb1d84bba21")
+		(property
+			"Reference"
+			"#PWR024"
+(at 53.34 33.02 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 53.34 24.13 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 53.34 29.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 53.34 29.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 53.34 29.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "5fa52d09-1dff-4788-918f-3791d49f536b"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"#PWR024"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 33.02 54.61 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "663f68ab-1dee-4c34-b515-c39c542ae48a")
+		(property
+			"Reference"
+			"#PWR023"
+(at 33.02 60.96 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 33.02 58.42 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 33.02 54.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 54.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 33.02 63.5 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "038b2a85-2cb8-49c8-8fc4-410e727caffd"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"#PWR023"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Connector:Screw_Terminal_01x03"
+		)
+(at 104.14 27.94 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "7b423ef1-fc31-449e-abe1-49af1cc96bd6")
+		(property
+			"Reference"
+			"J2"
+(at 109.22 26.6699 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"RELE"
+(at 109.22 29.2099 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+(at 104.14 27.94 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 104.14 27.94 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+(at 104.14 27.94 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "35352b68-1360-44c6-8993-e73fcd31faff"))
+(pin "3" (uuid "24ae0e76-0c74-4f88-b19e-aa7de05a0dfb"))
+(pin "2" (uuid "c7af9a2f-951f-4dfa-b5fb-c45d0c1293d2"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"J2"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Isolator:PC817"
+		)
+(at 43.18 43.18 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "88ab8816-5c68-4423-aa38-efe7624a2f87")
+		(property
+			"Reference"
+			"U4"
+(at 43.18 34.29 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"PC817"
+(at 43.18 36.83 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_DIP_AKL:DIP-4_W7.62mm_LongPads"
+(at 38.1 48.26 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+			(effects
+				(font
+(size 1.27 1.27)
+					(italic
+						yes
+					)
+				)
+(justify left)
+			)
+		)
+		(property
+			"Datasheet"
+			"http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+(at 43.18 43.18 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Description"
+			"DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+(at 43.18 43.18 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "45a9c2cd-15a3-4371-8fe9-f6195f2d2cff"))
+(pin "3" (uuid "25f79f4d-6ab9-44a5-8208-20d45af9d037"))
+(pin "1" (uuid "3c9c47aa-d9c8-4e10-9d34-63fb375d8e2c"))
+(pin "2" (uuid "b7f092da-160b-4d97-940f-738c1d5ecfc1"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"U4"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 82.55 22.86 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "b2d55b53-d639-48e3-a028-7f7e15bc014a")
+		(property
+			"Reference"
+			"#PWR027"
+(at 82.55 26.67 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 82.55 17.78 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 82.55 22.86 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 82.55 22.86 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 82.55 22.86 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "ce43a048-cc3b-48ba-a1b0-40974f08fd4c"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"#PWR027"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Transistor_BJT_AKL:2N3904"
+		)
+(at 67.31 45.72 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "db3b60ce-a8e6-4d5f-82f7-0029f273faf9")
+		(property
+			"Reference"
+			"Q1"
+(at 72.39 44.4499 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"2N3904"
+(at 72.39 46.9899 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_TO_SOT_SMD_AKL:SOT-23W_BigPads"
+(at 72.39 43.18 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
+(at 67.31 45.72 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+(at 67.31 45.72 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "e80b0c1d-da66-40fc-b84e-7feb15d38860"))
+(pin "3" (uuid "4efa1a67-006b-48d0-a354-2493b3a79dfc"))
+(pin "1" (uuid "d0010069-90c8-4341-be56-10a72c17fa78"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"Q1"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 69.85 54.61 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "ef215932-b028-4946-80f7-ccc62f4bb63c")
+		(property
+			"Reference"
+			"#PWR025"
+(at 69.85 60.96 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 69.85 58.42 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 54.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 54.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 69.85 63.5 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "1e5e542a-87b7-4218-9f6a-8786550bd17a"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"#PWR025"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 69.85 29.21 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "fea11dd1-c178-4e0f-8d85-856a4d62dc15")
+		(property
+			"Reference"
+			"#PWR026"
+(at 69.85 33.02 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 69.85 24.13 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 29.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 29.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 69.85 29.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "c9b76683-63b4-42b6-9e25-42ce8dcb0dd6"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						"#PWR026"
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(junction
+(at 69.85 91.44)
+(diameter 0)
+(color 0 0 0 0)
+(uuid "394a913d-cfec-4e5f-92be-820b4d7c65cb")
+	)
+	(global_label
+		"COM_2"
+(shape input)
+(at 92.71 91.44 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "6df99c5a-1f7d-4e9b-909b-fabae54c6d10")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 92.71 98.4771 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NC_2"
+(shape input)
+(at 101.6 86.36 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "6e6efcbe-70bf-40f2-8f93-ec9949b071f6")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 101.6 91.9457 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA_2"
+(shape input)
+(at 106.68 86.36 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "0d9c800a-2aa6-401e-82e0-7dc9fa1b65e4")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 106.68 91.7643 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"COM_2"
+(shape input)
+(at 104.14 85.09 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "e4c9f947-9522-40d1-a27a-5bff9b087e63")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 104.14 92.1271 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA_2"
+(shape input)
+(at 95.25 73.66 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "10ab8d42-b9ad-4738-ad92-89f5845c8d81")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 95.25 68.2557 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(global_label
+		"NC_2"
+(shape input)
+(at 90.17 73.66 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "38cd02c8-8c1a-4f2b-b4da-d20772b11ed6")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 90.17 68.0743 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(hierarchical_label
+		"OUT_2"
+(shape input)
+(at 26.67 91.44 180)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "669e9803-bcf5-4138-8a5b-4ad3e16a868e")
+	)
+	(symbol
+		(lib_id
+			"Device:LED_Small"
+		)
+(at 33.02 101.6 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "c3772a60-784b-43cb-bf89-c79b525e8f8a")
+		(property
+			"Reference"
+			"D?"
+(at 34.544 101.6 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"LED_OPTO"
+(at 35.56 102.8064 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_LED_THT_AKL:LED_D3.0mm"
+(at 33.02 101.6 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 101.6 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Light emitting diode, small symbol"
+(at 33.02 101.6 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Sim.Pin"
+			"1=K 2=A"
+(at 33.02 101.6 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "ab5052ce-109c-40fe-8a7a-a7ede7fe08bd"))
+(pin "1" (uuid "49dd9cbd-9db0-416d-8f7a-0d282ef8f43d"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						D?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 55.88 96.52 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "8df85d48-28f0-46e7-aef9-07850047cf99")
+		(property
+			"Reference"
+			"R?"
+(at 55.88 91.44 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"1K"
+(at 55.88 93.98 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 55.88 96.52 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 55.88 96.52 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 55.88 96.52 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "f750741e-a1c8-4ea3-b818-cce28b26c435"))
+(pin "1" (uuid "3cb15a45-156f-44bb-b4ca-49fd12c9c32d"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						R?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 30.48 91.44 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "0de66c45-1839-442c-95f4-e9081e96e73d")
+		(property
+			"Reference"
+			"R?"
+(at 30.48 86.36 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"200"
+(at 30.48 88.9 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 30.48 91.44 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 30.48 91.44 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 30.48 91.44 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "76087dc7-dce6-4b31-b589-c12b3e65173f"))
+(pin "1" (uuid "dc73c352-8eba-4879-b189-e33e33abca86"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						R?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Diode_AKL:1N4007"
+		)
+(at 69.85 85.09 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "7394b677-45d7-4e88-939c-ab8d6dd33d44")
+		(property
+			"Reference"
+			"D?"
+(at 60.706 83.82 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"1N4007"
+(at 60.706 86.36 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+(at 69.85 85.09 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf"
+(at 69.85 85.09 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"DO-41 Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
+(at 69.85 85.09 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "e35ce710-ceca-4df5-9fdb-21dd96b19b2f"))
+(pin "2" (uuid "04f4aa02-e2ee-4ac3-b12d-6ce63f1b7b9a"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						D?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Relay:SANYOU_SRD_Form_C"
+		)
+(at 87.63 82.55 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "cd347370-c5cf-42d1-a012-63a7c61c7e29")
+		(property
+			"Reference"
+			"K?"
+(at 77.47 76.2 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"SANYOU_SRD_Form_C"
+(at 99.06 83.8199 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+(at 99.06 83.82 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Datasheet"
+			"http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+(at 87.63 82.55 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Sanyo SRD relay, Single Pole Miniature Power Relay,"
+(at 87.63 82.55 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "24507f5e-1365-40f8-a220-559b8069ed81"))
+(pin "2" (uuid "0a8dcb93-0d37-4804-9ec5-fe807b2ef495"))
+(pin "3" (uuid "5032afac-4100-476f-9d31-07574407529c"))
+(pin "5" (uuid "cccf2c3c-c80b-461b-9cb0-e75a9dd8a2a1"))
+(pin "1" (uuid "edac93fa-9797-40b4-a0d0-2c532e2dcb26"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						K?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 53.34 80.01 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "cb19bebb-8a63-43a9-839d-b0fa2e96bd8d")
+		(property
+			"Reference"
+			"#PWR?"
+(at 53.34 83.82 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 53.34 74.93 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 53.34 80.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 53.34 80.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 53.34 80.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "6009f922-b6ac-40f2-9c73-01efda2cba1a"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 33.02 105.41 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "b9f9adb4-72ce-4335-9dfc-a2e630790d3c")
+		(property
+			"Reference"
+			"#PWR?"
+(at 33.02 111.76 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 33.02 109.22 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 33.02 105.41 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 105.41 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 33.02 114.3 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "4eb1b9e8-0706-4711-85f6-6f066cba683c"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Connector:Screw_Terminal_01x03"
+		)
+(at 104.14 78.74 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "0987fe2e-87d9-4325-93b9-1cdc68d2c3da")
+		(property
+			"Reference"
+			"J?"
+(at 109.22 77.4699 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"RELE"
+(at 109.22 80.0099 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+(at 104.14 78.74 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 104.14 78.74 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+(at 104.14 78.74 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "e1244ccc-717f-45d6-bb43-f74d66d7cd91"))
+(pin "3" (uuid "76280309-c5e0-4343-85d4-72fd0ad7b657"))
+(pin "2" (uuid "a16e424f-e25b-429b-b72d-2ea784d5392b"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						J?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Isolator:PC817"
+		)
+(at 43.18 93.98 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "6da5cb05-b0a4-4ae0-8419-3846c14a1e1e")
+		(property
+			"Reference"
+			"U?"
+(at 43.18 85.09 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"PC817"
+(at 43.18 87.63 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_DIP_AKL:DIP-4_W7.62mm_LongPads"
+(at 38.1 99.06 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+			(effects
+				(font
+(size 1.27 1.27)
+					(italic
+						yes
+					)
+				)
+(justify left)
+			)
+		)
+		(property
+			"Datasheet"
+			"http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+(at 43.18 93.98 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Description"
+			"DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+(at 43.18 93.98 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "54a32c17-c1dd-4623-8dfb-828adf426ddb"))
+(pin "3" (uuid "1b1d438a-5ec9-45a2-afe2-d36aa10aecb3"))
+(pin "1" (uuid "b39d4906-1742-41ef-ab11-19cbbf90414c"))
+(pin "2" (uuid "4c51979b-5503-4743-9157-3b0e4c74010e"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						U?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 82.55 73.66 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "c373f4a9-3b87-4c5f-aba5-695c51191a07")
+		(property
+			"Reference"
+			"#PWR?"
+(at 82.55 77.47 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 82.55 68.58 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 82.55 73.66 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 82.55 73.66 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 82.55 73.66 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "60a9b042-cf7a-4ce0-a855-1b2dc0a94087"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Transistor_BJT_AKL:2N3904"
+		)
+(at 67.31 96.52 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "50944df1-bd19-41f1-8ea1-203f40c71e6c")
+		(property
+			"Reference"
+			"Q?"
+(at 72.39 95.2499 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"2N3904"
+(at 72.39 97.7899 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_TO_SOT_SMD_AKL:SOT-23W_BigPads"
+(at 72.39 93.98 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
+(at 67.31 96.52 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+(at 67.31 96.52 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "7396bc0e-3d22-46c5-9de2-ec96445f3a33"))
+(pin "3" (uuid "ecedb1fa-2f25-40af-9d89-c3b9f497e220"))
+(pin "1" (uuid "bfbd0fa7-5e25-4209-bc75-61b0ff931d2a"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						Q?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 69.85 105.41 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "c85606ff-00d9-4ff5-835a-3a4b51be8ba1")
+		(property
+			"Reference"
+			"#PWR?"
+(at 69.85 111.76 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 69.85 109.22 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 105.41 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 105.41 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 69.85 114.3 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "7fc12096-8c8b-4958-bd10-84056b35c6f4"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 69.85 80.01 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "d500d8a6-4864-44ce-b67f-f407e32b3e6c")
+		(property
+			"Reference"
+			"#PWR?"
+(at 69.85 83.82 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 69.85 74.93 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 80.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 80.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 69.85 80.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "ba396186-8330-4e28-b7b0-ae27dc24b58f"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(junction
+(at 69.85 142.24)
+(diameter 0)
+(color 0 0 0 0)
+(uuid "7cb72af8-1668-4dbb-8688-79312a48c5d8")
+	)
+	(global_label
+		"COM_3"
+(shape input)
+(at 92.71 142.24 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "6430aaa8-9d64-4dd2-bb51-78b3329ddb6f")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 92.71 149.2771 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NC_3"
+(shape input)
+(at 101.6 137.16 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "6e3eabf3-49e0-44ae-8444-823f021ba9ae")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 101.6 142.7457 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA_3"
+(shape input)
+(at 106.68 137.16 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "0fa5279f-a6dc-4457-a233-bd1bfbbff7c7")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 106.68 142.5643 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"COM_3"
+(shape input)
+(at 104.14 135.89 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "fb36f07e-a2d6-4b5c-89ee-4e7b85486602")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 104.14 142.9271 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA_3"
+(shape input)
+(at 95.25 124.46 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "13b6d336-a0da-4c89-8fd8-721b3e7a6876")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 95.25 119.0557 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(global_label
+		"NC_3"
+(shape input)
+(at 90.17 124.46 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "d4df8970-6b5b-4b1c-adcb-62c655988df9")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 90.17 118.8743 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(hierarchical_label
+		"OUT_3"
+(shape input)
+(at 26.67 142.24 180)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "d15a5fdc-eb58-47d7-b22c-e2718d3e0d19")
+	)
+	(symbol
+		(lib_id
+			"Device:LED_Small"
+		)
+(at 33.02 152.4 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "afb01fbf-6699-4be9-97a6-ec1d066eda84")
+		(property
+			"Reference"
+			"D?"
+(at 34.544 152.4 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"LED_OPTO"
+(at 35.56 153.6064 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_LED_THT_AKL:LED_D3.0mm"
+(at 33.02 152.4 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 152.4 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Light emitting diode, small symbol"
+(at 33.02 152.4 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Sim.Pin"
+			"1=K 2=A"
+(at 33.02 152.4 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "205afd41-67ab-4d02-81a5-e1f4a74e8fe1"))
+(pin "1" (uuid "f283276a-3343-4634-adfb-2165a392bbde"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						D?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 55.88 147.32 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "398514e1-c1eb-46b2-a46a-5b005ffda486")
+		(property
+			"Reference"
+			"R?"
+(at 55.88 142.24 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"1K"
+(at 55.88 144.78 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 55.88 147.32 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 55.88 147.32 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 55.88 147.32 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "b5b815a6-61a6-4c13-9636-c9c7bc068277"))
+(pin "1" (uuid "3d163ac7-4c54-4197-9052-25901c339b7e"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						R?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 30.48 142.24 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "8087da63-db53-436a-b6ca-86dc511c03a0")
+		(property
+			"Reference"
+			"R?"
+(at 30.48 137.16 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"200"
+(at 30.48 139.7 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 30.48 142.24 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 30.48 142.24 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 30.48 142.24 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "ea83cefe-9dc1-4354-be22-ef0bbcb72b04"))
+(pin "1" (uuid "bacc16b5-aef0-4369-9ac9-9240de0561a7"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						R?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Diode_AKL:1N4007"
+		)
+(at 69.85 135.89 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "3630d8c0-0970-43bf-ab27-ddd1c3ae34ee")
+		(property
+			"Reference"
+			"D?"
+(at 60.706 134.62 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"1N4007"
+(at 60.706 137.16 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+(at 69.85 135.89 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf"
+(at 69.85 135.89 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"DO-41 Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
+(at 69.85 135.89 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "479f6cc8-7496-44ba-9c47-facb6b5f06ae"))
+(pin "2" (uuid "876f0908-046d-4425-852d-4195411fbdb1"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						D?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Relay:SANYOU_SRD_Form_C"
+		)
+(at 87.63 133.35 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "dd6ec0a7-3fb2-43c4-987f-6b351095dfdf")
+		(property
+			"Reference"
+			"K?"
+(at 77.47 127 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"SANYOU_SRD_Form_C"
+(at 99.06 134.6199 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+(at 99.06 134.62 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Datasheet"
+			"http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+(at 87.63 133.35 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Sanyo SRD relay, Single Pole Miniature Power Relay,"
+(at 87.63 133.35 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "a57b6048-002b-4c78-bfb9-5b0368243a39"))
+(pin "2" (uuid "33ad266a-3c88-4329-a110-a97eaf1647d2"))
+(pin "3" (uuid "c787fe21-3da6-4934-b236-dcde16f63040"))
+(pin "5" (uuid "071fcec3-167d-4e11-af95-5cd15fc3028a"))
+(pin "1" (uuid "dd3fe941-89ab-4cc4-88ce-9b8b552e78d9"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						K?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 53.34 130.81 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "5e68e533-a444-4432-b299-3a7afa8caeda")
+		(property
+			"Reference"
+			"#PWR?"
+(at 53.34 134.62 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 53.34 125.73 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 53.34 130.81 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 53.34 130.81 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 53.34 130.81 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "d2103168-177a-44eb-bd8f-966f35010e28"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 33.02 156.21 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "4e21d1fa-37b2-4fd5-9fe0-38ff7b807bde")
+		(property
+			"Reference"
+			"#PWR?"
+(at 33.02 162.56 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 33.02 160.02 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 33.02 156.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 156.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 33.02 165.1 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "57045e1a-4b0b-469c-80c0-3a644df0f557"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Connector:Screw_Terminal_01x03"
+		)
+(at 104.14 129.54 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "bc0668b8-41cc-480d-b084-e9e61c71faac")
+		(property
+			"Reference"
+			"J?"
+(at 109.22 128.2699 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"RELE"
+(at 109.22 130.8099 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+(at 104.14 129.54 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 104.14 129.54 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+(at 104.14 129.54 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "64828bc4-79f1-4909-98e3-a01efb465150"))
+(pin "3" (uuid "a4f921de-08f7-4c0e-b896-832c16d4f162"))
+(pin "2" (uuid "c30567a3-ad6a-4daa-ad73-6c8adfa142fc"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						J?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Isolator:PC817"
+		)
+(at 43.18 144.78 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "51504366-9951-4211-b117-7dffeceecd07")
+		(property
+			"Reference"
+			"U?"
+(at 43.18 135.89 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"PC817"
+(at 43.18 138.43 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_DIP_AKL:DIP-4_W7.62mm_LongPads"
+(at 38.1 149.86 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+			(effects
+				(font
+(size 1.27 1.27)
+					(italic
+						yes
+					)
+				)
+(justify left)
+			)
+		)
+		(property
+			"Datasheet"
+			"http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+(at 43.18 144.78 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Description"
+			"DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+(at 43.18 144.78 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "c8f6d73e-a1cd-4b4a-86e8-beab8352ce29"))
+(pin "3" (uuid "494cc3ce-1828-4fd1-a09f-d74df19f0d43"))
+(pin "1" (uuid "c862f9ba-063c-4e1b-b49d-8811a5fd3223"))
+(pin "2" (uuid "68a390af-d11b-4a0f-b3d5-020d4097c331"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						U?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 82.55 124.46 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "76edf9aa-0e4b-4a7b-a919-786010caa881")
+		(property
+			"Reference"
+			"#PWR?"
+(at 82.55 128.27 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 82.55 119.38 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 82.55 124.46 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 82.55 124.46 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 82.55 124.46 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "4aaed297-73f9-469c-a151-020f9b232ec4"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Transistor_BJT_AKL:2N3904"
+		)
+(at 67.31 147.32 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "e90f850c-24d4-4bf3-8942-368a0ee73277")
+		(property
+			"Reference"
+			"Q?"
+(at 72.39 146.0499 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"2N3904"
+(at 72.39 148.5899 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_TO_SOT_SMD_AKL:SOT-23W_BigPads"
+(at 72.39 144.78 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
+(at 67.31 147.32 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+(at 67.31 147.32 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "46f85983-cb4a-4d4a-9016-ceba67ee5676"))
+(pin "3" (uuid "47374402-5f5c-4aea-a10c-5e3a76e38a4e"))
+(pin "1" (uuid "149d35b2-d701-4e4e-bfaa-abcf1b45da2a"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						Q?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 69.85 156.21 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "f49e2f1c-8fb9-456a-92e4-285b563a6803")
+		(property
+			"Reference"
+			"#PWR?"
+(at 69.85 162.56 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 69.85 160.02 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 156.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 156.21 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 69.85 165.1 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "551013df-7a0a-4ff3-8b7a-39e26e01f055"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 69.85 130.81 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "ad6a9c73-d310-4520-9dc3-8ba5b7f3a74d")
+		(property
+			"Reference"
+			"#PWR?"
+(at 69.85 134.62 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 69.85 125.73 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 130.81 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 130.81 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 69.85 130.81 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "b9170293-1a72-4b9d-8f77-12bbc8e0d145"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(junction
+(at 69.85 193.04)
+(diameter 0)
+(color 0 0 0 0)
+(uuid "073cfcff-ffda-4080-955e-d0e1bc74606b")
+	)
+	(global_label
+		"COM_4"
+(shape input)
+(at 92.71 193.04 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "42887020-0c1f-46f2-87b9-0fed76b4a60d")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 92.71 200.0771 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NC_4"
+(shape input)
+(at 101.6 187.96 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "29082d61-35b0-47c2-b25e-b2e344f364ea")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 101.6 193.5457 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA_4"
+(shape input)
+(at 106.68 187.96 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "394b6b30-ed51-42bf-804c-5153bf3bedc1")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 106.68 193.3643 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"COM_4"
+(shape input)
+(at 104.14 186.69 270)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "f2e93b1e-117c-40e3-95e1-b33a9fe1b2c7")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 104.14 193.7271 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+	)
+	(global_label
+		"NA_4"
+(shape input)
+(at 95.25 175.26 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "13774716-25bb-48af-a958-1040c6aba9ad")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 95.25 169.8557 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(global_label
+		"NC_4"
+(shape input)
+(at 90.17 175.26 90)
+(fields_autoplaced yes)
+(effects (font (size 1.27 1.27)) (justify left))
+(uuid "c230fee9-f1ce-46d0-9e9f-5f9db668038e")
+		(property
+			"Intersheetrefs"
+			"${INTERSHEET_REFS}"
+(at 90.17 169.6743 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+	)
+	(hierarchical_label
+		"OUT_4"
+(shape input)
+(at 26.67 193.04 180)
+(effects (font (size 1.27 1.27)) (justify right))
+(uuid "44b53544-ed4e-475b-b541-27eae0c6de79")
+	)
+	(symbol
+		(lib_id
+			"Device:LED_Small"
+		)
+(at 33.02 203.2 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "b32e07f3-907a-42f1-a219-2fad50428833")
+		(property
+			"Reference"
+			"D?"
+(at 34.544 203.2 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"LED_OPTO"
+(at 35.56 204.4064 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_LED_THT_AKL:LED_D3.0mm"
+(at 33.02 203.2 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 203.2 90)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Light emitting diode, small symbol"
+(at 33.02 203.2 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Sim.Pin"
+			"1=K 2=A"
+(at 33.02 203.2 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "fc9b0099-4d45-47c8-bf42-d4182399e1c2"))
+(pin "1" (uuid "e89235fc-d42e-44a6-8ec5-eda29a82618d"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						D?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 55.88 198.12 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "9d26576f-133f-4d0b-8f7f-77440fdd3182")
+		(property
+			"Reference"
+			"R?"
+(at 55.88 193.04 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"1K"
+(at 55.88 195.58 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 55.88 198.12 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 55.88 198.12 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 55.88 198.12 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "f4f804a3-5323-4a6d-b76d-03fe8880acc3"))
+(pin "1" (uuid "d37ce719-32dd-48a0-a71f-804fe9057bd6"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						R?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Device:R_Small"
+		)
+(at 30.48 193.04 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "8f4609c6-0e02-41cd-aac5-e712ecc0766a")
+		(property
+			"Reference"
+			"R?"
+(at 30.48 187.96 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.016 1.016)))
+		)
+		(property
+			"Value"
+			"200"
+(at 30.48 190.5 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Resistor_SMD_AKL:R_0805_2012Metric_Pad1.15x1.40mm"
+(at 30.48 193.04 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 30.48 193.04 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Resistor, small symbol"
+(at 30.48 193.04 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "8d641484-8fd3-4bbb-8732-4f8633e0251d"))
+(pin "1" (uuid "a2b106a3-6537-4986-a54b-e01a71ae1e59"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						R?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Diode_AKL:1N4007"
+		)
+(at 69.85 186.69 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "c0a0f84c-52a1-4bb7-8e81-3e613b5d0c44")
+		(property
+			"Reference"
+			"D?"
+(at 60.706 185.42 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"1N4007"
+(at 60.706 187.96 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal"
+(at 69.85 186.69 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf"
+(at 69.85 186.69 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"DO-41 Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
+(at 69.85 186.69 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "57282e77-7d2d-489a-8de2-c0da06733630"))
+(pin "2" (uuid "ffa8f278-0251-457c-9c81-fb482af132a0"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						D?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Relay:SANYOU_SRD_Form_C"
+		)
+(at 87.63 184.15 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(uuid "ddceeee4-8de4-46d6-8415-b7b14eddbee7")
+		(property
+			"Reference"
+			"K?"
+(at 77.47 177.8 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"SANYOU_SRD_Form_C"
+(at 99.06 185.4199 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+(at 99.06 185.42 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Datasheet"
+			"http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+(at 87.63 184.15 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Sanyo SRD relay, Single Pole Miniature Power Relay,"
+(at 87.63 184.15 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "4560f79b-557b-4fab-9d77-990f80a16fbc"))
+(pin "2" (uuid "c8d3e96e-5e40-41d2-8492-3f9e71500b45"))
+(pin "3" (uuid "e01b5214-2df6-4167-8f8a-5f60794134de"))
+(pin "5" (uuid "a4a6bd86-af66-4003-b4e0-64f044fd5a68"))
+(pin "1" (uuid "f4ace1d5-5341-4748-8c8d-ba6de28b5e64"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						K?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 53.34 181.61 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "8870efd0-e999-4091-84ba-b328c48cd441")
+		(property
+			"Reference"
+			"#PWR?"
+(at 53.34 185.42 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 53.34 176.53 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 53.34 181.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 53.34 181.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 53.34 181.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "872a15d0-eeb9-4be4-8e53-c7d628e5275e"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 33.02 207.01 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "d1be03ed-e32f-4bea-b764-d696db407b15")
+		(property
+			"Reference"
+			"#PWR?"
+(at 33.02 213.36 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 33.02 210.82 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 33.02 207.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 33.02 207.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 33.02 215.9 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "48acdd82-9d3b-4369-bdb2-87be0d74cc78"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Connector:Screw_Terminal_01x03"
+		)
+(at 104.14 180.34 90)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "76d305eb-40f0-4796-b70a-ad239eb78593")
+		(property
+			"Reference"
+			"J?"
+(at 109.22 179.0699 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Value"
+			"RELE"
+(at 109.22 181.6099 90)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify right))
+		)
+		(property
+			"Footprint"
+			"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+(at 104.14 180.34 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 104.14 180.34 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+(at 104.14 180.34 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "a4d02c20-4742-474a-abe7-214b2feb8a1c"))
+(pin "3" (uuid "2b382ec5-3c0f-45ed-aeeb-ce5b62bb4578"))
+(pin "2" (uuid "dc0a372d-a65e-4afa-b934-0d9d6a25717f"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						J?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"Isolator:PC817"
+		)
+(at 43.18 195.58 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "03cd2ca8-b6b7-4684-adfd-3a4ac0538582")
+		(property
+			"Reference"
+			"U?"
+(at 43.18 186.69 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"PC817"
+(at 43.18 189.23 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_DIP_AKL:DIP-4_W7.62mm_LongPads"
+(at 38.1 200.66 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+			(effects
+				(font
+(size 1.27 1.27)
+					(italic
+						yes
+					)
+				)
+(justify left)
+			)
+		)
+		(property
+			"Datasheet"
+			"http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+(at 43.18 195.58 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Description"
+			"DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+(at 43.18 195.58 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "4" (uuid "8daf2b03-f72d-42d9-82f5-b3dfb888f5b7"))
+(pin "3" (uuid "d6c6142f-19e7-4b57-9571-62ca9e77834f"))
+(pin "1" (uuid "5664fd03-5303-4b97-bb8d-35dfddf90d6e"))
+(pin "2" (uuid "3d6b0a6c-a67e-4540-9036-022bb9437492"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						U?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 82.55 175.26 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "a12e4c09-258c-4ca7-a40f-59cf201af1ef")
+		(property
+			"Reference"
+			"#PWR?"
+(at 82.55 179.07 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 82.55 170.18 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 82.55 175.26 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 82.55 175.26 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 82.55 175.26 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "d492bfc4-1495-41e7-8e00-25c26d2f4ca3"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_Transistor_BJT_AKL:2N3904"
+		)
+(at 67.31 198.12 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "92f584b3-b63a-47f4-95e1-a66765972945")
+		(property
+			"Reference"
+			"Q?"
+(at 72.39 196.8499 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Value"
+			"2N3904"
+(at 72.39 199.3899 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)) (justify left))
+		)
+		(property
+			"Footprint"
+			"PCM_Package_TO_SOT_SMD_AKL:SOT-23W_BigPads"
+(at 72.39 195.58 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			"https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
+(at 67.31 198.12 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+(at 67.31 198.12 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "2" (uuid "e951330b-697b-456c-a394-c8aa0e17cd54"))
+(pin "3" (uuid "d0e4589a-dddc-4d8b-943e-f679d1d91ed3"))
+(pin "1" (uuid "6bb1a110-7bbe-41d0-ae60-93ff627fca25"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						Q?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"PCM_SparkFun-PowerSymbol:GND"
+		)
+(at 69.85 207.01 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "5da8c8d0-03ac-4881-bae0-71edb8dfbfb0")
+		(property
+			"Reference"
+			"#PWR?"
+(at 69.85 213.36 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"GND"
+(at 69.85 210.82 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				yes
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 207.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 207.01 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"GND\" , ground"
+(at 69.85 215.9 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "eb46ba88-1344-49da-90c1-4a0500f6488d"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id
+			"power:+5V"
+		)
+(at 69.85 181.61 0)
+(unit 1)
+		(body_style
+			1
+		)
+(exclude_from_sim no)
+(in_bom yes)
+(on_board yes)
+		(in_pos_files
+			yes
+		)
+(dnp no)
+(fields_autoplaced yes)
+(uuid "36af24c8-8dc2-4702-b623-ecf76ec9f359")
+		(property
+			"Reference"
+			"#PWR?"
+(at 69.85 185.42 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Value"
+			"+5V"
+(at 69.85 176.53 0)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Footprint"
+			""
+(at 69.85 181.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Datasheet"
+			""
+(at 69.85 181.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+		(property
+			"Description"
+			"Power symbol creates a global label with name \"+5V\""
+(at 69.85 181.61 0)
+(hide yes)
+			(show_name
+				no
+			)
+			(do_not_autoplace
+				no
+			)
+(effects (font (size 1.27 1.27)))
+		)
+(pin "1" (uuid "733c1473-5aa3-4acb-9842-09c3acd8e104"))
+		(instances
+			(project
+				"Demultiplexor_Reles"
+				(path
+					"/6ba48b07-c6d8-49e1-a5f8-368b88a09d91/7de37c18-291e-4fab-a586-5e4c948b99d6"
+					(reference
+						#PWR?
+					)
+(unit 1)
+				)
+			)
+		)
+	)
+)
